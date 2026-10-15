@@ -1,34 +1,38 @@
-# DTTM 연구 시작 가이드
+# DTTM 연구 로드맵
 
-> ⚠️ **전제**: 저장소에 DTTM의 정의가 없어, 현재는 **DTTM = Digital Twin 기반 교통/관리(Traffic·Transport Management) 연구**로 가정했습니다.
-> 의미가 다르면 [`config/keywords.md`](config/keywords.md)의 검색 키워드만 고치면 매일 논문 검색이 그 주제로 바뀝니다.
+**DTTM = 동태적 임계전이모형 (Dynamic Threshold Transition Model)**, 이전 명칭은 CBTM입니다.
+경로는 S0 전경합 → S1 경합 → S2 경계 → S3 임계 → E1 전이 → S4 재구조화입니다.
+근거 문서는 「DTTM 개념 경계 판정·자료 수집과 반증 기준」 연구용 확장 초안(2026-09-27)입니다.
 
-## 1. 연구 단계별 할 일
+현재 정의와 문항은 **타당화 전의 가설**입니다. 따라서 연구는 "모형을 증명하는 일"이 아니라 "각 명제가 반증 기준을 통과하는지 단계적으로 확인하는 일"로 설계합니다.
 
-| 단계 | 기간(권장) | 할 일 | 산출물 |
+## 1. 단계별 할 일
+
+| 단계 | 할 일 | 명세서 근거 | 산출물 |
 |---|---|---|---|
-| ① 용어·범위 정의 | 1주 | DTTM의 정확한 정의, 대상 시스템(도로·철도·항만·공장 등), 연구 질문(RQ) 1~3개 확정 | 1쪽 연구 범위 문서 |
-| ② 문헌 조사 | 3~4주 | 서베이 논문 2~3편 정독 → 핵심 논문 30~50편 체계적 문헌고찰(PRISMA) | 문헌 매트릭스(저자·방법·데이터·한계) |
-| ③ 갭 분석 | 1~2주 | 기존 연구의 한계(실시간 동기화, 데이터 품질, 확장성, 검증 방법) 정리 → 기여점 도출 | 연구 갭 표 + 가설 |
-| ④ 데이터·도구 준비 | 2~4주 | 공개 데이터(METR-LA, PEMS-BAY, 국가교통정보센터, 공공데이터포털) 확보, 시뮬레이터(SUMO, CARLA) 및 모델 프레임워크(PyTorch) 구축 | 재현 가능한 실험 환경 |
-| ⑤ 베이스라인 재현 | 2~3주 | 대표 논문 1~2편의 결과 재현 | 베이스라인 성능표 |
-| ⑥ 제안 기법 개발 | 6~10주 | 모델링 → 실시간 미러링 → 예측/최적화(제어) → 검증의 DT 파이프라인 구현 | 프로토타입 + 실험 결과 |
-| ⑦ 평가·논문화 | 4~6주 | 정량지표(MAE/RMSE, 지연시간, 동기화 오차), 어블레이션, 사례연구 → 투고 | 학회/저널 원고 |
+| ① 사전등록 설계 | 분석 단위(개인/팀/조직)와 변화 대상(예: 새 업무 시스템)을 고정합니다. 시간 단위·기준선·시간 창·최소 지속기간·누락 처리·모형 비교 기준을 정합니다. | 2장, 12장 | OSF 사전등록서 |
+| ② 문헌 고찰 | 아래 4개 축의 문헌을 정리하고 DTTM의 차별점을 명시합니다. | 10~11장 | 문헌 매트릭스, 이론 비교표 |
+| ③ 내용타당도 | 국면별 후보문항 24개(4×6)를 전문가에게 검토받아 CVI를 산출합니다. 이어 인지면접을 2~3라운드 실시해 문항을 수정합니다. | 3~8장, COSMIN | 문항 수정 이력표 |
+| ④ 구조 검증 | 독립 표본 또는 분할 표본으로 EFA→CFA를 실시합니다. **6국면 / 5국면(S0 제외) / 연속차원 / 고차요인** 모형을 비교하고, E1은 반영형 요인이 아니라 사건으로 처리합니다. | 11장 | 요인구조 논문 1편 |
+| ⑤ 비용 역전 측정 | 유지비용·전환비용·관성 α를 **각각 따로** 측정합니다. 결과(전이)는 업무·행정 기록으로 독립적으로 확인해 순환논증을 막습니다. | 10장 | 비용 척도 + 사건 로그 양식 |
+| ⑥ 종단 연구 | 주간 12회 패널과 전후 면접을 실시합니다. 시점 간 측정동일성을 확인한 뒤 잠재전이분석(LTA), 변화점·생존모형, 다층모형을 적용합니다. 표본·파수는 사전 모의실험으로 정합니다. | 11장 | 종단 논문 1편 |
+| ⑦ 조기경보 탐색 | 일지·ESM으로 S2의 회복 지연과 변동성(자기상관·분산)이 전이를 예측하는지 검증합니다. 이 분석은 **탐색적 목적**에 한정합니다. | 5장, 13장 | 탐색 분석 보고서 |
+| ⑧ 판본 개정 | 13장의 결정 과제 5개에 답하고 명세서 제2판을 작성합니다. | 13장 | 명세서 제2판 |
 
-## 2. 먼저 읽을 논문 (시작점)
+**우선순위 제안:** ③→④를 먼저 진행하면 횡단 자료만으로도 첫 논문을 낼 수 있습니다. 기존 N=586 자료는 직접 검증 자료가 아니므로 이론 구성의 참고용으로만 씁니다.
 
-1. **Digital Twin AI: Opportunities and Challenges from LLMs to World Models** (2026, 서베이) — https://arxiv.org/abs/2601.01321
-2. **Architecting Digital Twins for Intelligent Transportation Systems** (2025) — https://arxiv.org/abs/2502.17646
-3. **AI-Powered CPS-Enabled Vulnerable-User-Aware Urban Transportation Digital Twin** — https://arxiv.org/abs/2501.10396
-4. **Autonomous Traffic Signal Optimization Using Digital Twin and Agentic AI** (2026) — https://arxiv.org/abs/2604.27753
-5. **Semantic Edge-Cloud Communication for Real-Time Urban Traffic Digital Twins** (2026.10) — https://arxiv.org/abs/2610.14187
+## 2. 문헌 고찰의 4개 축
+
+1. **임계전이·조기경보 이론:** Scheffer 외(2009), Dablander 외(2023, *Psychological Methods*), Helmich 외(2021, *Current Opinion in Psychology*), 「Slow down and be critical…」(2024, *Nature Reviews Psychology*), Smit 외(2025, *Clinical Psychological Science*)
+2. **조직 변화 단계 이론(비교 대상):** Lewin의 해빙-변화-재동결, 변화 준비도(readiness for change), 범이론적 변화단계모형(TTM), 단속평형 모형
+3. **종단·개인중심 방법:** 잠재전이분석(LTA) 가이드(Zyberaj 외, 2022), 측정동일성, 변화점 분석, 생존분석, 동적 구조방정식(DSEM)
+4. **척도 개발:** COSMIN 내용타당도·인지면접 기준, 김아영 외 「심리검사 제작의 실제」
 
 ## 3. 투고 후보
 
-- 저널: *IEEE Transactions on Intelligent Transportation Systems*, *Transportation Research Part C*, *IEEE Internet of Things Journal*, 한국ITS학회논문지
-- 학회: IEEE ITSC, IEEE IV, TRB Annual Meeting
+*Journal of Occupational and Organizational Psychology*, *Journal of Vocational Behavior*, *Journal of Applied Behavioral Science*, *Frontiers in Psychology*, 한국심리학회지: 산업 및 조직
 
 ## 4. 매일 논문 알림
 
-- 매일 **한국시간 새벽 1시경** 자동으로 최신 관련 논문을 검색해 `reports/YYYY-MM-DD.md`로 저장하고 이 브랜치에 커밋합니다.
+- 매일 한국시간 새벽 1시경에 최신 관련 논문을 검색해 `reports/YYYY-MM-DD.md`로 저장하고 이 브랜치에 커밋합니다.
 - 검색 주제는 [`config/keywords.md`](config/keywords.md)에서 바꿀 수 있습니다.
