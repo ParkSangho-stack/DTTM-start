@@ -44,7 +44,12 @@
 
 *Journal of Occupational and Organizational Psychology*, *Journal of Vocational Behavior*, *Journal of Applied Behavioral Science*, *Frontiers in Psychology*, 한국심리학회지: 산업 및 조직
 
-## 4. 매일 논문 알림
+## 4. 설문도구 주간보고와 문항은행
+
+- 매주 수요일 05:00(KST) 기준으로 6국면 설문도구 개발 현황을 `weekly/YYYY-MM-DD_Wnn.md`에 정리합니다. 첫 보고: [`weekly/2026-10-17_W00.md`](weekly/2026-10-17_W00.md)
+- 문항 수정안은 [`item_bank/`](item_bank/README.md)의 문항은행(`item_bank.csv`)에서 버전별로 관리하고, 실제 조사에는 동결된 조사판(`item_bank/releases/`)만 씁니다.
+
+## 5. 매일 논문 알림
 
 - 매일 한국시간 새벽 1시경에 최신 관련 논문을 검색해 `reports/YYYY-MM-DD.md`로 저장하고 이 브랜치에 커밋합니다.
 - 검색 주제는 [`config/keywords.md`](config/keywords.md)에서 바꿀 수 있습니다.
