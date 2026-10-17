@@ -29,6 +29,8 @@
 
 **연구절차와 일정:** 단계별 수행 과제, 산출물, 다음 단계로 넘어가는 관문, 연구자 1명 기준 우선순위와 약 32개월 일정은 [`docs/연구절차.md`](docs/연구절차.md)에 정리했습니다.
 
+**방법론 비교와 대안:** 대학생·직장인 대상 연구에서 이 설계가 적합한 이유와 한계, 대안 방법(ESM, 로그 자료, 회고적 타임라인, 실험, 계산 모형 등)은 [`docs/방법론_비교와_대안.md`](docs/방법론_비교와_대안.md)에 정리했습니다.
+
 ## 2. 문헌 고찰의 4개 축
 
 1. **임계전이·조기경보 이론:** Scheffer 외(2009), Dablander 외(2023, *Psychological Methods*), Helmich 외(2021, *Current Opinion in Psychology*), 「Slow down and be critical…」(2024, *Nature Reviews Psychology*), Smit 외(2025, *Clinical Psychological Science*)
