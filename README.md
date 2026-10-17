@@ -21,6 +21,8 @@
 
 **우선순위 제안:** ③→④를 먼저 진행하면 횡단 자료만으로도 첫 논문을 낼 수 있습니다. 기존 N=586 자료는 직접 검증 자료가 아니므로 이론 구성의 참고용으로만 씁니다.
 
+**연구방법 상세:** 인터뷰·암묵지 분석, EFA·CFA, LTA, 비선형 임계전이·이력효과 분석의 목적·자료·표본·절차·도구와 6국면 구분을 검증하는 대안모형은 [`docs/연구방법.md`](docs/연구방법.md)에 정리했습니다.
+
 ## 2. 문헌 고찰의 4개 축
 
 1. **임계전이·조기경보 이론:** Scheffer 외(2009), Dablander 외(2023, *Psychological Methods*), Helmich 외(2021, *Current Opinion in Psychology*), 「Slow down and be critical…」(2024, *Nature Reviews Psychology*), Smit 외(2025, *Clinical Psychological Science*)
