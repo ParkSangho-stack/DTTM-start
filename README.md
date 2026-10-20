@@ -48,7 +48,7 @@
 
 ## 4. 설문도구 주간보고와 문항은행
 
-- 매주 수요일 05:00(KST) 기준으로 6국면 설문도구 개발 현황을 `weekly/YYYY-MM-DD_Wnn.md`에 정리합니다. 첫 보고: [`weekly/2026-10-17_W00.md`](weekly/2026-10-17_W00.md)
+- 매주 수요일 05:00(KST) 기준으로 6국면 설문도구 개발 현황을 `weekly/YYYY-MM-DD_Wnn.md`에 정리합니다. 첫 보고: [`weekly/2026-10-17_W00.md`](weekly/2026-10-17_W00.md), 최신: [`weekly/2026-10-21_W01.md`](weekly/2026-10-21_W01.md)
 - 문항 수정안은 [`item_bank/`](item_bank/README.md)의 문항은행(`item_bank.csv`)에서 버전별로 관리하고, 실제 조사에는 동결된 조사판(`item_bank/releases/`)만 씁니다.
 
 ## 5. 매일 논문 알림
