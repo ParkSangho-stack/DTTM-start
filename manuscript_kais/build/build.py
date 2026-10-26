@@ -70,7 +70,7 @@ def make_reference(path):
     para_style(doc, "Normal", 10, align=J)
     para_style(doc, "Body Text", 10, align=J, indent_first=10)
     para_style(doc, "First Paragraph", 10, align=J, indent_first=10)
-    para_style(doc, "Compact", 8.5, align=WD_ALIGN_PARAGRAPH.LEFT, after=0, line=1.15)
+    para_style(doc, "Compact", 8.5, align=WD_ALIGN_PARAGRAPH.LEFT, after=0, line=1.15, indent_first=0)
     para_style(doc, "Title", 16, bold=True, align=C, before=0, after=6, line=1.3)
     para_style(doc, "Subtitle", 12, bold=True, align=C, after=10, line=1.2)
     para_style(doc, "Author", 10, align=C, after=14)
