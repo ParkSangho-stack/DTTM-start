@@ -132,6 +132,11 @@ def add_table_borders(docx_path):
             p.paragraph_format.first_line_indent = Pt(0)
             for r in p.runs:
                 r.font.size = Pt(8.5)
+        elif re.match(r"^\[\d+\] ", txt):
+            # 참고문헌: 번호 뒤 내어쓰기(본문과 같은 10pt)
+            p.paragraph_format.left_indent = Pt(24)
+            p.paragraph_format.first_line_indent = Pt(-24)
+            p.paragraph_format.space_after = Pt(4)
     doc.save(docx_path)
 
 

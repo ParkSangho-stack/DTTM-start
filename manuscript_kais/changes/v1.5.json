@@ -1,0 +1,436 @@
+{
+ "date": "2026-10-29",
+ "topic": "인용 번호식 [n] 전환, 참고문헌 영문·인용순 배열",
+ "manuscript": "동태적 임계전이모형(DTTM): 조직 구성원 변화의 상태공간 이론 (이론논문)",
+ "base": "v1.4 (2026-10-28)",
+ "summary": [
+  "학회 규정(본문 인용은 대괄호 번호, 참고문헌은 인용 순서대로)에 맞춰 본문 인용 88곳을 저자-연도 방식에서 [n] 번호 방식으로 모두 바꿨습니다. 번호는 본문에 처음 나오는 순서대로 [1]~[59]를 붙였습니다.",
+  "참고문헌 59편을 '국내/국외, 가나다·알파벳순'에서 '인용 순서 번호 목록' 하나로 합치고, 학회 형식(이름 약어 성, \"제목\", 학술지명, Vol., No., pp., 연도, DOI 링크)으로 바꿨습니다. 공저자가 5명 이상이면 앞의 3명과 et al.로 줄였습니다.",
+  "본문에서 저자 이름을 주어로 쓴 곳 18곳은 'Hom 등[4]은', 'Aguinis와 Bakker[6]는'처럼 이름을 남기고 번호를 붙였으며, 바뀐 표기에 맞게 조사(은/는, 와/과)를 다시 골랐습니다.",
+  "국내 문헌 7편은 오늘은 한글 서지 그대로 형식만 바꿨습니다. 규정상 참고문헌은 모두 영문이어야 하므로, 각 논문의 공식 영문 제목·학술지 영문명을 확인해 내일(v1.6) 바꿉니다. 확인되지 않은 영문 제목을 지어 넣지 않기 위해서입니다.",
+  "인용 표기가 짧아지면서 워드 쪽수가 25쪽에서 24쪽이 되었습니다(허용 범위 24~26쪽 안). 참고문헌은 본문과 같은 10pt에 번호 뒤 내어쓰기로 정리했습니다."
+ ],
+ "changes": [
+  {
+   "loc": "본문 전체 — 괄호 인용(70곳)",
+   "before": "…미치는 과정을(Bakker, Demerouti, & Sanz-Vergel, 2023), 자원보존이론은…",
+   "after": "…미치는 과정을[1], 자원보존이론은…",
+   "reason": "투고규정: 본문 인용은 대괄호 안 번호, 1부터 인용 순서대로"
+  },
+  {
+   "loc": "본문 전체 — 여러 문헌 동시 인용",
+   "before": "(김승완, 노성민, 2023; 심수진, 정지수, 2025; Hirva et al., 2026; Wu et al., 2026) / (Helmich et al., 2023, 2024)",
+   "after": "[10, 25, 26, 28] / [17, 33]",
+   "reason": "번호를 오름차순으로 묶음(연속 3개 이상이면 3-5처럼 범위 표기 규칙을 두었으나 이번 원고에는 해당 없음)"
+  },
+  {
+   "loc": "본문 전체 — 저자가 주어인 인용(18곳)",
+   "before": "Hom, Lee, Shaw, and Hausknecht(2017)는 / Bakker et al.(2023)은 / Van de Ven and Poole(1995)은 / 김승완과 노성민(2023)은",
+   "after": "Hom 등[4]은 / Bakker 등[1]은 / Van de Ven과 Poole[20]은 / 김승완과 노성민[10]은",
+   "reason": "문장 주어인 저자 이름은 남겨 읽기 흐름을 유지. 3인 이상은 '첫 저자 등', 2인은 'A와 B'. 조사는 바뀐 끝말(등/이름)에 맞게 다시 선택"
+  },
+  {
+   "loc": "1.2절 괄호 안 참조",
+   "before": "(다만 … 검토는 Cummings, Bridgman, & Brown, 2016 참조)",
+   "after": "(다만 … 검토는 Cummings 등[12] 참조)",
+   "reason": "괄호 안 설명문 속 인용도 번호로"
+  },
+  {
+   "loc": "6.5절 끝",
+   "before": "(조직몰입에 대한 국내 적용 예로 안정원, 이순묵, 2015 참조)",
+   "after": "(조직몰입에 대한 국내 적용 예는 [18] 참조)",
+   "reason": "같은 이유. 번호만 남으면 '예로'가 어색해 '예는'으로 바꿈"
+  },
+  {
+   "loc": "References 구성",
+   "before": "## 국내문헌(가나다순 7편) / ## 국외문헌(알파벳순 52편)",
+   "after": "[1]~[59] 인용 순서 단일 목록",
+   "reason": "투고규정: 참고문헌은 본문에 인용된 순서대로 작성"
+  },
+  {
+   "loc": "References — 학술지 논문 형식(예: [1])",
+   "before": "Bakker, A. B., Demerouti, E., & Sanz-Vergel, A. 2023. Job demands-resources theory: Ten years later. *Annual Review of …*, 10: 25-53. doi:10.1146/…",
+   "after": "A. B. Bakker, E. Demerouti, A. Sanz-Vergel, \"Job demands-resources theory: Ten years later\", *Annual Review of …*, Vol.10, pp.25-53, 2023. DOI: https://doi.org/10.1146/…",
+   "reason": "투고규정 4-9·4-10: 저자(이름 약어 뒤 성), 제목, 학술지명(이탤릭), 권, 호, 쪽수, 연도, DOI 순"
+  },
+  {
+   "loc": "References — 공저자 5명 이상(6편: [16][17][29][30][33][43])",
+   "before": "Scheffer, M., Bascompte, J., Brock, W. A., Brovkin, V., Carpenter, S. R., … & Sugihara, G.",
+   "after": "M. Scheffer, J. Bascompte, W. A. Brock, et al.",
+   "reason": "투고규정: 공동저자 5명 이상이면 줄여 표기할 수 있음. 집단 저자가 섞인 Wichers et al.(2016)[31]은 그대로 모두 적음"
+  },
+  {
+   "loc": "References — 논문번호형 쪽수(3편: [6][25][29])",
+   "before": "31: 100763 / 99(1): e70101 / 7(7): e41010",
+   "after": "Vol.31, Article 100763 / Vol.99, No.1, Article e70101 / Vol.7, No.7, Article e41010",
+   "reason": "쪽 범위가 아닌 논문번호임을 밝힘"
+  },
+  {
+   "loc": "References — 단행본·편저 장(6편)",
+   "before": "Ashforth, B. E. 2001. *Role transitions …*. Mahwah, NJ: Lawrence Erlbaum.",
+   "after": "B. E. Ashforth, *Role transitions …*, Lawrence Erlbaum, Mahwah, NJ, 2001.",
+   "reason": "학술지 논문과 같은 순서(저자, 제목, 출판사·지역, 연도)로 통일"
+  },
+  {
+   "loc": "서식 (build.py)",
+   "before": "참고문헌이 본문 문단 서식(첫 줄 들여쓰기)",
+   "after": "번호 뒤 내어쓰기(24pt), 문단 뒤 4pt",
+   "reason": "번호 목록이 한눈에 보이게 함"
+  }
+ ],
+ "metrics": [
+  [
+   "워드 쪽수(심사용 서식)",
+   "24쪽 (v1.4 25쪽) — 허용 범위 24~26쪽 안 ✔. 인용 표기가 짧아진 결과이며 본문 내용은 줄이지 않음"
+  ],
+  [
+   "1장 / 2장 (공백 제외)",
+   "3,140 → 2,883 / 5,106 → 4,729자 (인용 표기 단축분)"
+  ],
+  [
+   "3장 / 4장",
+   "4,072 → 4,072 / 4,942 → 4,645자"
+  ],
+  [
+   "5장 / 6장 / 7장 / 8장",
+   "3,286 → 3,255 / 3,870 → 3,674 / 2,606 → 2,523 / 471 → 471자"
+  ],
+  [
+   "References / Appendix",
+   "9,247 → 9,895자 / 881자"
+  ],
+  [
+   "바뀐 인용",
+   "88곳(괄호 인용 70곳 + 저자 주어 인용 18곳), 참고문헌 59편 모두 본문에서 인용됨(미인용 0편)"
+  ]
+ ],
+ "unverified": [
+  "국내 문헌 7편([8][9][10][18][19][27][28])은 아직 한글 서지입니다. 학회 규정상 영문으로 바꿔야 하며, 각 학술지에 실린 공식 영문 제목을 확인해 v1.6(10-30)에서 바꿉니다. 공식 영문 제목을 알고 계시면 알려 주세요.",
+  "공저자 5명 이상을 '앞 3명 + et al.'로 줄였습니다. 규정의 '줄여 표기할 수 있다'가 '첫 저자 + et al.'을 뜻하는지 학회 양식(붙임 2)에서 확인이 필요합니다. 양식을 올려 주시면 맞추겠습니다.",
+  "번호는 본문 첫 인용 순서로 붙였습니다. 요약·Abstract·표·그림에는 인용이 없어 순서에 영향이 없습니다.",
+  "v1.2의 원문 미확인 5건과 v1.3·v1.4의 결정 요청 사항(부가 상태 이름, 회귀 국면, Table 2 자기상관, 명제 1 기각 기준, Appendix 문항)은 아직 그대로입니다."
+ ],
+ "unchanged": [
+  "인용한 문헌의 범위(59편)와 본문 문장의 내용은 바꾸지 않았습니다. 인용 표기와 그에 붙은 조사만 바꿨습니다.",
+  "서지 자체(권·호·쪽·DOI)는 v1.4와 같습니다. 전수 확인은 v1.6에서 합니다."
+ ],
+ "next": [
+  "v1.6(10-30): 참고문헌 59편의 권·호·쪽·DOI를 전수 확인하고, DOI가 빠진 문헌은 확인되는 것만 보충합니다. 국내 문헌 7편을 공식 영문 제목·학술지 영문명으로 바꿉니다."
+ ],
+ "extra_tables": [
+  {
+   "title": "저자-연도 → 번호 대응표 (전체 59편)",
+   "note": "번호는 본문에 처음 인용된 순서입니다. 오른쪽 열은 새 참고문헌 표기입니다.",
+   "header": [
+    "번호",
+    "원래 표기(첫 저자, 연도)",
+    "새 참고문헌 표기"
+   ],
+   "rows": [
+    [
+     "[1]",
+     "Bakker (2023)",
+     "A. B. Bakker, E. Demerouti, A. Sanz-Vergel, \"Job demands-resources theory: Ten years later\", Annual Review of Organizational Psychology and Organizational Behavior, Vol.10, pp.25-53, 2023. DOI: https://doi.org/10.1146/annurev-orgpsych-120920-053933"
+    ],
+    [
+     "[2]",
+     "Hobfoll (2018)",
+     "S. E. Hobfoll, J. Halbesleben, J.-P. Neveu, M. Westman, \"Conservation of resources in the organizational context: The reality of resources and their consequences\", Annual Review of Organizational Psychology and Organizational Behavior, Vol.5, pp.103-128, 2018. DOI: https://doi.org/10.1146/annurev-orgpsych-032117-104640"
+    ],
+    [
+     "[3]",
+     "Meyer (1991)",
+     "J. P. Meyer, N. J. Allen, \"A three-component conceptualization of organizational commitment\", Human Resource Management Review, Vol.1, No.1, pp.61-89, 1991."
+    ],
+    [
+     "[4]",
+     "Hom (2017)",
+     "P. W. Hom, T. W. Lee, J. D. Shaw, J. P. Hausknecht, \"One hundred years of employee turnover theory and research\", Journal of Applied Psychology, Vol.102, No.3, pp.530-545, 2017. DOI: https://doi.org/10.1037/apl0000103"
+    ],
+    [
+     "[5]",
+     "Mitchell (2001)",
+     "T. R. Mitchell, L. R. James, \"Building better theory: Time and the specification of when things happen\", Academy of Management Review, Vol.26, No.4, pp.530-547, 2001."
+    ],
+    [
+     "[6]",
+     "Aguinis (2021)",
+     "H. Aguinis, R. M. Bakker, \"Time is of the essence: Improving the conceptualization and measurement of time\", Human Resource Management Review, Vol.31, Article 100763, 2021. DOI: https://doi.org/10.1016/j.hrmr.2020.100763"
+    ],
+    [
+     "[7]",
+     "Boon (2025)",
+     "C. T. Boon, K. Jiang, R. Eckardt, \"The role of time in strategic human resource management research: A review and research agenda\", Journal of Management, Vol.51, No.1, pp.172-211, 2025. DOI: https://doi.org/10.1177/01492063241264250"
+    ],
+    [
+     "[8]",
+     "김예진 (2024)",
+     "김예진, 김시형, 정다송, 이동훈, \"코로나 시기 한국 성인의 직무소진 변화궤적 분석: 잠재계층성장분석(LCGA)을 이용한 종단연구\", 한국심리학회지: 일반, Vol.43, No.5, pp.395-419, 2024. DOI: https://doi.org/10.22257/kjp.2024.12.43.5.395"
+    ],
+    [
+     "[9]",
+     "이윤수 (2026)",
+     "이윤수, \"직무 소진의 변화 궤적과 영향 요인 분석: JD-R 이론과 잠재 성장 모형을 중심으로\", 조직과 인사관리연구, Vol.50, No.2, pp.79-103, 2026. DOI: https://doi.org/10.36459/jom.2026.50.2.79"
+    ],
+    [
+     "[10]",
+     "김승완 (2023)",
+     "김승완, 노성민, \"장애인 근로자의 직무적합성과 조직몰입에 따른 잠재계층 전이 양상 및 영향요인 분석\", 한국정책연구, Vol.23, No.2, pp.89-108, 2023. DOI: https://doi.org/10.46330/jkps.2023.06.23.2.89"
+    ],
+    [
+     "[11]",
+     "Lewin (1947)",
+     "K. Lewin, \"Frontiers in group dynamics: Concept, method and reality in social science; social equilibria and social change\", Human Relations, Vol.1, No.1, pp.5-41, 1947."
+    ],
+    [
+     "[12]",
+     "Cummings (2016)",
+     "S. Cummings, T. Bridgman, K. G. Brown, \"Unfreezing change as three steps: Rethinking Kurt Lewin's legacy for change management\", Human Relations, Vol.69, No.1, pp.33-60, 2016. DOI: https://doi.org/10.1177/0018726715577707"
+    ],
+    [
+     "[13]",
+     "Prochaska (1983)",
+     "J. O. Prochaska, C. C. DiClemente, \"Stages and processes of self-change of smoking: Toward an integrative model of change\", Journal of Consulting and Clinical Psychology, Vol.51, No.3, pp.390-395, 1983."
+    ],
+    [
+     "[14]",
+     "Gersick (1991)",
+     "C. J. G. Gersick, \"Revolutionary change theories: A multilevel exploration of the punctuated equilibrium paradigm\", Academy of Management Review, Vol.16, No.1, pp.10-36, 1991."
+    ],
+    [
+     "[15]",
+     "Romanelli (1994)",
+     "E. Romanelli, M. L. Tushman, \"Organizational transformation as punctuated equilibrium: An empirical test\", Academy of Management Journal, Vol.37, No.5, pp.1141-1166, 1994."
+    ],
+    [
+     "[16]",
+     "Scheffer (2009)",
+     "M. Scheffer, J. Bascompte, W. A. Brock, et al., \"Early-warning signals for critical transitions\", Nature, Vol.461, pp.53-59, 2009."
+    ],
+    [
+     "[17]",
+     "Helmich (2024)",
+     "M. A. Helmich, M. J. Schreuder, L. F. Bringmann, et al., \"Slow down and be critical before using early warning signals in psychopathology\", Nature Reviews Psychology, Vol.3, No.11, pp.767-780, 2024. DOI: https://doi.org/10.1038/s44159-024-00369-y"
+    ],
+    [
+     "[18]",
+     "안정원 (2015)",
+     "안정원, 이순묵, \"조직몰입 3요소 모형의 내적구조 검토: 탐색적 구조방정식 모형(ESEM)의 적용\", 한국심리학회지: 산업 및 조직, Vol.28, No.4, pp.795-827, 2015."
+    ],
+    [
+     "[19]",
+     "김해룡 (2022)",
+     "김해룡, 양필석, \"조직변화 수용성의 선행변인 및 결과변인에 관한 연구\", 디지털융복합연구, Vol.20, No.4, pp.247-260, 2022. DOI: https://doi.org/10.14400/JDC.2022.20.4.247"
+    ],
+    [
+     "[20]",
+     "Van de Ven (1995)",
+     "A. H. Van de Ven, M. S. Poole, \"Explaining development and change in organizations\", Academy of Management Review, Vol.20, No.3, pp.510-540, 1995."
+    ],
+    [
+     "[21]",
+     "Ashforth (2001)",
+     "B. E. Ashforth, Role transitions in organizational life: An identity-based perspective, Lawrence Erlbaum, Mahwah, NJ, 2001."
+    ],
+    [
+     "[22]",
+     "Lee (1994)",
+     "T. W. Lee, T. R. Mitchell, \"An alternative approach: The unfolding model of voluntary employee turnover\", Academy of Management Review, Vol.19, No.1, pp.51-89, 1994."
+    ],
+    [
+     "[23]",
+     "Stouten (2018)",
+     "J. Stouten, D. M. Rousseau, D. De Cremer, \"Successful organizational change: Integrating the management practice and scholarly literatures\", Academy of Management Annals, Vol.12, No.2, pp.752-788, 2018. DOI: https://doi.org/10.5465/annals.2016.0095"
+    ],
+    [
+     "[24]",
+     "Oreg (2018)",
+     "S. Oreg, J. M. Bartunek, G. Lee, B. Do, \"An affect-based model of recipients' responses to organizational change events\", Academy of Management Review, Vol.43, No.1, pp.65-86, 2018. DOI: https://doi.org/10.5465/amr.2014.0335"
+    ],
+    [
+     "[25]",
+     "Wu (2026)",
+     "Z. Wu, C. Q. Lu, J. Akkermans, \"The dynamics of employees' career sustainability: A latent transition analysis\", Journal of Occupational and Organizational Psychology, Vol.99, No.1, Article e70101, 2026. DOI: https://doi.org/10.1111/joop.70101"
+    ],
+    [
+     "[26]",
+     "Hirva (2026)",
+     "L. Hirva, S. Mauno, A. Mäkikangas, \"Development of job burnout and job performance: A latent profile and transition analysis over three years\", Work & Stress, Vol.40, No.1, pp.104-124, 2026. DOI: https://doi.org/10.1080/02678373.2026.2618069"
+    ],
+    [
+     "[27]",
+     "김미정 (2025)",
+     "김미정, 이종현, 최재운, \"직장인들의 직무스트레스와 심리적·신체적 회복에 대한 잠재프로파일 분석\", 한국심리학회지: 산업 및 조직, Vol.38, No.3, pp.335-374, 2025. DOI: https://doi.org/10.24230/kjiop.v38i3.335-374"
+    ],
+    [
+     "[28]",
+     "심수진 (2025)",
+     "심수진, 정지수, \"공공조직의 직장만족도에 관한 잠재프로파일 분석: 경찰공무원의 조직관리 방안의 도출\", 경찰학연구, Vol.25, No.1, pp.191-223, 2025."
+    ],
+    [
+     "[29]",
+     "Dakos (2012)",
+     "V. Dakos, S. R. Carpenter, W. A. Brock, et al., \"Methods for detecting early warnings of critical transitions in time series illustrated using simulated ecological data\", PLoS ONE, Vol.7, No.7, Article e41010, 2012."
+    ],
+    [
+     "[30]",
+     "van de Leemput (2014)",
+     "I. A. van de Leemput, M. Wichers, A. O. J. Cramer, et al., \"Critical slowing down as early warning for the onset and termination of depression\", Proceedings of the National Academy of Sciences, Vol.111, No.1, pp.87-92, 2014."
+    ],
+    [
+     "[31]",
+     "Wichers (2016)",
+     "M. Wichers, P. C. Groot, Psychosystems, ESM Group, EWS Group, \"Critical slowing down as a personalized early warning signal for depression\", Psychotherapy and Psychosomatics, Vol.85, No.2, pp.114-116, 2016."
+    ],
+    [
+     "[32]",
+     "Dablander (2023)",
+     "F. Dablander, A. Pichler, A. Cika, A. Bacilieri, \"Anticipating critical transitions in psychological systems using early warning signals: Theoretical and practical considerations\", Psychological Methods, Vol.28, No.4, pp.765-790, 2023. DOI: https://doi.org/10.1037/met0000450"
+    ],
+    [
+     "[33]",
+     "Helmich (2023)",
+     "M. A. Helmich, A. C. Smit, L. F. Bringmann, et al., \"Detecting impending symptom transitions using early-warning signals in individuals receiving treatment for depression\", Clinical Psychological Science, Vol.11, No.6, pp.994-1010, 2023. DOI: https://doi.org/10.1177/21677026221137006"
+    ],
+    [
+     "[34]",
+     "Thom (1975)",
+     "R. Thom, Structural stability and morphogenesis, W. A. Benjamin, Reading, MA, 1975."
+    ],
+    [
+     "[35]",
+     "Zeeman (1977)",
+     "E. C. Zeeman, Catastrophe theory: Selected papers, 1972-1977, Addison-Wesley, Reading, MA, 1977."
+    ],
+    [
+     "[36]",
+     "van der Maas (2003)",
+     "H. L. J. van der Maas, R. Kolstein, J. van der Pligt, \"Sudden transitions in attitudes\", Sociological Methods & Research, Vol.32, No.2, pp.125-152, 2003."
+    ],
+    [
+     "[37]",
+     "Guastello (2002)",
+     "S. J. Guastello, Managing emergent phenomena: Nonlinear dynamics in work organizations, Lawrence Erlbaum, Mahwah, NJ, 2002."
+    ],
+    [
+     "[38]",
+     "Grasman (2009)",
+     "R. P. P. P. Grasman, H. L. J. van der Maas, E.-J. Wagenmakers, \"Fitting the cusp catastrophe in R: A cusp package primer\", Journal of Statistical Software, Vol.32, No.8, pp.1-27, 2009."
+    ],
+    [
+     "[39]",
+     "Navarro (2020)",
+     "J. Navarro, M. R. Rueff-Lopes, R. Rico, \"New nonlinear and dynamic avenues for the study of work and organizational psychology: An introduction to the special issue\", European Journal of Work and Organizational Psychology, Vol.29, No.4, pp.477-482, 2020. DOI: https://doi.org/10.1080/1359432X.2020.1794952"
+    ],
+    [
+     "[40]",
+     "Merton (1968)",
+     "R. K. Merton, Social theory and social structure (enlarged ed.), Free Press, New York, 1968."
+    ],
+    [
+     "[41]",
+     "Kahneman (1979)",
+     "D. Kahneman, A. Tversky, \"Prospect theory: An analysis of decision under risk\", Econometrica, Vol.47, No.2, pp.263-291, 1979."
+    ],
+    [
+     "[42]",
+     "Samuelson (1988)",
+     "W. Samuelson, R. Zeckhauser, \"Status quo bias in decision making\", Journal of Risk and Uncertainty, Vol.1, No.1, pp.7-59, 1988."
+    ],
+    [
+     "[43]",
+     "Helmich (2021)",
+     "M. A. Helmich, M. Olthof, A. J. Oldehinkel, et al., \"Early warning signals and critical transitions in psychopathology: Challenges and recommendations\", Current Opinion in Psychology, Vol.41, pp.51-58, 2021."
+    ],
+    [
+     "[44]",
+     "Ajzen (1991)",
+     "I. Ajzen, \"The theory of planned behavior\", Organizational Behavior and Human Decision Processes, Vol.50, No.2, pp.179-211, 1991."
+    ],
+    [
+     "[45]",
+     "Holt (2007)",
+     "D. T. Holt, A. A. Armenakis, H. S. Feild, S. G. Harris, \"Readiness for organizational change: The systematic development of a scale\", Journal of Applied Behavioral Science, Vol.43, No.2, pp.232-255, 2007."
+    ],
+    [
+     "[46]",
+     "Jarvis (2003)",
+     "C. B. Jarvis, S. B. MacKenzie, P. M. Podsakoff, \"A critical review of construct indicators and measurement model misspecification in marketing and consumer research\", Journal of Consumer Research, Vol.30, No.2, pp.199-218, 2003."
+    ],
+    [
+     "[47]",
+     "Feldman (2003)",
+     "M. S. Feldman, B. T. Pentland, \"Reconceptualizing organizational routines as a source of flexibility and change\", Administrative Science Quarterly, Vol.48, No.1, pp.94-118, 2003."
+    ],
+    [
+     "[48]",
+     "Bandura (1977)",
+     "A. Bandura, \"Self-efficacy: Toward a unifying theory of behavioral change\", Psychological Review, Vol.84, No.2, pp.191-215, 1977."
+    ],
+    [
+     "[49]",
+     "Eisenberger (1986)",
+     "R. Eisenberger, R. Huntington, S. Hutchison, D. Sowa, \"Perceived organizational support\", Journal of Applied Psychology, Vol.71, No.3, pp.500-507, 1986."
+    ],
+    [
+     "[50]",
+     "Chan (1998)",
+     "D. Chan, \"Functional relations among constructs in the same content domain at different levels of analysis: A typology of composition models\", Journal of Applied Psychology, Vol.83, No.2, pp.234-246, 1998."
+    ],
+    [
+     "[51]",
+     "Kozlowski (2000)",
+     "S. W. J. Kozlowski, K. J. Klein, \"A multilevel approach to theory and research in organizations: Contextual, temporal, and emergent processes\", In K. J. Klein, S. W. J. Kozlowski (Eds.), Multilevel theory, research, and methods in organizations, Jossey-Bass, San Francisco, pp.3-90, 2000."
+    ],
+    [
+     "[52]",
+     "Bacharach (1989)",
+     "S. B. Bacharach, \"Organizational theories: Some criteria for evaluation\", Academy of Management Review, Vol.14, No.4, pp.496-515, 1989."
+    ],
+    [
+     "[53]",
+     "Burnham (2003)",
+     "T. A. Burnham, J. K. Frels, V. Mahajan, \"Consumer switching costs: A typology, antecedents, and consequences\", Journal of the Academy of Marketing Science, Vol.31, No.2, pp.109-126, 2003."
+    ],
+    [
+     "[54]",
+     "Bauer (2003)",
+     "D. J. Bauer, P. J. Curran, \"Distributional assumptions of growth mixture models: Implications for overextraction of latent trajectory classes\", Psychological Methods, Vol.8, No.3, pp.338-363, 2003."
+    ],
+    [
+     "[55]",
+     "Lubke (2005)",
+     "G. H. Lubke, B. Muthén, \"Investigating population heterogeneity with factor mixture models\", Psychological Methods, Vol.10, No.1, pp.21-39, 2005."
+    ],
+    [
+     "[56]",
+     "Nylund (2007)",
+     "K. L. Nylund, T. Asparouhov, B. O. Muthén, \"Deciding on the number of classes in latent class analysis and growth mixture modeling: A Monte Carlo simulation study\", Structural Equation Modeling, Vol.14, No.4, pp.535-569, 2007."
+    ],
+    [
+     "[57]",
+     "Asparouhov (2018)",
+     "T. Asparouhov, E. L. Hamaker, B. Muthén, \"Dynamic structural equation models\", Structural Equation Modeling, Vol.25, No.3, pp.359-388, 2018."
+    ],
+    [
+     "[58]",
+     "Schultzberg (2018)",
+     "M. Schultzberg, B. Muthén, \"Number of subjects and time points needed for multilevel time-series analysis: A simulation study of dynamic structural equation modeling\", Structural Equation Modeling, Vol.25, No.4, pp.495-515, 2018."
+    ],
+    [
+     "[59]",
+     "George (2000)",
+     "J. M. George, G. R. Jones, \"The role of time in theory and theory building\", Journal of Management, Vol.26, No.4, pp.657-684, 2000."
+    ]
+   ],
+   "widths": [
+    12,
+    32,
+    130
+   ]
+  }
+ ],
+ "sources": [
+  "이번 판은 원고 내부의 인용 표기 전환 작업입니다. 형식 근거: 한국산학기술학회 논문투고규정(4-6~4-10, 5-8조, 검색 요약으로 확인) https://www.kais99.org/jkais/rule/rule.kais"
+ ]
+}

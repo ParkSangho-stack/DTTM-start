@@ -147,8 +147,16 @@ def main():
         fills.append(DONE_FILL if status == "완료" else (TODAY_FILL if status == "오늘" else None))
     table(doc, ["날짜", "판", "주제", "상태"], rows, [24, 15, 120, 15], 8.5, fills)
 
+    sec_no = 8
+    for extra in data.get("extra_tables", []):
+        heading(doc, f'{sec_no}. {extra["title"]}')
+        sec_no += 1
+        if extra.get("note"):
+            para(doc, extra["note"], 9, after=4)
+        table(doc, extra["header"], extra["rows"], extra["widths"], 8)
+
     if data.get("sources"):
-        heading(doc, "8. 확인한 자료")
+        heading(doc, f"{sec_no}. 확인한 자료")
         bullets(doc, data["sources"], 9)
 
     out = ROOT / f"DTTM_한국산학기술학회_수정내역서_{ver}_{data['date']}.docx"

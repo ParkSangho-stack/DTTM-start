@@ -37,23 +37,18 @@ The Dynamic Threshold Transition Model (DTTM): A State-Space Theory of Nonlinear
 
 조직행동 연구는 이 현상과 관련된 변수를 폭넓게 축적해 왔다.
 직무요구-자원 이론은 요구와 자원이 직무 긴장과 동기에 미치는
-과정을(Bakker, Demerouti, & Sanz-Vergel, 2023), 자원보존이론은 자원
-손실이 자원 획득보다 더 두드러지게 작용한다는 원리를(Hobfoll,
-Halbesleben, Neveu, & Westman, 2018), 조직몰입 이론은 구성원과 조직의
-심리적 결속을(Meyer & Allen, 1991) 설명한다. 이 이론들은 변화를 밀어내는 압력과 기존 방식에 붙잡아 두는 힘을 설명하지만, 그 힘들이 언제 행동의 전환으로 이어지는지는 주된 관심사가 아니었다. 시간의 관점에서 이 분야를 검토한 문헌들도 같은 점을 지적한다. Hom, Lee, Shaw, and
-Hausknecht(2017)는 이직 연구가 오랫동안 새로운 예측변수를 검정하는 데
-주력해 왔으며, 시간을 진지하게 고려해야 한다는 요청(Mitchell & James,
-2001)이 최근 다시 제기되었다고 정리하였다. Aguinis and Bakker(2021)는
+과정을\[1\], 자원보존이론은 자원
+손실이 자원 획득보다 더 두드러지게 작용한다는 원리를\[2\], 조직몰입 이론은 구성원과 조직의
+심리적 결속을\[3\] 설명한다. 이 이론들은 변화를 밀어내는 압력과 기존 방식에 붙잡아 두는 힘을 설명하지만, 그 힘들이 언제 행동의 전환으로 이어지는지는 주된 관심사가 아니었다. 시간의 관점에서 이 분야를 검토한 문헌들도 같은 점을 지적한다. Hom 등\[4\]은 이직 연구가 오랫동안 새로운 예측변수를 검정하는 데
+주력해 왔으며, 시간을 진지하게 고려해야 한다는 요청\[5\]이 최근 다시 제기되었다고 정리하였다. Aguinis와 Bakker\[6\]는
 시간을 지속기간, 빈도, 시점, 순서의 네 구성개념으로 구분하면서 시간에
-대한 명확한 조작적 정의가 부족하다고 지적하였다. Boon, Jiang, and
-Eckardt(2025)는 시간 요소를 포함한 전략적 인적자원관리 실증연구 237편을
+대한 명확한 조작적 정의가 부족하다고 지적하였다. Boon 등\[7\]은 시간 요소를 포함한 전략적 인적자원관리 실증연구 237편을
 검토하고, 시간적 효과의 검정과 이론화가 충분히 진전되지 않았다고
 보고하였다.
 
-국내에서도 직무소진의 변화 궤적을 유형화하거나(김예진, 김시형, 정다송,
-이동훈, 2024), 직무요구와 자원이 소진의 초기 수준과 변화율에 미치는
-영향을 종단 자료로 분석하거나(이윤수, 2026), 잠재전이분석으로 유형 간
-이동을 살펴본 연구(김승완, 노성민, 2023)가 보고되고 있다. 이 연구들은
+국내에서도 직무소진의 변화 궤적을 유형화하거나\[8\], 직무요구와 자원이 소진의 초기 수준과 변화율에 미치는
+영향을 종단 자료로 분석하거나\[9\], 잠재전이분석으로 유형 간
+이동을 살펴본 연구\[10\]가 보고되고 있다. 이 연구들은
 변화의 양상을 기술하는 데 기여하였다. 다만 어떤 구성원이 어느 시점에
 다른 상태로 이동하는지를 사전에 가설로 제시하는 것을 연구의 목적으로
 삼지는 않았다.
@@ -71,15 +66,14 @@ Eckardt(2025)는 시간 요소를 포함한 전략적 인적자원관리 실증�
 이론적으로 정리되어 있지 않다.
 
 변화의 과정을 다루는 단계모형은 이 문제를 부분적으로 다루어 왔다.
-Lewin(1947)에 기원을 둔 것으로 널리 소개되는 해빙-변화-재동결 모형(다만
-Lewin이 이 형태의 3단계 모형을 직접 제시하지는 않았다는 검토는 Cummings,
-Bridgman, & Brown, 2016 참조), 흡연자의 자기변화를 숙고 전, 숙고, 실행,
-유지, 재발의 단계로 구분한 연구(Prochaska & DiClemente, 1983)가
+Lewin\[11\]에 기원을 둔 것으로 널리 소개되는 해빙-변화-재동결 모형(다만
+Lewin이 이 형태의 3단계 모형을 직접 제시하지는 않았다는 검토는 Cummings 등\[12\] 참조), 흡연자의 자기변화를 숙고 전, 숙고, 실행,
+유지, 재발의 단계로 구분한 연구\[13\]가
 대표적이다. 조직 수준에서는 긴 안정기와 짧은 혁명적 변화기가 교대한다는
-단속평형 관점(Gersick, 1991)과, 조직 변환의 다수가 빠르고 불연속적인
-변화로 이루어졌다는 실증 결과(Romanelli & Tushman, 1994)가 있다. 다만
+단속평형 관점\[14\]과, 조직 변환의 다수가 빠르고 불연속적인
+변화로 이루어졌다는 실증 결과\[15\]가 있다. 다만
 이들 접근은 단계 사이의 이동 조건을 반증 가능한 형태로 제시하는 데에는
-한계가 있고, 단속평형 연구는 주로 조직 수준의 전환을 다루었다. 복잡계 연구의 임계전이 개념(Scheffer et al., 2009)은 세 문제를 함께 다룰 수 있는 형식을 제공하지만, 이를 구성원 수준의 상태와 연결하여 조작화한 이론은 아직 많지 않다(2.4절).
+한계가 있고, 단속평형 연구는 주로 조직 수준의 전환을 다루었다. 복잡계 연구의 임계전이 개념\[16\]은 세 문제를 함께 다룰 수 있는 형식을 제공하지만, 이를 구성원 수준의 상태와 연결하여 조작화한 이론은 아직 많지 않다(2.4절).
 
 ## 1.3 연구 목적과 연구 질문
 
@@ -122,7 +116,7 @@ Bridgman, & Brown, 2016 참조), 흡연자의 자기변화를 숙고 전, 숙고
 가설로 제시한다. 셋째, 방법 면에서 각 명제에 검정 절차와 수정·기각
 기준을 대응시켜, 이론의 일부가 지지되지 않을 때 무엇을 수정할지를 미리
 정한다. 특히 임상심리학에서 개인 수준 조기경보 신호의 실증적 지지가
-제한적이라는 검토(Helmich et al., 2024)를 고려하여, 조기경보는 이론의
+제한적이라는 검토\[17\]를 고려하여, 조기경보는 이론의
 전제가 아니라 기각될 수 있는 하나의 명제로 둔다. 넷째, 실무 면에서 경계
 국면의 신호와 임계 국면의 계기 민감성에 관한 가설은, 지지될 경우 새 업무 시스템이나 제도를 도입하는 조직이 지원과 개입의 시점을 판단하는 데 참고할 수 있는 근거가 될 수 있다.
 
@@ -143,46 +137,42 @@ Bridgman, & Brown, 2016 참조), 흡연자의 자기변화를 숙고 전, 숙고
 ## 2.1 변수 중심 접근: 변화의 압력과 방향
 
 직무요구-자원 이론은 직무요구가 건강 손상 과정을, 직무자원이 동기 과정을
-이끈다고 본다. Bakker et al.(2023)은 지난 10년간의 연구를 정리하면서,
+이끈다고 본다. Bakker 등\[1\]은 지난 10년간의 연구를 정리하면서,
 직무 긴장이 자기저해 행동을 낳고 이 행동이 추가적인 직무요구를 만드는
 손실 순환과, 몰입한 구성원이 직무를 능동적으로 조정하는 획득 순환을
 이론의 명제로 제시하였고, 이런 순환이 만성화되면 나선으로 이어질 수
 있다고 보았다. 자원보존이론은 자원 손실이 자원 획득보다 더 두드러지게
 작용한다는 원리와, 자원의 손실과 획득이 모두 나선적 성격을 갖는다는
-따름정리를 제시한다(Hobfoll et al., 2018). 두 이론은 변화를 만드는
+따름정리를 제시한다\[2\]. 두 이론은 변화를 만드는
 압력이 시간에 따라 누적되는 방식을 다룬다. 다만 이런 누적이 어느
 지점에서 행동의 질적 전환으로 이어지는지, 그 지점을 어떻게 식별할지는 이
 이론들의 주된 관심사가 아니었다.
 
 조직몰입 이론은 구성원과 조직 사이의 심리적 결속을 정서적·지속적·규범적
-몰입으로 구분한다(Meyer & Allen, 1991). 이 모형의 내적 구조는 국내에서도
-탐색적 구조방정식 모형을 통해 검토되었다(안정원, 이순묵, 2015). 본
+몰입으로 구분한다\[3\]. 이 모형의 내적 구조는 국내에서도
+탐색적 구조방정식 모형을 통해 검토되었다\[18\]. 본
 연구는 이 가운데 조직을 떠날 때의 비용 인식과 관련된 지속적 몰입을
 변화에 대한 관성과 관련된 요인의 하나로 본다. 조직변화에 대한 국내
 연구에서는 자동차 회사 직원을 대상으로 혁신 지향 문화와 분권적 구조가
 변화 수용성과 정적으로 관련되고, 변화 수용성이 변화에 대한 정서적 몰입
-및 혁신행동과 정적으로 관련된다는 결과가 보고되었다(김해룡, 양필석,
-2022). 이 연구들은 변화에 우호적인 조건을 밝히는 데 기여하였으나, 대체로
+및 혁신행동과 정적으로 관련된다는 결과가 보고되었다\[19\]. 이 연구들은 변화에 우호적인 조건을 밝히는 데 기여하였으나, 대체로
 한 시점의 설문 자료에서 변수 간 관계를 검정하였다. 따라서 같은 조건에서
 변화의 시점이 왜 개인마다 다른지는 연구 질문으로 다루어지지 않았다.
 
 ## 2.2 과정·단계 접근: 변화의 순서
 
-Van de Ven and Poole(1995)은 조직의 변화 과정을 설명하는 네 가지 기본
+Van de Ven과 Poole\[20\]은 조직의 변화 과정을 설명하는 네 가지 기본
 이론으로 생애주기, 목적론, 변증법, 진화론을 제시하고, 이들이 서로 다른
 변화 사건의 순서와 동인을 가정한다고 보았다. 개인 수준에서는 역할 이탈과
-진입, 그 사이의 경계 횡단을 다룬 역할 전환 이론(Ashforth, 2001)과, 이직
-과정을 네 가지 구별되는 의사결정 경로로 모형화한 이직 전개모형(Lee &
-Mitchell, 1994)이 있다. 이직 전개모형은 일부 경로가 충격(shock)이라는
+진입, 그 사이의 경계 횡단을 다룬 역할 전환 이론\[21\]과, 이직
+과정을 네 가지 구별되는 의사결정 경로로 모형화한 이직 전개모형\[22\]이 있다. 이직 전개모형은 일부 경로가 충격(shock)이라는
 사건에서 시작된다고 보아, 불만의 점진적 누적과 구별되는 이탈 경로를
 제시하였다.
 
-조직변화 연구에서도 단계적 사고가 널리 쓰인다. Stouten, Rousseau, and De
-Cremer(2018)는 실무에서 널리 쓰이는 변화관리 모형들의 핵심 처방을 학술
+조직변화 연구에서도 단계적 사고가 널리 쓰인다. Stouten 등\[23\]은 실무에서 널리 쓰이는 변화관리 모형들의 핵심 처방을 학술
 연구와 대조하였다. 그 결과 초기 위기감 조성의 강조처럼 연구로 지지되지
 않는 처방과 연구 근거가 제한적이거나 혼재된 처방이 있었고, 변화 과정에서
-시간의 역할에 대해서는 연구가 거의 이루어지지 않았다고 지적하였다. Oreg,
-Bartunek, Lee, and Do(2018)는 전체 변화를 구성하는 개별 변화 사건에
+시간의 역할에 대해서는 연구가 거의 이루어지지 않았다고 지적하였다. Oreg 등\[24\]은 전체 변화를 구성하는 개별 변화 사건에
 주목하고, 이 사건들에 대한 구성원의 반응이 이후의 반응에 영향을 준다고
 보았다. 이 관점은 변화에 대한 반응이 시점에 따라 달라질 수 있다는 점에서
 DTTM과 문제의식을 공유한다.
@@ -200,17 +190,15 @@ DTTM과 문제의식을 공유한다.
 유형의 시간적 변화를 추적하는 개인 중심 연구가 늘고 있다. 이 흐름은
 DTTM과 가장 가까운 경험적 기반이다.
 
-국외 연구에서 Wu, Lu, and Akkermans(2026)는 직장인 460명의 표본에서 경력 지속가능성의 네 프로파일(번영형, 건강 지향형, 성과 지향형, 고전형)을 도출하고, 한 조직 구성원 529명의 두 시점 종단 표본에서 이를 재현한 뒤 잠재전이분석을 적용하여, 주도성이 개인-환경 적합의 향상을 매개로 더 유리한 프로파일로의 이동이나 유지와 관련된다고 보고하였다. Hirva, Mauno, and
-Mäkikangas(2026)는 핀란드 근로자 565명을 3년간 추적하여 소진과
+국외 연구에서 Wu 등\[25\]은 직장인 460명의 표본에서 경력 지속가능성의 네 프로파일(번영형, 건강 지향형, 성과 지향형, 고전형)을 도출하고, 한 조직 구성원 529명의 두 시점 종단 표본에서 이를 재현한 뒤 잠재전이분석을 적용하여, 주도성이 개인-환경 적합의 향상을 매개로 더 유리한 프로파일로의 이동이나 유지와 관련된다고 보고하였다. Hirva 등\[26\]은 핀란드 근로자 565명을 3년간 추적하여 소진과
 직무수행을 결합한 네 프로파일을 도출하였고, 대부분의 구성원이 같은 프로파일에 머물렀고 이동이 있을 때는 대체로 더 나은 프로파일 쪽이었으며, 직장을 옮긴 경우에도 프로파일이 달라지지 않았다고 보고하였다.
 
-국내 연구도 누적되고 있다. 김예진 등(2024)은 국내 성인 381명의 세 시점 자료(2021년 2월\~2022년 8월, 8개월 간격)에 잠재계층성장분석을 적용하여 직무소진의
+국내 연구도 누적되고 있다. 김예진 등\[8\]은 국내 성인 381명의 세 시점 자료(2021년 2월\~2022년 8월, 8개월 간격)에 잠재계층성장분석을 적용하여 직무소진의
 변화 궤적을 회복, 지연소진, 탄력성, 만성소진의 네 집단으로 구분하였다.
-이윤수(2026)는 인적자본기업패널 3개년 자료에 잠재성장모형을 적용하여, 직무소진이 3년간 선형적으로 감소하는 가운데 업무 불확실성과 초과근무는 소진의 초기 수준에 정(+)의, 변화율에 부(−)의 영향을, 경영진 지원은 그 반대 방향의 영향을 보였고 직무 자율성은 유의하지 않았다고 보고하였다. 즉 직무요구와 자원은 소진의 초기 수준과 변화율에 서로 다르게 관련되었다. 김승완과 노성민(2023)은 장애인 근로자 패널 자료에
+이윤수\[9\]는 인적자본기업패널 3개년 자료에 잠재성장모형을 적용하여, 직무소진이 3년간 선형적으로 감소하는 가운데 업무 불확실성과 초과근무는 소진의 초기 수준에 정(+)의, 변화율에 부(−)의 영향을, 경영진 지원은 그 반대 방향의 영향을 보였고 직무 자율성은 유의하지 않았다고 보고하였다. 즉 직무요구와 자원은 소진의 초기 수준과 변화율에 서로 다르게 관련되었다. 김승완과 노성민\[10\]은 장애인 근로자 패널 자료에
 잠재전이분석을 적용하여, 직무적합성이 낮거나 중간인 집단이 이후 낮거나
 중간 수준의 조직몰입 집단으로 이동하는 경향을 보고하였다. 횡단
-자료에서도 직장인의 직무스트레스와 회복 유형(김미정, 이종현, 최재운,
-2025), 경찰청 등 중앙행정기관 공무원 1,021명의 직장만족 유형(심수진, 정지수, 2025)이 구분되었으며, 후자에서는 세 프로파일 가운데 직장만족도가 낮은 유형일수록 이직의도가 높았다.
+자료에서도 직장인의 직무스트레스와 회복 유형\[27\], 경찰청 등 중앙행정기관 공무원 1,021명의 직장만족 유형\[28\]이 구분되었으며, 후자에서는 세 프로파일 가운데 직장만족도가 낮은 유형일수록 이직의도가 높았다.
 
 이 연구들은 DTTM에 세 가지 점을 시사한다. 첫째, 구성원의 상태는 질적으로
 구별되는 유형으로 기술될 수 있다. 둘째, 적어도 일부 자료에서는 유형이
@@ -225,39 +213,35 @@ Mäkikangas(2026)는 핀란드 근로자 565명을 3년간 추적하여 소진�
 ## 2.4 임계전이 접근: 비선형성과 예고
 
 복잡계 연구에서는 생태계, 기후, 금융시장 등 서로 다른 체계가 임계점에
-가까워질 때 나타날 수 있는 일반적 조기경보 신호가 논의되어 왔다(Scheffer
-et al., 2009). 대표적인 신호는 임계감속(critical slowing down), 즉 작은
+가까워질 때 나타날 수 있는 일반적 조기경보 신호가 논의되어 왔다\[16\]. 대표적인 신호는 임계감속(critical slowing down), 즉 작은
 교란 뒤 원래 상태로 돌아오는 속도가 느려지면서 시계열의 자기상관과
 분산이 커지는 현상이다. 이를 시계열에서 추정하는 방법은 여러 가지가
 있으며, 모의 자료에 여러 방법을 비교 적용한 연구는 어느 하나의 지표나
-방법이 가장 우수하지는 않았다고 보고하였다(Dakos et al., 2012).
+방법이 가장 우수하지는 않았다고 보고하였다\[29\].
 심리학에서는 정서 자료의 자기상관, 분산, 정서 간 상관의 증가가 우울
-상태로의 진입과 회복 가능성과 관련된다는 결과(van de Leemput et al.,
-2014)와, 한 명의 참여자에게서 우울 증상의 전환에 앞서 자기상관과 분산이
-상승한 사례(Wichers et al., 2016)가 보고되었다.
+상태로의 진입과 회복 가능성과 관련된다는 결과\[30\]와, 한 명의 참여자에게서 우울 증상의 전환에 앞서 자기상관과 분산이
+상승한 사례\[31\]가 보고되었다.
 
-다만 최근 연구는 이 예측의 실용성에 신중한 입장을 보인다. Dablander,
-Pichler, Cika, and Bacilieri(2023)는 이안정 체계의 모의실험에서 조기경보
+다만 최근 연구는 이 예측의 실용성에 신중한 입장을 보인다. Dablander 등\[32\]은 이안정 체계의 모의실험에서 조기경보
 신호의 출현이 체계의 구체적 특성에 크게 의존하고 잡음에 매우 민감하다고
-보고하였다. Helmich et al.(2023)은 우울 치료를 시작한 41명의 정서를
+보고하였다. Helmich 등\[33\]은 우울 치료를 시작한 41명의 정서를
 4개월간 하루 다섯 번 측정하여, 자기상관의 상승은 이후 증상이 줄어드는 전이를 겪은 참여자에게서 더 흔하게 나타났으나(89% 대 62.5%) 분산의 상승은 두 집단 모두에서 드물었고(약 11~12%), 개인화된 예측
-방법으로서의 가치는 제한적일 수 있다고 결론지었다. Helmich et
-al.(2024)은 정서 시계열에서 얻은 조기경보 신호가 임상심리학에서 실증적
+방법으로서의 가치는 제한적일 수 있다고 결론지었다. Helmich 등\[17\]은 정서 시계열에서 얻은 조기경보 신호가 임상심리학에서 실증적
 지지를 많이 얻지 못했다고 검토하고, 더 나은 측정과 이론적 기반을
 요청하였다. 이러한 검토는 DTTM이 조기경보를 전제가 아닌 검정 대상으로,
 단일 지표가 아닌 지표군으로 다루는 근거가 된다.
 
 파국이론(catastrophe theory)은 임계전이를 기하학적으로 표현하는 틀을
-제공한다(Thom, 1975; Zeeman, 1977). cusp 모형에서 결과 변수는
+제공한다\[34, 35\]. cusp 모형에서 결과 변수는
 정상요인(normal factor)과 분기요인(splitting factor)의 함수로 표현된다.
 분기요인이 낮으면 결과는 정상요인에 따라 연속적으로 변하지만, 분기요인이
 높으면 두 안정 상태가 공존하며 불연속적 도약과 이력현상(hysteresis)이
 나타날 수 있다. 사회과학에서는 정치적 태도의 갑작스러운 전환이 관여도와
-정보의 함수로 분석되었고(van der Maas, Kolstein, & van der Pligt, 2003),
-조직 맥락에서도 비선형 동태 모형이 적용되었다(Guastello, 2002). cusp
+정보의 함수로 분석되었고\[36\],
+조직 맥락에서도 비선형 동태 모형이 적용되었다\[37\]. cusp
 모형을 통계적으로 적합하고 다른 모형과 비교하는 방법도 제시되어
-있다(Grasman, van der Maas, & Wagenmakers, 2009). 작업·조직심리학에서도
-비선형·동태적 관점을 다룬 특집이 구성된 바 있으나(Navarro, Rueff-Lopes, & Rico, 2020),
+있다\[38\]. 작업·조직심리학에서도
+비선형·동태적 관점을 다룬 특집이 구성된 바 있으나\[39\],
 정상요인과 분기요인을 구성원의 상태 구조와 연결하여 조작적으로 지정한
 이론은 아직 많지 않은 것으로 보인다.
 
@@ -267,7 +251,7 @@ DTTM은 기존 이론을 대체하려는 것이 아니다. 변수 중심 접근�
 압력·자원·관성 변수를 입력으로, 개인 중심 접근이 보고한 유형과 이동을
 설명 대상으로, 임계전이 접근의 비선형 구조를 형식으로 차용한다. 이
 점에서 DTTM은 경험적으로 관찰 가능한 현상을 다루되 개별 경험 명제보다
-넓은 범위를 지향하는 중범위 이론(Merton, 1968)을 목표로 한다. Table 1은
+넓은 범위를 지향하는 중범위 이론\[40\]을 목표로 한다. Table 1은
 주요 연구 흐름과 DTTM의 관계를 정리한 것이다.
 
 **Table 1. Research streams and their relation to DTTM**
@@ -485,9 +469,8 @@ DTTM은 체제 전환의 촉발 조건을 비용 역전으로 가정한다. 유�
 재작업 시간, 지연 건수, 예외 처리 건수, 역할갈등이 여기에 해당한다.
 전환비용 Cₜ는 새 체제로 옮겨 가는 데 드는 학습·손실·불확실성·절차
 비용이다. 관성 α는 두 비용을 비교할 때 전환비용에 붙는 가중으로,
-손실회피(Kahneman & Tversky, 1979), 현상유지 편향(Samuelson &
-Zeckhauser, 1988), 매몰비용 지각, 정체성 고착, 제도적 경직성을 포함하는
-개념으로 정의한다. 조직몰입 이론의 지속적 몰입(Meyer & Allen, 1991)은
+손실회피\[41\], 현상유지 편향\[42\], 매몰비용 지각, 정체성 고착, 제도적 경직성을 포함하는
+개념으로 정의한다. 조직몰입 이론의 지속적 몰입\[3\]은
 α의 한 원천으로 볼 수 있다. 전이의 기본 조건은 다음과 같다.
 
 $$C_m > \alpha \cdot C_t \qquad (3)$$
@@ -512,9 +495,9 @@ $$\operatorname{logit} h(t) = \beta_0(t) + \beta_1 \ln C_m + \beta_2 \ln C_t + \
 세 비용 요소는 2장에서 검토한 선행연구와 직접 연결된다. 유지비용의
 내용은 직무요구-자원 이론의 요구 측면과 자원보존이론의 자원 손실이다.
 예를 들어 업무 불확실성과 초과근무가 소진의 출발 수준을 높인다는 국내
-종단 연구 결과(이윤수, 2026)는 이들을 유지비용의 후보 요인으로 볼 수
+종단 연구 결과\[9\]는 이들을 유지비용의 후보 요인으로 볼 수
 있게 한다. 전환비용을 낮출 수 있는 조건의 후보로는 변화 수용성과
-정적으로 관련된 혁신 지향 문화와 분권적 구조(김해룡, 양필석, 2022),
+정적으로 관련된 혁신 지향 문화와 분권적 구조\[19\],
 그리고 자기효능감과 조직지원이다. 관성은 지속적 몰입과 손실회피에서
 비롯된다. 기존 연구가 이 변수들을 각각 다른 결과변수의 선행요인으로 다룬
 데 비해, DTTM은 이들을 하나의 비교식 안에 놓고 그 비의 역전을 전이의
@@ -537,13 +520,13 @@ $$\operatorname{logit} h(t) = \beta_0(t) + \beta_1 \ln C_m + \beta_2 \ln C_t + \
 비용차가 대칭이어야 한다. DTTM은 역전이가 일어나는 시점의 비용차가 전진
 전이 시점의 비용차보다 반대 방향으로 더 커야 한다고 예측한다. cusp
 모형은 통계적으로 적합할 수 있고 선형·로지스틱 모형과 비교할 수
-있으므로(Grasman et al., 2009), \"임계\"라는 개념이 은유에 머물지 않도록
+있으므로\[38\], \"임계\"라는 개념이 은유에 머물지 않도록
 하는 시험대가 된다.
 
 ## 4.3 경계 국면과 조기경보 신호
 
 임계감속 이론은 체계가 전이점에 가까워질수록 교란 후 회복이 느려지고, 그
-결과 자기상관과 분산이 커진다고 예측한다(Scheffer et al., 2009). DTTM은
+결과 자기상관과 분산이 커진다고 예측한다\[16\]. DTTM은
 이 예측을 경계(S2) 국면의 정의에 넣는다. 예를 들어 예전에는 하루 만에
 정리되던 서류 오류가 같은 조건에서 며칠간 후속 업무에 영향을 주고,
 협업과 마감의 기복이 커지는 상태가 S2이다. 이때 중요한 것은 고통의
@@ -553,8 +536,7 @@ DTTM은 경계를 두 변수로 나눈다. \"지각된 경계\"는 설문으로 
 주관적 회복 지연이고, \"동태적 경계\"는 일지 자료에서 산출하는 교란 후
 회복시간, 자기상관, 표준편차이다. 두 변수의 수렴은 가정이 아니라 검증
 과제이며, 수렴이 확인되기 전에는 설문 점수만으로 S2를 판정하지 않는다.
-또한 심리 자료에서 단일 지표의 예측력은 제한적이므로(Helmich et al.,
-2021), 회복시간·자기상관·표준편차를 주지표로, 왜도·첨도·변동계수·지표 간
+또한 심리 자료에서 단일 지표의 예측력은 제한적이므로\[43\], 회복시간·자기상관·표준편차를 주지표로, 왜도·첨도·변동계수·지표 간
 연결성을 보조지표로 두고 결합 판정 규칙을 사전에 정한다. DTTM은 \"모든
 전이에 임계감속이 선행한다\"고 주장하지 않는다. 조기경보 가설이
 기각되더라도 국면 구조 자체는 유지될 수 있다.
@@ -562,29 +544,26 @@ DTTM은 경계를 두 변수로 나눈다. \"지각된 경계\"는 설문으로 
 최근 임상심리학의 결과는 이 설계에 세 가지 시사점을 준다. 첫째,
 자기상관과 분산은 같은 방향으로 움직이지 않을 수 있다. 우울 치료
 참여자에게서 자기상관의 상승은 이후 증상이 줄어든 참여자에게서 더
-흔했으나 분산의 상승은 드물었고(Helmich et al., 2023), 모의 자료에서도
-어느 하나의 지표가 가장 우수하지는 않았다(Dakos et al., 2012). 따라서
+흔했으나 분산의 상승은 드물었고\[33\], 모의 자료에서도
+어느 하나의 지표가 가장 우수하지는 않았다\[29\]. 따라서
 DTTM은 어느 하나의 지표가 아니라 주지표 세 개 가운데 두 개 이상의 동시
-상승을 신호로 본다. 둘째, 신호는 잡음에 민감하므로(Dablander et al.,
-2023), 교란 사건의 강도를 기록하고 같은 개인의 시계열을 무작위로
+상승을 신호로 본다. 둘째, 신호는 잡음에 민감하므로\[32\], 교란 사건의 강도를 기록하고 같은 개인의 시계열을 무작위로
 재배열한 대리자료와 비교하여 우연한 추세를 배제한다. 셋째, 개인 수준의
-예측은 아직 신뢰하기 어렵기 때문에(Helmich et al., 2024), 개인 판정은
+예측은 아직 신뢰하기 어렵기 때문에\[17\], 개인 판정은
 탐색으로, 전이 전 구간과 대조 구간의 집단 수준 비교는 확인 검정으로
 구분한다.
 
 ## 4.4 임계 국면의 계기 민감성
 
-임계(S3)는 높은 변화 의도와 같지 않다. 계획행동이론의 의도(Ajzen,
-1991)나 변화준비도(Holt et al., 2007)는 태도·신념·동기의 수준이지만,
+임계(S3)는 높은 변화 의도와 같지 않다. 계획행동이론의 의도\[44\]나 변화준비도\[45\]는 태도·신념·동기의 수준이지만,
 S3는 ① 유지비용의 구체적 평가, ② 실행 가능한 대안과 그 실행
 조건(승인자·일정·자원)의 확인, ③ 실행 준비의 개시가 모두 충족된 연언
 조건이다. 세 요소는 서로 교환할 수 없으므로, S3는 반영형 요인이 아니라
-형성형 상태로 다룬다(Jarvis, MacKenzie, & Podsakoff, 2003).
+형성형 상태로 다룬다\[46\].
 
 이 국면에서는 작은 계기가 큰 효과를 낸다. 승인, 교육, 회의, 작은 사건
 같은 계기는 다른 국면에서는 거의 영향을 주지 않지만, 준비가 갖추어진
-S3에서는 전이 위험을 가파르게 높인다. 이직 전개모형의 충격(Lee &
-Mitchell, 1994)이 어떤 사람에게는 이직을 촉발하고 어떤 사람에게는 그렇지
+S3에서는 전이 위험을 가파르게 높인다. 이직 전개모형의 충격\[22\]이 어떤 사람에게는 이직을 촉발하고 어떤 사람에게는 그렇지
 않은 이유를, DTTM은 충격을 받은 시점의 국면 차이로 설명할 수 있다는
 가설을 세운다. 다만 민감성은 사후에만 확인할 수 있는 속성이므로 개인을
 S3로 분류하는 기준이 아니라 모형 수준에서 검정하는 이론 가설로 둔다.
@@ -613,8 +592,7 @@ S3로 분류하는 기준이 아니라 모형 수준에서 검정하는 이론 �
 재구조화(S4)는 새 방식이 ① 해당 업무 대부분에서 반복되고(잠정 기준: 사용비율 u ≥ .80), ② 역할
 분담·자원·동료 기대·절차 문서와 정렬되며, ③ 교란 뒤에도 새 방식으로
 복귀하는 상태이다. 이 정의는 루틴의 구조적 측면과 실제 수행 측면의
-상호작용이 루틴의 안정과 변화를 함께 만든다는 관점(Feldman & Pentland,
-2003)을 참고하여, 새 방식이 반복 수행을 통해 일상적 구조로 자리 잡은
+상호작용이 루틴의 안정과 변화를 함께 만든다는 관점\[47\]을 참고하여, 새 방식이 반복 수행을 통해 일상적 구조로 자리 잡은
 상태를 개인 수준에서 정의한 것이다. 복원력은 교란 사건이 있어야만
 확인되므로 S4의 확정은 항상 관찰창이 끝난 뒤에만 가능하다. S4에 이른 뒤
 새로운 불일치가 누적되면, R₁을 기준으로 한 새 전경합 S0′이 시작된다.
@@ -623,18 +601,17 @@ S3로 분류하는 기준이 아니라 모형 수준에서 검정하는 이론 �
 
 DTTM은 전이의 발생과 전이의 방향을 구분한다. 비용 역전은 기존 체제에서
 벗어날 위험을 설명하지만, 어떤 새 체제로 가는지는 가용한 대안들의
-전환비용 분포에 달려 있다. 자기효능감(Bandura, 1977),
-조직지원(Eisenberger et al., 1986), 자원 접근성은 학습·역할 재정의 같은
+전환비용 분포에 달려 있다. 자기효능감\[48\],
+조직지원\[49\], 자원 접근성은 학습·역할 재정의 같은
 적응적 대안의 Cₜ를 낮추어, 같은 비용 역전이라도 이직·회피보다 성장·혁신
 쪽으로 전이가 일어날 가능성을 높일 것으로 예상된다. 이 가설이
 지지된다면, 조직의 개입은 전이를 막는 데보다 어느 대안의 전환비용을 낮출
 것인가에 초점을 둘 수 있다.
 
 이 논리는 최근의 잠재전이 연구와도 부합한다. 주도성은 개인-환경 적합을
-매개로 더 유리한 경력 프로파일로의 이동이나 유지와 관련되었다(Wu et al.,
-2026). DTTM의 관점에서는 이 결과를 주도성과 적합이 적응적 대안의
+매개로 더 유리한 경력 프로파일로의 이동이나 유지와 관련되었다\[25\]. DTTM의 관점에서는 이 결과를 주도성과 적합이 적응적 대안의
 전환비용을 낮춘 것으로 해석해 볼 수 있다. 반대로 직장을 옮겨도 소진
-프로파일이 바뀌지 않았다는 결과(Hirva et al., 2026)는, 이직이라는 체제
+프로파일이 바뀌지 않았다는 결과\[26\]는, 이직이라는 체제
 전환이 반드시 안정된 새 상태로 이어지지는 않는다는 점, 즉 전이의 발생과
 재구조화의 성립을 구분할 필요가 있음을 시사한다.
 
@@ -642,8 +619,7 @@ DTTM은 전이의 발생과 전이의 방향을 구분한다. 비용 역전은 �
 
 DTTM을 팀·조직에 적용할 때 가장 흔한 오류는 개인 점수의 평균을 상위
 수준의 국면이라고 부르는 것이다. 상위 수준 구성개념은 그것이 개인
-응답에서 어떻게 구성되는지를 먼저 명시해야 한다(Chan, 1998; Kozlowski &
-Klein, 2000). DTTM에서 팀의 체제는 팀의 표준 절차와 역할 분담이고, 팀의
+응답에서 어떻게 구성되는지를 먼저 명시해야 한다\[50, 51\]. DTTM에서 팀의 체제는 팀의 표준 절차와 역할 분담이고, 팀의
 E1은 팀 표준 절차 변경의 공식화이며, 조직의 E1은 규정·조직도 개정의
 시행이다. 수준 간 작용은 두 방향으로 일어난다. 하향 효과에서 조직의 E1은
 개인에게 계기 또는 강제 전이로 작용한다. 상향 효과에서는 팀 내 개인
@@ -668,7 +644,7 @@ E1은 팀 표준 절차 변경의 공식화이며, 조직의 E1은 규정·조�
 
 이 명제는 자기 전이(같은 국면에 머무름)의 확률이 대체로 가장 크다는
 예측도 함축한다. 소진과 수행의 프로파일이 3년간 대부분 유지되었다는
-결과(Hirva et al., 2026)는 이러한 안정성과 제한된 이동의 공존과
+결과\[26\]는 이러한 안정성과 제한된 이동의 공존과
 부합한다. DTTM은 여기서 한 단계 더 나아가, 이동이 어느 칸에서 일어나야
 하는지를 국면 정의에서 사전에 도출한다.
 
@@ -740,8 +716,7 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 중요하다는 함의를 갖는다. 회귀 위험의 차이가 없으면 N을 독립 상태에서
 제외하고 S4 후보 구간으로 통합한다.
 
-변화 사건에 대한 반응이 이후의 반응에 영향을 준다는 관점(Oreg et al.,
-2018)에 비추어 보면, N 국면에서 겪는 오류와 지연은 새 체제에 대한 평가를
+변화 사건에 대한 반응이 이후의 반응에 영향을 준다는 관점\[24\]에 비추어 보면, N 국면에서 겪는 오류와 지연은 새 체제에 대한 평가를
 낮춰 회귀를 부추길 수 있다. 이 국면에서의 지원이 재구조화의 성립에
 영향을 줄 수 있다는 점이 이 명제의 실무적 함의이다.
 
@@ -759,7 +734,7 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 
 ## 5.4 명제의 검정과 기각 기준
 
-이론은 반증 가능성과 효용으로 평가되어야 한다는 기준(Bacharach, 1989)에
+이론은 반증 가능성과 효용으로 평가되어야 한다는 기준\[52\]에
 따라, Table 4는 각 명제의 검정 방법과, 어떤 결과가 나오면 이론의 어느
 부분을 수정하는지를 사전에 정리한 것이다.
 
@@ -876,7 +851,7 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 세 요소, N의 이중 운용·학습 부하·회귀 충동, S4의 반복·정렬·복원력은 서로
 공변할 필요가 없는 형성형 지표이다. 모든 지표를 반영형 요인으로 가정하면
 내적 일관성이 필요 없는 구성요소에 높은 상관을 요구하는 오류가
-생긴다(Jarvis et al., 2003). 따라서 형성형 상태에는 판정 규칙(S3·S4는
+생긴다\[46\]. 따라서 형성형 상태에는 판정 규칙(S3·S4는
 모두 충족해야 하는 연언형, N은 가중 합의 보상형)을 사전에 명시한다.
 
 ## 6.4 명제 검정의 전제 과제
@@ -895,9 +870,7 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 3.  **국면의 범주성.** 국면이 질적으로 다른 범주인지, 하나 또는 여러
     연속 차원의 구간인지를 경쟁모형으로 비교한다(다음 절).
 
-4.  **임계와 변화의도의 판별.** S3의 세 요소와 변화준비도(Holt et al.,
-    2007), 계획행동이론의 의도(Ajzen, 1991), 전환비용(Burnham, Frels, &
-    Mahajan, 2003)을 함께 측정하여 판별타당도(HTMT)와 증분타당도를
+4.  **임계와 변화의도의 판별.** S3의 세 요소와 변화준비도\[45\], 계획행동이론의 의도\[44\], 전환비용\[53\]을 함께 측정하여 판별타당도(HTMT)와 증분타당도를
     검정한다. 증분 예측력이 없으면 S3를 변화준비도의 상위 구간으로
     재정의한다.
 
@@ -913,13 +886,12 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 
 DTTM 검증의 가장 큰 위험은 국면들이 실제로 잠재클래스로 분리되지 않을
 가능성이다. 반응 분포가 비정규적이기만 해도 허위 클래스가 추출될 수
-있고(Bauer & Curran, 2003), 반대로 실제 범주가 연속 점수 속에 묻힐 수도
+있고\[54\], 반대로 실제 범주가 연속 점수 속에 묻힐 수도
 있다. 따라서 국면의 범주적 지위는 가정이 아니라 검정 대상이다. 같은
 지표와 표본으로 ① 단일 연속차원 모형, ② 다차원 연속 모형, ③
-요인혼합모형(Lubke & Muthén, 2005), ④ 잠재클래스·잠재전이 모형(DTTM의
+요인혼합모형\[55\], ④ 잠재클래스·잠재전이 모형(DTTM의
 주모형), ⑤ 개인 내 국면전환 자기회귀 모형을 적합하고, 클래스 수는
-BIC·표본크기 조정 BIC·BLRT로 결정한다(Nylund, Asparouhov, & Muthén,
-2007). 모형 계열 간 적합도는 직접 비교할 수 없으므로 다음 파의 체제 전환
+BIC·표본크기 조정 BIC·BLRT로 결정한다\[56\]. 모형 계열 간 적합도는 직접 비교할 수 없으므로 다음 파의 체제 전환
 예측력을 공통 기준으로 함께 보고한다.
 
 연속 모형이 우세하더라도 DTTM이 기각되는 것은 아니다. 이 경우 국면은
@@ -929,15 +901,13 @@ cusp 모형으로 계속 검정한다. 국면 분리의 실패는 이론의 표�
 연속)에 관한 결과이며, 상태공간 정의 자체의 기각과는 구분한다.
 
 잠재프로파일분석과 잠재전이분석은 이미 국내외 조직 연구에서 쓰이고
-있다(김승완, 노성민, 2023; 심수진, 정지수, 2025; Hirva et al., 2026; Wu
-et al., 2026). DTTM 검증이 이 연구들과 다른 점은 세 가지다. 첫째,
+있다\[10, 25, 26, 28\]. DTTM 검증이 이 연구들과 다른 점은 세 가지다. 첫째,
 클래스의 수와 내용을 자료에서 탐색하지 않고 Table 2의 정의에 따라 미리
 지정한다. 둘째, 전이행렬의 칸마다 크기에 대한 가설을 두고(Table 3) 제약
 모형과 자유 모형을 비교한다. 셋째, 전이확률을 설명하는 공변인을
 비용·관성·계기로 한정하고, 그 효과의 형태까지 미리 명세한다. 또한 시점
 간 측정불변성이 성립해야 클래스 간 이동을 국면 전이로 해석할 수
-있으므로, 구성개념의 내적 구조를 먼저 확인해야 한다(조직몰입에 대한 국내
-적용 예로 안정원, 이순묵, 2015 참조).
+있으므로, 구성개념의 내적 구조를 먼저 확인해야 한다(조직몰입에 대한 국내 적용 예는 \[18\] 참조).
 
 ## 6.6 단계별 연구 설계
 
@@ -975,10 +945,10 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 연구 4의 측정 버스트 설계는 전체 기간을 촘촘히 측정하는 부담 없이 임계
 구간 주변에서만 고빈도 자료를 확보하는 방법이다. 본 연구는 개인 수준의
 조기경보 판정에 개인당 약 50회 이상의 측정을 잠정 기준으로 둔다. 집단
-수준의 동태적 구조방정식모형(Asparouhov, Hamaker, & Muthén, 2018)에 관한
+수준의 동태적 구조방정식모형\[57\]에 관한
 모의실험 연구는 개인 수가 충분히 크면 적은 측정 횟수를 어느 정도 보완할
 수 있으나 개인별 자기회귀 계수와 같은 무선효과는 비교적 긴 시계열을
-필요로 한다고 보고하였다(Schultzberg & Muthén, 2018). 최종 규모는 연구
+필요로 한다고 보고하였다\[58\]. 최종 규모는 연구
 모형에 맞춘 모의실험으로 정한다. 저자의 선행 다집단 구조방정식 연구(다섯
 전문직군, N = 586)는 DTTM 구상의 배경이 되었으나, 국면을 반복 측정한
 자료가 아니므로 DTTM의 직접 검증으로 제시하지 않는다.
@@ -1002,7 +972,7 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 구성원에게는 같은 요구의 증가가 경합 국면에서보다 더 큰 전이 위험과
 관련될 것\"이라는 가설을 제시한다. 이는 같은 변수의 효과가 시점과 상태에
 따라 달라질 수 있다는 주장으로, 이론에서 시간을 명시적으로 다루어야
-한다는 논의(George & Jones, 2000; Mitchell & James, 2001)에 대한 하나의
+한다는 논의\[5, 59\]에 대한 하나의
 응답이 될 수 있다.
 
 둘째, DTTM은 단계모형에 제기되어 온 두 문제, 즉 단계가 연속 점수의
@@ -1026,8 +996,8 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 하나의 전이 위험에 대한 서로 다른 항으로 다루어진다.
 
 다섯째, DTTM은 국내에서 늘고 있는 개인 중심 종단 연구에 사전 가설의 틀을
-제공할 수 있다. 직무소진의 궤적 유형(김예진 등, 2024)이나 유형 간
-이동(김승완, 노성민, 2023)을 보고한 연구들은 유형의 수와 이름을 자료에서
+제공할 수 있다. 직무소진의 궤적 유형\[8\]이나 유형 간
+이동\[10\]을 보고한 연구들은 유형의 수와 이름을 자료에서
 도출하였다. DTTM의 국면 정의와 전이행렬 가설은 이런 연구에서 무엇을
 찾을지를 미리 정하는 데 쓰일 수 있으며, 서로 다른 표본의 결과를 같은
 틀에서 비교하는 데 도움이 될 수 있다. 예를 들어 \"지연소진\" 궤적은 경합
@@ -1073,7 +1043,7 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 개인의 안정적 성향인지 맥락에 따라 변하는 계수인지는 이론적으로도 열려
 있다. 비율형 비용식의 검정은 객관적 비율척도 지표를 확보할 수 있는
 맥락에서 우선 수행하는 것이 바람직하다. 또한 전환비용의 비교 척도로
-제시한 척도(Burnham, Frels, & Mahajan, 2003)는 소비자 맥락에서
+제시한 척도\[53\]는 소비자 맥락에서
 개발되었으므로 조직 맥락에 맞는 번안과 타당화가 필요하다.
 
 셋째, 조기경보 신호의 검정에는 개인당 수십 회의 반복측정과 변화 이전의
@@ -1090,7 +1060,7 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 다섯째, 본 연구가 참고한 임계전이의 실증 근거는 주로 생태학과
 임상심리학에서 나왔다. 조직 구성원의 행동과 역할이 정서나 증상과 유사한
 동태를 보일지는 불확실하며, 임상 자료에서도 개인 수준 조기경보 신호의
-예측력은 제한적이었다(Helmich et al., 2023, 2024). 따라서 명제 4와 6은
+예측력은 제한적이었다\[17, 33\]. 따라서 명제 4와 6은
 다른 명제보다 지지되지 않을 가능성이 높은 명제로 보아야 한다. 본 연구는
 이들이 기각되더라도 상태공간 구조(명제 1)와 비용 역전(명제 5)에 관한
 명제가 독립적으로 검정될 수 있도록 이론을 구성하였다.
@@ -1120,256 +1090,123 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 
 # References
 
-## 국내문헌 (영문 번역·인용순 배열은 v1.5에서 전환 예정)
+\[1\] A. B. Bakker, E. Demerouti, A. Sanz-Vergel, "Job demands-resources theory: Ten years later", *Annual Review of Organizational Psychology and Organizational Behavior*, Vol.10, pp.25-53, 2023. DOI: https://doi.org/10.1146/annurev-orgpsych-120920-053933
 
-김미정, 이종현, 최재운. 2025. 직장인들의 직무스트레스와 심리적·신체적
-회복에 대한 잠재프로파일 분석. *한국심리학회지: 산업 및 조직*, 38(3):
-335-374. doi:10.24230/kjiop.v38i3.335-374
+\[2\] S. E. Hobfoll, J. Halbesleben, J.-P. Neveu, M. Westman, "Conservation of resources in the organizational context: The reality of resources and their consequences", *Annual Review of Organizational Psychology and Organizational Behavior*, Vol.5, pp.103-128, 2018. DOI: https://doi.org/10.1146/annurev-orgpsych-032117-104640
 
-김승완, 노성민. 2023. 장애인 근로자의 직무적합성과 조직몰입에 따른
-잠재계층 전이 양상 및 영향요인 분석. *한국정책연구*, 23(2): 89-108.
-doi:10.46330/jkps.2023.06.23.2.89
+\[3\] J. P. Meyer, N. J. Allen, "A three-component conceptualization of organizational commitment", *Human Resource Management Review*, Vol.1, No.1, pp.61-89, 1991.
 
-김예진, 김시형, 정다송, 이동훈. 2024. 코로나 시기 한국 성인의 직무소진
-변화궤적 분석: 잠재계층성장분석(LCGA)을 이용한 종단연구.
-*한국심리학회지: 일반*, 43(5): 395-419.
-doi:10.22257/kjp.2024.12.43.5.395
+\[4\] P. W. Hom, T. W. Lee, J. D. Shaw, J. P. Hausknecht, "One hundred years of employee turnover theory and research", *Journal of Applied Psychology*, Vol.102, No.3, pp.530-545, 2017. DOI: https://doi.org/10.1037/apl0000103
 
-김해룡, 양필석. 2022. 조직변화 수용성의 선행변인 및 결과변인에 관한
-연구. *디지털융복합연구*, 20(4): 247-260. doi:10.14400/JDC.2022.20.4.247
+\[5\] T. R. Mitchell, L. R. James, "Building better theory: Time and the specification of when things happen", *Academy of Management Review*, Vol.26, No.4, pp.530-547, 2001.
 
-심수진, 정지수. 2025. 공공조직의 직장만족도에 관한 잠재프로파일 분석:
-경찰공무원의 조직관리 방안의 도출. *경찰학연구*, 25(1): 191-223.
+\[6\] H. Aguinis, R. M. Bakker, "Time is of the essence: Improving the conceptualization and measurement of time", *Human Resource Management Review*, Vol.31, Article 100763, 2021. DOI: https://doi.org/10.1016/j.hrmr.2020.100763
 
-안정원, 이순묵. 2015. 조직몰입 3요소 모형의 내적구조 검토: 탐색적
-구조방정식 모형(ESEM)의 적용. *한국심리학회지: 산업 및 조직*, 28(4):
-795-827.
+\[7\] C. T. Boon, K. Jiang, R. Eckardt, "The role of time in strategic human resource management research: A review and research agenda", *Journal of Management*, Vol.51, No.1, pp.172-211, 2025. DOI: https://doi.org/10.1177/01492063241264250
 
-이윤수. 2026. 직무 소진의 변화 궤적과 영향 요인 분석: JD-R 이론과 잠재
-성장 모형을 중심으로. *조직과 인사관리연구*, 50(2): 79-103.
-doi:10.36459/jom.2026.50.2.79
+\[8\] 김예진, 김시형, 정다송, 이동훈, "코로나 시기 한국 성인의 직무소진 변화궤적 분석: 잠재계층성장분석(LCGA)을 이용한 종단연구", *한국심리학회지: 일반*, Vol.43, No.5, pp.395-419, 2024. DOI: https://doi.org/10.22257/kjp.2024.12.43.5.395
 
-## 국외문헌
+\[9\] 이윤수, "직무 소진의 변화 궤적과 영향 요인 분석: JD-R 이론과 잠재 성장 모형을 중심으로", *조직과 인사관리연구*, Vol.50, No.2, pp.79-103, 2026. DOI: https://doi.org/10.36459/jom.2026.50.2.79
 
-Aguinis, H., & Bakker, R. M. 2021. Time is of the essence: Improving the
-conceptualization and measurement of time. *Human Resource Management
-Review*, 31: 100763. doi:10.1016/j.hrmr.2020.100763
+\[10\] 김승완, 노성민, "장애인 근로자의 직무적합성과 조직몰입에 따른 잠재계층 전이 양상 및 영향요인 분석", *한국정책연구*, Vol.23, No.2, pp.89-108, 2023. DOI: https://doi.org/10.46330/jkps.2023.06.23.2.89
 
-Ajzen, I. 1991. The theory of planned behavior. *Organizational Behavior
-and Human Decision Processes*, 50(2): 179-211.
+\[11\] K. Lewin, "Frontiers in group dynamics: Concept, method and reality in social science; social equilibria and social change", *Human Relations*, Vol.1, No.1, pp.5-41, 1947.
 
-Ashforth, B. E. 2001. *Role transitions in organizational life: An
-identity-based perspective*. Mahwah, NJ: Lawrence Erlbaum.
+\[12\] S. Cummings, T. Bridgman, K. G. Brown, "Unfreezing change as three steps: Rethinking Kurt Lewin's legacy for change management", *Human Relations*, Vol.69, No.1, pp.33-60, 2016. DOI: https://doi.org/10.1177/0018726715577707
 
-Asparouhov, T., Hamaker, E. L., & Muthén, B. 2018. Dynamic structural
-equation models. *Structural Equation Modeling*, 25(3): 359-388.
+\[13\] J. O. Prochaska, C. C. DiClemente, "Stages and processes of self-change of smoking: Toward an integrative model of change", *Journal of Consulting and Clinical Psychology*, Vol.51, No.3, pp.390-395, 1983.
 
-Bacharach, S. B. 1989. Organizational theories: Some criteria for
-evaluation. *Academy of Management Review*, 14(4): 496-515.
+\[14\] C. J. G. Gersick, "Revolutionary change theories: A multilevel exploration of the punctuated equilibrium paradigm", *Academy of Management Review*, Vol.16, No.1, pp.10-36, 1991.
 
-Bakker, A. B., Demerouti, E., & Sanz-Vergel, A. 2023. Job
-demands-resources theory: Ten years later. *Annual Review of
-Organizational Psychology and Organizational Behavior*, 10: 25-53.
-doi:10.1146/annurev-orgpsych-120920-053933
+\[15\] E. Romanelli, M. L. Tushman, "Organizational transformation as punctuated equilibrium: An empirical test", *Academy of Management Journal*, Vol.37, No.5, pp.1141-1166, 1994.
 
-Bandura, A. 1977. Self-efficacy: Toward a unifying theory of behavioral
-change. *Psychological Review*, 84(2): 191-215.
+\[16\] M. Scheffer, J. Bascompte, W. A. Brock, et al., "Early-warning signals for critical transitions", *Nature*, Vol.461, pp.53-59, 2009.
 
-Bauer, D. J., & Curran, P. J. 2003. Distributional assumptions of growth
-mixture models: Implications for overextraction of latent trajectory
-classes. *Psychological Methods*, 8(3): 338-363.
+\[17\] M. A. Helmich, M. J. Schreuder, L. F. Bringmann, et al., "Slow down and be critical before using early warning signals in psychopathology", *Nature Reviews Psychology*, Vol.3, No.11, pp.767-780, 2024. DOI: https://doi.org/10.1038/s44159-024-00369-y
 
-Boon, C. T., Jiang, K., & Eckardt, R. 2025. The role of time in
-strategic human resource management research: A review and research
-agenda. *Journal of Management*, 51(1): 172-211.
-doi:10.1177/01492063241264250
+\[18\] 안정원, 이순묵, "조직몰입 3요소 모형의 내적구조 검토: 탐색적 구조방정식 모형(ESEM)의 적용", *한국심리학회지: 산업 및 조직*, Vol.28, No.4, pp.795-827, 2015.
 
-Burnham, T. A., Frels, J. K., & Mahajan, V. 2003. Consumer switching
-costs: A typology, antecedents, and consequences. *Journal of the
-Academy of Marketing Science*, 31(2): 109-126.
+\[19\] 김해룡, 양필석, "조직변화 수용성의 선행변인 및 결과변인에 관한 연구", *디지털융복합연구*, Vol.20, No.4, pp.247-260, 2022. DOI: https://doi.org/10.14400/JDC.2022.20.4.247
 
-Chan, D. 1998. Functional relations among constructs in the same content
-domain at different levels of analysis: A typology of composition
-models. *Journal of Applied Psychology*, 83(2): 234-246.
+\[20\] A. H. Van de Ven, M. S. Poole, "Explaining development and change in organizations", *Academy of Management Review*, Vol.20, No.3, pp.510-540, 1995.
 
-Cummings, S., Bridgman, T., & Brown, K. G. 2016. Unfreezing change as
-three steps: Rethinking Kurt Lewin\'s legacy for change management.
-*Human Relations*, 69(1): 33-60. doi:10.1177/0018726715577707
+\[21\] B. E. Ashforth, *Role transitions in organizational life: An identity-based perspective*, Lawrence Erlbaum, Mahwah, NJ, 2001.
 
-Dablander, F., Pichler, A., Cika, A., & Bacilieri, A. 2023. Anticipating
-critical transitions in psychological systems using early warning
-signals: Theoretical and practical considerations. *Psychological
-Methods*, 28(4): 765-790. doi:10.1037/met0000450
+\[22\] T. W. Lee, T. R. Mitchell, "An alternative approach: The unfolding model of voluntary employee turnover", *Academy of Management Review*, Vol.19, No.1, pp.51-89, 1994.
 
-Dakos, V., Carpenter, S. R., Brock, W. A., Ellison, A. M., Guttal, V.,
-Ives, A. R., Kéfi, S., Livina, V., Seekell, D. A., van Nes, E. H., &
-Scheffer, M. 2012. Methods for detecting early warnings of critical
-transitions in time series illustrated using simulated ecological data.
-*PLoS ONE*, 7(7): e41010.
+\[23\] J. Stouten, D. M. Rousseau, D. De Cremer, "Successful organizational change: Integrating the management practice and scholarly literatures", *Academy of Management Annals*, Vol.12, No.2, pp.752-788, 2018. DOI: https://doi.org/10.5465/annals.2016.0095
 
-Eisenberger, R., Huntington, R., Hutchison, S., & Sowa, D. 1986.
-Perceived organizational support. *Journal of Applied Psychology*,
-71(3): 500-507.
+\[24\] S. Oreg, J. M. Bartunek, G. Lee, B. Do, "An affect-based model of recipients' responses to organizational change events", *Academy of Management Review*, Vol.43, No.1, pp.65-86, 2018. DOI: https://doi.org/10.5465/amr.2014.0335
 
-Feldman, M. S., & Pentland, B. T. 2003. Reconceptualizing organizational
-routines as a source of flexibility and change. *Administrative Science
-Quarterly*, 48(1): 94-118.
+\[25\] Z. Wu, C. Q. Lu, J. Akkermans, "The dynamics of employees' career sustainability: A latent transition analysis", *Journal of Occupational and Organizational Psychology*, Vol.99, No.1, Article e70101, 2026. DOI: https://doi.org/10.1111/joop.70101
 
-George, J. M., & Jones, G. R. 2000. The role of time in theory and
-theory building. *Journal of Management*, 26(4): 657-684.
+\[26\] L. Hirva, S. Mauno, A. Mäkikangas, "Development of job burnout and job performance: A latent profile and transition analysis over three years", *Work & Stress*, Vol.40, No.1, pp.104-124, 2026. DOI: https://doi.org/10.1080/02678373.2026.2618069
 
-Gersick, C. J. G. 1991. Revolutionary change theories: A multilevel
-exploration of the punctuated equilibrium paradigm. *Academy of
-Management Review*, 16(1): 10-36.
+\[27\] 김미정, 이종현, 최재운, "직장인들의 직무스트레스와 심리적·신체적 회복에 대한 잠재프로파일 분석", *한국심리학회지: 산업 및 조직*, Vol.38, No.3, pp.335-374, 2025. DOI: https://doi.org/10.24230/kjiop.v38i3.335-374
 
-Grasman, R. P. P. P., van der Maas, H. L. J., & Wagenmakers, E.-J. 2009.
-Fitting the cusp catastrophe in R: A cusp package primer. *Journal of
-Statistical Software*, 32(8): 1-27.
+\[28\] 심수진, 정지수, "공공조직의 직장만족도에 관한 잠재프로파일 분석: 경찰공무원의 조직관리 방안의 도출", *경찰학연구*, Vol.25, No.1, pp.191-223, 2025.
 
-Guastello, S. J. 2002. *Managing emergent phenomena: Nonlinear dynamics
-in work organizations*. Mahwah, NJ: Lawrence Erlbaum.
+\[29\] V. Dakos, S. R. Carpenter, W. A. Brock, et al., "Methods for detecting early warnings of critical transitions in time series illustrated using simulated ecological data", *PLoS ONE*, Vol.7, No.7, Article e41010, 2012.
 
-Helmich, M. A., Olthof, M., Oldehinkel, A. J., Wichers, M., Bringmann,
-L. F., & Smit, A. C. 2021. Early warning signals and critical
-transitions in psychopathology: Challenges and recommendations. *Current
-Opinion in Psychology*, 41: 51-58.
+\[30\] I. A. van de Leemput, M. Wichers, A. O. J. Cramer, et al., "Critical slowing down as early warning for the onset and termination of depression", *Proceedings of the National Academy of Sciences*, Vol.111, No.1, pp.87-92, 2014.
 
-Helmich, M. A., Schreuder, M. J., Bringmann, L. F., Riese, H., Snippe,
-E., & Smit, A. C. 2024. Slow down and be critical before using early
-warning signals in psychopathology. *Nature Reviews Psychology*, 3(11):
-767-780. doi:10.1038/s44159-024-00369-y
+\[31\] M. Wichers, P. C. Groot, Psychosystems, ESM Group, EWS Group, "Critical slowing down as a personalized early warning signal for depression", *Psychotherapy and Psychosomatics*, Vol.85, No.2, pp.114-116, 2016.
 
-Helmich, M. A., Smit, A. C., Bringmann, L. F., Schreuder, M. J.,
-Oldehinkel, A. J., Wichers, M., & Snippe, E. 2023. Detecting impending
-symptom transitions using early-warning signals in individuals receiving
-treatment for depression. *Clinical Psychological Science*, 11(6):
-994-1010. doi:10.1177/21677026221137006
+\[32\] F. Dablander, A. Pichler, A. Cika, A. Bacilieri, "Anticipating critical transitions in psychological systems using early warning signals: Theoretical and practical considerations", *Psychological Methods*, Vol.28, No.4, pp.765-790, 2023. DOI: https://doi.org/10.1037/met0000450
 
-Hirva, L., Mauno, S., & Mäkikangas, A. 2026. Development of job burnout
-and job performance: A latent profile and transition analysis over three
-years. *Work & Stress*, 40(1): 104-124.
-doi:10.1080/02678373.2026.2618069
+\[33\] M. A. Helmich, A. C. Smit, L. F. Bringmann, et al., "Detecting impending symptom transitions using early-warning signals in individuals receiving treatment for depression", *Clinical Psychological Science*, Vol.11, No.6, pp.994-1010, 2023. DOI: https://doi.org/10.1177/21677026221137006
 
-Hobfoll, S. E., Halbesleben, J., Neveu, J.-P., & Westman, M. 2018.
-Conservation of resources in the organizational context: The reality of
-resources and their consequences. *Annual Review of Organizational
-Psychology and Organizational Behavior*, 5: 103-128.
-doi:10.1146/annurev-orgpsych-032117-104640
+\[34\] R. Thom, *Structural stability and morphogenesis*, W. A. Benjamin, Reading, MA, 1975.
 
-Holt, D. T., Armenakis, A. A., Feild, H. S., & Harris, S. G. 2007.
-Readiness for organizational change: The systematic development of a
-scale. *Journal of Applied Behavioral Science*, 43(2): 232-255.
+\[35\] E. C. Zeeman, *Catastrophe theory: Selected papers, 1972-1977*, Addison-Wesley, Reading, MA, 1977.
 
-Hom, P. W., Lee, T. W., Shaw, J. D., & Hausknecht, J. P. 2017. One
-hundred years of employee turnover theory and research. *Journal of
-Applied Psychology*, 102(3): 530-545. doi:10.1037/apl0000103
+\[36\] H. L. J. van der Maas, R. Kolstein, J. van der Pligt, "Sudden transitions in attitudes", *Sociological Methods & Research*, Vol.32, No.2, pp.125-152, 2003.
 
-Jarvis, C. B., MacKenzie, S. B., & Podsakoff, P. M. 2003. A critical
-review of construct indicators and measurement model misspecification in
-marketing and consumer research. *Journal of Consumer Research*, 30(2):
-199-218.
+\[37\] S. J. Guastello, *Managing emergent phenomena: Nonlinear dynamics in work organizations*, Lawrence Erlbaum, Mahwah, NJ, 2002.
 
-Kahneman, D., & Tversky, A. 1979. Prospect theory: An analysis of
-decision under risk. *Econometrica*, 47(2): 263-291.
+\[38\] R. P. P. P. Grasman, H. L. J. van der Maas, E.-J. Wagenmakers, "Fitting the cusp catastrophe in R: A cusp package primer", *Journal of Statistical Software*, Vol.32, No.8, pp.1-27, 2009.
 
-Kozlowski, S. W. J., & Klein, K. J. 2000. A multilevel approach to
-theory and research in organizations: Contextual, temporal, and emergent
-processes. In K. J. Klein & S. W. J. Kozlowski (Eds.), *Multilevel
-theory, research, and methods in organizations*: 3-90. San Francisco:
-Jossey-Bass.
+\[39\] J. Navarro, M. R. Rueff-Lopes, R. Rico, "New nonlinear and dynamic avenues for the study of work and organizational psychology: An introduction to the special issue", *European Journal of Work and Organizational Psychology*, Vol.29, No.4, pp.477-482, 2020. DOI: https://doi.org/10.1080/1359432X.2020.1794952
 
-Lee, T. W., & Mitchell, T. R. 1994. An alternative approach: The
-unfolding model of voluntary employee turnover. *Academy of Management
-Review*, 19(1): 51-89.
+\[40\] R. K. Merton, *Social theory and social structure* (enlarged ed.), Free Press, New York, 1968.
 
-Lewin, K. 1947. Frontiers in group dynamics: Concept, method and reality
-in social science; social equilibria and social change. *Human
-Relations*, 1(1): 5-41.
+\[41\] D. Kahneman, A. Tversky, "Prospect theory: An analysis of decision under risk", *Econometrica*, Vol.47, No.2, pp.263-291, 1979.
 
-Lubke, G. H., & Muthén, B. 2005. Investigating population heterogeneity
-with factor mixture models. *Psychological Methods*, 10(1): 21-39.
+\[42\] W. Samuelson, R. Zeckhauser, "Status quo bias in decision making", *Journal of Risk and Uncertainty*, Vol.1, No.1, pp.7-59, 1988.
 
-Merton, R. K. 1968. *Social theory and social structure* (enlarged ed.).
-New York: Free Press.
+\[43\] M. A. Helmich, M. Olthof, A. J. Oldehinkel, et al., "Early warning signals and critical transitions in psychopathology: Challenges and recommendations", *Current Opinion in Psychology*, Vol.41, pp.51-58, 2021.
 
-Meyer, J. P., & Allen, N. J. 1991. A three-component conceptualization
-of organizational commitment. *Human Resource Management Review*, 1(1):
-61-89.
+\[44\] I. Ajzen, "The theory of planned behavior", *Organizational Behavior and Human Decision Processes*, Vol.50, No.2, pp.179-211, 1991.
 
-Mitchell, T. R., & James, L. R. 2001. Building better theory: Time and
-the specification of when things happen. *Academy of Management Review*,
-26(4): 530-547.
+\[45\] D. T. Holt, A. A. Armenakis, H. S. Feild, S. G. Harris, "Readiness for organizational change: The systematic development of a scale", *Journal of Applied Behavioral Science*, Vol.43, No.2, pp.232-255, 2007.
 
-Navarro, J., Rueff-Lopes, M. R., & Rico, R. 2020. New nonlinear and
-dynamic avenues for the study of work and organizational psychology: An
-introduction to the special issue. *European Journal of Work and
-Organizational Psychology*, 29(4): 477-482.
-doi:10.1080/1359432X.2020.1794952
+\[46\] C. B. Jarvis, S. B. MacKenzie, P. M. Podsakoff, "A critical review of construct indicators and measurement model misspecification in marketing and consumer research", *Journal of Consumer Research*, Vol.30, No.2, pp.199-218, 2003.
 
-Nylund, K. L., Asparouhov, T., & Muthén, B. O. 2007. Deciding on the
-number of classes in latent class analysis and growth mixture modeling:
-A Monte Carlo simulation study. *Structural Equation Modeling*, 14(4):
-535-569.
+\[47\] M. S. Feldman, B. T. Pentland, "Reconceptualizing organizational routines as a source of flexibility and change", *Administrative Science Quarterly*, Vol.48, No.1, pp.94-118, 2003.
 
-Oreg, S., Bartunek, J. M., Lee, G., & Do, B. 2018. An affect-based model
-of recipients\' responses to organizational change events. *Academy of
-Management Review*, 43(1): 65-86. doi:10.5465/amr.2014.0335
+\[48\] A. Bandura, "Self-efficacy: Toward a unifying theory of behavioral change", *Psychological Review*, Vol.84, No.2, pp.191-215, 1977.
 
-Prochaska, J. O., & DiClemente, C. C. 1983. Stages and processes of
-self-change of smoking: Toward an integrative model of change. *Journal
-of Consulting and Clinical Psychology*, 51(3): 390-395.
+\[49\] R. Eisenberger, R. Huntington, S. Hutchison, D. Sowa, "Perceived organizational support", *Journal of Applied Psychology*, Vol.71, No.3, pp.500-507, 1986.
 
-Romanelli, E., & Tushman, M. L. 1994. Organizational transformation as
-punctuated equilibrium: An empirical test. *Academy of Management
-Journal*, 37(5): 1141-1166.
+\[50\] D. Chan, "Functional relations among constructs in the same content domain at different levels of analysis: A typology of composition models", *Journal of Applied Psychology*, Vol.83, No.2, pp.234-246, 1998.
 
-Samuelson, W., & Zeckhauser, R. 1988. Status quo bias in decision
-making. *Journal of Risk and Uncertainty*, 1(1): 7-59.
+\[51\] S. W. J. Kozlowski, K. J. Klein, "A multilevel approach to theory and research in organizations: Contextual, temporal, and emergent processes", In K. J. Klein, S. W. J. Kozlowski (Eds.), *Multilevel theory, research, and methods in organizations*, Jossey-Bass, San Francisco, pp.3-90, 2000.
 
-Scheffer, M., Bascompte, J., Brock, W. A., Brovkin, V., Carpenter, S.
-R., Dakos, V., Held, H., van Nes, E. H., Rietkerk, M., & Sugihara, G.
-2009. Early-warning signals for critical transitions. *Nature*, 461:
-53-59.
+\[52\] S. B. Bacharach, "Organizational theories: Some criteria for evaluation", *Academy of Management Review*, Vol.14, No.4, pp.496-515, 1989.
 
-Schultzberg, M., & Muthén, B. 2018. Number of subjects and time points
-needed for multilevel time-series analysis: A simulation study of
-dynamic structural equation modeling. *Structural Equation Modeling*,
-25(4): 495-515.
+\[53\] T. A. Burnham, J. K. Frels, V. Mahajan, "Consumer switching costs: A typology, antecedents, and consequences", *Journal of the Academy of Marketing Science*, Vol.31, No.2, pp.109-126, 2003.
 
-Stouten, J., Rousseau, D. M., & De Cremer, D. 2018. Successful
-organizational change: Integrating the management practice and scholarly
-literatures. *Academy of Management Annals*, 12(2): 752-788.
-doi:10.5465/annals.2016.0095
+\[54\] D. J. Bauer, P. J. Curran, "Distributional assumptions of growth mixture models: Implications for overextraction of latent trajectory classes", *Psychological Methods*, Vol.8, No.3, pp.338-363, 2003.
 
-Thom, R. 1975. *Structural stability and morphogenesis*. Reading, MA: W.
-A. Benjamin.
+\[55\] G. H. Lubke, B. Muthén, "Investigating population heterogeneity with factor mixture models", *Psychological Methods*, Vol.10, No.1, pp.21-39, 2005.
 
-van de Leemput, I. A., Wichers, M., Cramer, A. O. J., Borsboom, D.,
-Tuerlinckx, F., Kuppens, P., van Nes, E. H., Viechtbauer, W., Giltay, E.
-J., Aggen, S. H., Derom, C., Jacobs, N., Kendler, K. S., van der Maas,
-H. L. J., Neale, M. C., Peeters, F., Thiery, E., Zachar, P., & Scheffer,
-M. 2014. Critical slowing down as early warning for the onset and
-termination of depression. *Proceedings of the National Academy of
-Sciences*, 111(1): 87-92.
+\[56\] K. L. Nylund, T. Asparouhov, B. O. Muthén, "Deciding on the number of classes in latent class analysis and growth mixture modeling: A Monte Carlo simulation study", *Structural Equation Modeling*, Vol.14, No.4, pp.535-569, 2007.
 
-Van de Ven, A. H., & Poole, M. S. 1995. Explaining development and
-change in organizations. *Academy of Management Review*, 20(3): 510-540.
+\[57\] T. Asparouhov, E. L. Hamaker, B. Muthén, "Dynamic structural equation models", *Structural Equation Modeling*, Vol.25, No.3, pp.359-388, 2018.
 
-van der Maas, H. L. J., Kolstein, R., & van der Pligt, J. 2003. Sudden
-transitions in attitudes. *Sociological Methods & Research*, 32(2):
-125-152.
+\[58\] M. Schultzberg, B. Muthén, "Number of subjects and time points needed for multilevel time-series analysis: A simulation study of dynamic structural equation modeling", *Structural Equation Modeling*, Vol.25, No.4, pp.495-515, 2018.
 
-Wichers, M., Groot, P. C., Psychosystems, ESM Group, & EWS Group. 2016.
-Critical slowing down as a personalized early warning signal for
-depression. *Psychotherapy and Psychosomatics*, 85(2): 114-116.
-
-Wu, Z., Lu, C. Q., & Akkermans, J. 2026. The dynamics of employees\'
-career sustainability: A latent transition analysis. *Journal of
-Occupational and Organizational Psychology*, 99(1): e70101.
-doi:10.1111/joop.70101
-
-Zeeman, E. C. 1977. *Catastrophe theory: Selected papers, 1972-1977*.
-Reading, MA: Addison-Wesley.
+\[59\] J. M. George, G. R. Jones, "The role of time in theory and theory building", *Journal of Management*, Vol.26, No.4, pp.657-684, 2000.
 
 # Appendix. 국면별 대표 문항 예시
 
