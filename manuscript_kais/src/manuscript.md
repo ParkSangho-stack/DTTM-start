@@ -1094,7 +1094,7 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 
 \[2\] S. E. Hobfoll, J. Halbesleben, J.-P. Neveu, M. Westman, "Conservation of resources in the organizational context: The reality of resources and their consequences", *Annual Review of Organizational Psychology and Organizational Behavior*, Vol.5, pp.103-128, 2018. DOI: https://doi.org/10.1146/annurev-orgpsych-032117-104640
 
-\[3\] J. P. Meyer, N. J. Allen, "A three-component conceptualization of organizational commitment", *Human Resource Management Review*, Vol.1, No.1, pp.61-89, 1991.
+\[3\] J. P. Meyer, N. J. Allen, "A three-component conceptualization of organizational commitment", *Human Resource Management Review*, Vol.1, No.1, pp.61-89, 1991. DOI: https://doi.org/10.1016/1053-4822(91)90011-Z
 
 \[4\] P. W. Hom, T. W. Lee, J. D. Shaw, J. P. Hausknecht, "One hundred years of employee turnover theory and research", *Journal of Applied Psychology*, Vol.102, No.3, pp.530-545, 2017. DOI: https://doi.org/10.1037/apl0000103
 
@@ -1104,35 +1104,35 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 
 \[7\] C. T. Boon, K. Jiang, R. Eckardt, "The role of time in strategic human resource management research: A review and research agenda", *Journal of Management*, Vol.51, No.1, pp.172-211, 2025. DOI: https://doi.org/10.1177/01492063241264250
 
-\[8\] 김예진, 김시형, 정다송, 이동훈, "코로나 시기 한국 성인의 직무소진 변화궤적 분석: 잠재계층성장분석(LCGA)을 이용한 종단연구", *한국심리학회지: 일반*, Vol.43, No.5, pp.395-419, 2024. DOI: https://doi.org/10.22257/kjp.2024.12.43.5.395
+\[8\] Y. Kim, S. H. Kim, D. Jung, D. H. Lee, "Trajectories of Job Burnout Among Korean Adults During the COVID-19 Pandemic: A Longitudinal Study Using Latent Growth Analysis (LCGA)", *Korean Journal of Psychology: General*, Vol.43, No.5, pp.395-419, 2024. DOI: https://doi.org/10.22257/kjp.2024.12.43.5.395
 
-\[9\] 이윤수, "직무 소진의 변화 궤적과 영향 요인 분석: JD-R 이론과 잠재 성장 모형을 중심으로", *조직과 인사관리연구*, Vol.50, No.2, pp.79-103, 2026. DOI: https://doi.org/10.36459/jom.2026.50.2.79
+\[9\] 이윤수, "Longitudinal Trajectories and Predictors of Job Burnout: An Application of JD-R Theory and Latent Growth Modeling", *조직과 인사관리연구*, Vol.50, No.2, pp.79-103, 2026. DOI: https://doi.org/10.36459/jom.2026.50.2.79
 
 \[10\] 김승완, 노성민, "장애인 근로자의 직무적합성과 조직몰입에 따른 잠재계층 전이 양상 및 영향요인 분석", *한국정책연구*, Vol.23, No.2, pp.89-108, 2023. DOI: https://doi.org/10.46330/jkps.2023.06.23.2.89
 
-\[11\] K. Lewin, "Frontiers in group dynamics: Concept, method and reality in social science; social equilibria and social change", *Human Relations*, Vol.1, No.1, pp.5-41, 1947.
+\[11\] K. Lewin, "Frontiers in group dynamics: Concept, method and reality in social science; social equilibria and social change", *Human Relations*, Vol.1, No.1, pp.5-41, 1947. DOI: https://doi.org/10.1177/001872674700100103
 
 \[12\] S. Cummings, T. Bridgman, K. G. Brown, "Unfreezing change as three steps: Rethinking Kurt Lewin's legacy for change management", *Human Relations*, Vol.69, No.1, pp.33-60, 2016. DOI: https://doi.org/10.1177/0018726715577707
 
-\[13\] J. O. Prochaska, C. C. DiClemente, "Stages and processes of self-change of smoking: Toward an integrative model of change", *Journal of Consulting and Clinical Psychology*, Vol.51, No.3, pp.390-395, 1983.
+\[13\] J. O. Prochaska, C. C. DiClemente, "Stages and processes of self-change of smoking: Toward an integrative model of change", *Journal of Consulting and Clinical Psychology*, Vol.51, No.3, pp.390-395, 1983. DOI: https://doi.org/10.1037/0022-006X.51.3.390
 
 \[14\] C. J. G. Gersick, "Revolutionary change theories: A multilevel exploration of the punctuated equilibrium paradigm", *Academy of Management Review*, Vol.16, No.1, pp.10-36, 1991.
 
-\[15\] E. Romanelli, M. L. Tushman, "Organizational transformation as punctuated equilibrium: An empirical test", *Academy of Management Journal*, Vol.37, No.5, pp.1141-1166, 1994.
+\[15\] E. Romanelli, M. L. Tushman, "Organizational transformation as punctuated equilibrium: An empirical test", *Academy of Management Journal*, Vol.37, No.5, pp.1141-1166, 1994. DOI: https://doi.org/10.5465/256669
 
-\[16\] M. Scheffer, J. Bascompte, W. A. Brock, et al., "Early-warning signals for critical transitions", *Nature*, Vol.461, pp.53-59, 2009.
+\[16\] M. Scheffer, J. Bascompte, W. A. Brock, et al., "Early-warning signals for critical transitions", *Nature*, Vol.461, pp.53-59, 2009. DOI: https://doi.org/10.1038/nature08227
 
 \[17\] M. A. Helmich, M. J. Schreuder, L. F. Bringmann, et al., "Slow down and be critical before using early warning signals in psychopathology", *Nature Reviews Psychology*, Vol.3, No.11, pp.767-780, 2024. DOI: https://doi.org/10.1038/s44159-024-00369-y
 
-\[18\] 안정원, 이순묵, "조직몰입 3요소 모형의 내적구조 검토: 탐색적 구조방정식 모형(ESEM)의 적용", *한국심리학회지: 산업 및 조직*, Vol.28, No.4, pp.795-827, 2015.
+\[18\] 안정원, 이순묵, "Evaluation of the Three-Component Model of Organizational Commitment in South Korea: Exploratory Structural Equation Modeling (ESEM) Approach", *Korean Journal of Industrial and Organizational Psychology*, Vol.28, No.4, pp.795-827, 2015. DOI: https://doi.org/10.24230/ksiop.28.4.201511.795
 
-\[19\] 김해룡, 양필석, "조직변화 수용성의 선행변인 및 결과변인에 관한 연구", *디지털융복합연구*, Vol.20, No.4, pp.247-260, 2022. DOI: https://doi.org/10.14400/JDC.2022.20.4.247
+\[19\] P. S. Yang, H. R. Kim, "A Study on the Antecedents and Consequences of Acceptance of Organizational Change", *Journal of Digital Convergence*, Vol.20, No.4, pp.247-260, 2022. DOI: https://doi.org/10.14400/JDC.2022.20.4.247
 
-\[20\] A. H. Van de Ven, M. S. Poole, "Explaining development and change in organizations", *Academy of Management Review*, Vol.20, No.3, pp.510-540, 1995.
+\[20\] A. H. Van de Ven, M. S. Poole, "Explaining development and change in organizations", *Academy of Management Review*, Vol.20, No.3, pp.510-540, 1995. DOI: https://doi.org/10.5465/amr.1995.9508080329
 
 \[21\] B. E. Ashforth, *Role transitions in organizational life: An identity-based perspective*, Lawrence Erlbaum, Mahwah, NJ, 2001.
 
-\[22\] T. W. Lee, T. R. Mitchell, "An alternative approach: The unfolding model of voluntary employee turnover", *Academy of Management Review*, Vol.19, No.1, pp.51-89, 1994.
+\[22\] T. W. Lee, T. R. Mitchell, "An alternative approach: The unfolding model of voluntary employee turnover", *Academy of Management Review*, Vol.19, No.1, pp.51-89, 1994. DOI: https://doi.org/10.5465/amr.1994.9410122008
 
 \[23\] J. Stouten, D. M. Rousseau, D. De Cremer, "Successful organizational change: Integrating the management practice and scholarly literatures", *Academy of Management Annals*, Vol.12, No.2, pp.752-788, 2018. DOI: https://doi.org/10.5465/annals.2016.0095
 
@@ -1142,15 +1142,15 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 
 \[26\] L. Hirva, S. Mauno, A. Mäkikangas, "Development of job burnout and job performance: A latent profile and transition analysis over three years", *Work & Stress*, Vol.40, No.1, pp.104-124, 2026. DOI: https://doi.org/10.1080/02678373.2026.2618069
 
-\[27\] 김미정, 이종현, 최재운, "직장인들의 직무스트레스와 심리적·신체적 회복에 대한 잠재프로파일 분석", *한국심리학회지: 산업 및 조직*, Vol.38, No.3, pp.335-374, 2025. DOI: https://doi.org/10.24230/kjiop.v38i3.335-374
+\[27\] 김미정, 이종현, 최재운, "Latent Profile Analysis of Stress Recovery Among Workers: A Combined Approach of Psychological and Physical Factors", *Korean Journal of Industrial and Organizational Psychology*, Vol.38, No.3, pp.335-374, 2025. DOI: https://doi.org/10.24230/kjiop.v38i3.335-374
 
 \[28\] 심수진, 정지수, "공공조직의 직장만족도에 관한 잠재프로파일 분석: 경찰공무원의 조직관리 방안의 도출", *경찰학연구*, Vol.25, No.1, pp.191-223, 2025.
 
-\[29\] V. Dakos, S. R. Carpenter, W. A. Brock, et al., "Methods for detecting early warnings of critical transitions in time series illustrated using simulated ecological data", *PLoS ONE*, Vol.7, No.7, Article e41010, 2012.
+\[29\] V. Dakos, S. R. Carpenter, W. A. Brock, et al., "Methods for detecting early warnings of critical transitions in time series illustrated using simulated ecological data", *PLoS ONE*, Vol.7, No.7, Article e41010, 2012. DOI: https://doi.org/10.1371/journal.pone.0041010
 
-\[30\] I. A. van de Leemput, M. Wichers, A. O. J. Cramer, et al., "Critical slowing down as early warning for the onset and termination of depression", *Proceedings of the National Academy of Sciences*, Vol.111, No.1, pp.87-92, 2014.
+\[30\] I. A. van de Leemput, M. Wichers, A. O. J. Cramer, et al., "Critical slowing down as early warning for the onset and termination of depression", *Proceedings of the National Academy of Sciences*, Vol.111, No.1, pp.87-92, 2014. DOI: https://doi.org/10.1073/pnas.1312114110
 
-\[31\] M. Wichers, P. C. Groot, Psychosystems, ESM Group, EWS Group, "Critical slowing down as a personalized early warning signal for depression", *Psychotherapy and Psychosomatics*, Vol.85, No.2, pp.114-116, 2016.
+\[31\] M. Wichers, P. C. Groot, Psychosystems, ESM Group, EWS Group, "Critical slowing down as a personalized early warning signal for depression", *Psychotherapy and Psychosomatics*, Vol.85, No.2, pp.114-116, 2016. DOI: https://doi.org/10.1159/000441458
 
 \[32\] F. Dablander, A. Pichler, A. Cika, A. Bacilieri, "Anticipating critical transitions in psychological systems using early warning signals: Theoretical and practical considerations", *Psychological Methods*, Vol.28, No.4, pp.765-790, 2023. DOI: https://doi.org/10.1037/met0000450
 
@@ -1160,51 +1160,51 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 
 \[35\] E. C. Zeeman, *Catastrophe theory: Selected papers, 1972-1977*, Addison-Wesley, Reading, MA, 1977.
 
-\[36\] H. L. J. van der Maas, R. Kolstein, J. van der Pligt, "Sudden transitions in attitudes", *Sociological Methods & Research*, Vol.32, No.2, pp.125-152, 2003.
+\[36\] H. L. J. van der Maas, R. Kolstein, J. van der Pligt, "Sudden transitions in attitudes", *Sociological Methods & Research*, Vol.32, No.2, pp.125-152, 2003. DOI: https://doi.org/10.1177/0049124103253773
 
 \[37\] S. J. Guastello, *Managing emergent phenomena: Nonlinear dynamics in work organizations*, Lawrence Erlbaum, Mahwah, NJ, 2002.
 
-\[38\] R. P. P. P. Grasman, H. L. J. van der Maas, E.-J. Wagenmakers, "Fitting the cusp catastrophe in R: A cusp package primer", *Journal of Statistical Software*, Vol.32, No.8, pp.1-27, 2009.
+\[38\] R. P. P. P. Grasman, H. L. J. van der Maas, E.-J. Wagenmakers, "Fitting the cusp catastrophe in R: A cusp package primer", *Journal of Statistical Software*, Vol.32, No.8, pp.1-27, 2009. DOI: https://doi.org/10.18637/jss.v032.i08
 
 \[39\] J. Navarro, M. R. Rueff-Lopes, R. Rico, "New nonlinear and dynamic avenues for the study of work and organizational psychology: An introduction to the special issue", *European Journal of Work and Organizational Psychology*, Vol.29, No.4, pp.477-482, 2020. DOI: https://doi.org/10.1080/1359432X.2020.1794952
 
 \[40\] R. K. Merton, *Social theory and social structure* (enlarged ed.), Free Press, New York, 1968.
 
-\[41\] D. Kahneman, A. Tversky, "Prospect theory: An analysis of decision under risk", *Econometrica*, Vol.47, No.2, pp.263-291, 1979.
+\[41\] D. Kahneman, A. Tversky, "Prospect theory: An analysis of decision under risk", *Econometrica*, Vol.47, No.2, pp.263-291, 1979. DOI: https://doi.org/10.2307/1914185
 
-\[42\] W. Samuelson, R. Zeckhauser, "Status quo bias in decision making", *Journal of Risk and Uncertainty*, Vol.1, No.1, pp.7-59, 1988.
+\[42\] W. Samuelson, R. Zeckhauser, "Status quo bias in decision making", *Journal of Risk and Uncertainty*, Vol.1, No.1, pp.7-59, 1988. DOI: https://doi.org/10.1007/BF00055564
 
-\[43\] M. A. Helmich, M. Olthof, A. J. Oldehinkel, et al., "Early warning signals and critical transitions in psychopathology: Challenges and recommendations", *Current Opinion in Psychology*, Vol.41, pp.51-58, 2021.
+\[43\] M. A. Helmich, M. Olthof, A. J. Oldehinkel, et al., "Early warning signals and critical transitions in psychopathology: Challenges and recommendations", *Current Opinion in Psychology*, Vol.41, pp.51-58, 2021. DOI: https://doi.org/10.1016/j.copsyc.2021.02.008
 
-\[44\] I. Ajzen, "The theory of planned behavior", *Organizational Behavior and Human Decision Processes*, Vol.50, No.2, pp.179-211, 1991.
+\[44\] I. Ajzen, "The theory of planned behavior", *Organizational Behavior and Human Decision Processes*, Vol.50, No.2, pp.179-211, 1991. DOI: https://doi.org/10.1016/0749-5978(91)90020-T
 
-\[45\] D. T. Holt, A. A. Armenakis, H. S. Feild, S. G. Harris, "Readiness for organizational change: The systematic development of a scale", *Journal of Applied Behavioral Science*, Vol.43, No.2, pp.232-255, 2007.
+\[45\] D. T. Holt, A. A. Armenakis, H. S. Feild, S. G. Harris, "Readiness for organizational change: The systematic development of a scale", *Journal of Applied Behavioral Science*, Vol.43, No.2, pp.232-255, 2007. DOI: https://doi.org/10.1177/0021886306295295
 
-\[46\] C. B. Jarvis, S. B. MacKenzie, P. M. Podsakoff, "A critical review of construct indicators and measurement model misspecification in marketing and consumer research", *Journal of Consumer Research*, Vol.30, No.2, pp.199-218, 2003.
+\[46\] C. B. Jarvis, S. B. MacKenzie, P. M. Podsakoff, "A critical review of construct indicators and measurement model misspecification in marketing and consumer research", *Journal of Consumer Research*, Vol.30, No.2, pp.199-218, 2003. DOI: https://doi.org/10.1086/376806
 
-\[47\] M. S. Feldman, B. T. Pentland, "Reconceptualizing organizational routines as a source of flexibility and change", *Administrative Science Quarterly*, Vol.48, No.1, pp.94-118, 2003.
+\[47\] M. S. Feldman, B. T. Pentland, "Reconceptualizing organizational routines as a source of flexibility and change", *Administrative Science Quarterly*, Vol.48, No.1, pp.94-118, 2003. DOI: https://doi.org/10.2307/3556620
 
-\[48\] A. Bandura, "Self-efficacy: Toward a unifying theory of behavioral change", *Psychological Review*, Vol.84, No.2, pp.191-215, 1977.
+\[48\] A. Bandura, "Self-efficacy: Toward a unifying theory of behavioral change", *Psychological Review*, Vol.84, No.2, pp.191-215, 1977. DOI: https://doi.org/10.1037/0033-295X.84.2.191
 
-\[49\] R. Eisenberger, R. Huntington, S. Hutchison, D. Sowa, "Perceived organizational support", *Journal of Applied Psychology*, Vol.71, No.3, pp.500-507, 1986.
+\[49\] R. Eisenberger, R. Huntington, S. Hutchison, D. Sowa, "Perceived organizational support", *Journal of Applied Psychology*, Vol.71, No.3, pp.500-507, 1986. DOI: https://doi.org/10.1037/0021-9010.71.3.500
 
-\[50\] D. Chan, "Functional relations among constructs in the same content domain at different levels of analysis: A typology of composition models", *Journal of Applied Psychology*, Vol.83, No.2, pp.234-246, 1998.
+\[50\] D. Chan, "Functional relations among constructs in the same content domain at different levels of analysis: A typology of composition models", *Journal of Applied Psychology*, Vol.83, No.2, pp.234-246, 1998. DOI: https://doi.org/10.1037/0021-9010.83.2.234
 
 \[51\] S. W. J. Kozlowski, K. J. Klein, "A multilevel approach to theory and research in organizations: Contextual, temporal, and emergent processes", In K. J. Klein, S. W. J. Kozlowski (Eds.), *Multilevel theory, research, and methods in organizations*, Jossey-Bass, San Francisco, pp.3-90, 2000.
 
-\[52\] S. B. Bacharach, "Organizational theories: Some criteria for evaluation", *Academy of Management Review*, Vol.14, No.4, pp.496-515, 1989.
+\[52\] S. B. Bacharach, "Organizational theories: Some criteria for evaluation", *Academy of Management Review*, Vol.14, No.4, pp.496-515, 1989. DOI: https://doi.org/10.5465/amr.1989.4308374
 
-\[53\] T. A. Burnham, J. K. Frels, V. Mahajan, "Consumer switching costs: A typology, antecedents, and consequences", *Journal of the Academy of Marketing Science*, Vol.31, No.2, pp.109-126, 2003.
+\[53\] T. A. Burnham, J. K. Frels, V. Mahajan, "Consumer switching costs: A typology, antecedents, and consequences", *Journal of the Academy of Marketing Science*, Vol.31, No.2, pp.109-126, 2003. DOI: https://doi.org/10.1177/0092070302250897
 
-\[54\] D. J. Bauer, P. J. Curran, "Distributional assumptions of growth mixture models: Implications for overextraction of latent trajectory classes", *Psychological Methods*, Vol.8, No.3, pp.338-363, 2003.
+\[54\] D. J. Bauer, P. J. Curran, "Distributional assumptions of growth mixture models: Implications for overextraction of latent trajectory classes", *Psychological Methods*, Vol.8, No.3, pp.338-363, 2003. DOI: https://doi.org/10.1037/1082-989X.8.3.338
 
-\[55\] G. H. Lubke, B. Muthén, "Investigating population heterogeneity with factor mixture models", *Psychological Methods*, Vol.10, No.1, pp.21-39, 2005.
+\[55\] G. H. Lubke, B. Muthén, "Investigating population heterogeneity with factor mixture models", *Psychological Methods*, Vol.10, No.1, pp.21-39, 2005. DOI: https://doi.org/10.1037/1082-989X.10.1.21
 
-\[56\] K. L. Nylund, T. Asparouhov, B. O. Muthén, "Deciding on the number of classes in latent class analysis and growth mixture modeling: A Monte Carlo simulation study", *Structural Equation Modeling*, Vol.14, No.4, pp.535-569, 2007.
+\[56\] K. L. Nylund, T. Asparouhov, B. O. Muthén, "Deciding on the number of classes in latent class analysis and growth mixture modeling: A Monte Carlo simulation study", *Structural Equation Modeling*, Vol.14, No.4, pp.535-569, 2007. DOI: https://doi.org/10.1080/10705510701575396
 
-\[57\] T. Asparouhov, E. L. Hamaker, B. Muthén, "Dynamic structural equation models", *Structural Equation Modeling*, Vol.25, No.3, pp.359-388, 2018.
+\[57\] T. Asparouhov, E. L. Hamaker, B. Muthén, "Dynamic structural equation models", *Structural Equation Modeling*, Vol.25, No.3, pp.359-388, 2018. DOI: https://doi.org/10.1080/10705511.2017.1406803
 
-\[58\] M. Schultzberg, B. Muthén, "Number of subjects and time points needed for multilevel time-series analysis: A simulation study of dynamic structural equation modeling", *Structural Equation Modeling*, Vol.25, No.4, pp.495-515, 2018.
+\[58\] M. Schultzberg, B. Muthén, "Number of subjects and time points needed for multilevel time-series analysis: A simulation study of dynamic structural equation modeling", *Structural Equation Modeling*, Vol.25, No.4, pp.495-515, 2018. DOI: https://doi.org/10.1080/10705511.2017.1392862
 
 \[59\] J. M. George, G. R. Jones, "The role of time in theory and theory building", *Journal of Management*, Vol.26, No.4, pp.657-684, 2000.
 

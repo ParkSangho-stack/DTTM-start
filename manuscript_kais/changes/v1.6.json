@@ -1,0 +1,236 @@
+{
+ "date": "2026-10-30",
+ "topic": "참고문헌 서지(권·호·쪽·DOI) 전수 확인, 국내문헌 공식 영문 표기",
+ "manuscript": "동태적 임계전이모형(DTTM): 조직 구성원 변화의 상태공간 이론 (이론논문)",
+ "base": "v1.5 (2026-10-29)",
+ "summary": [
+  "참고문헌 59편의 서지를 웹 검색으로 대조했습니다. 이 환경에서는 Crossref·DOI 조회가 막혀 있어 출판사·저장소·색인 페이지로 확인했습니다. DOI가 있는 문헌은 20편에서 49편으로 늘었습니다(29편 추가).",
+  "오류 1건을 고쳤습니다. 김해룡·양필석(2022)[19]의 실제 저자 순서는 양필석(제1저자)·김해룡입니다(울산대학교, 『디지털융복합연구』 20(4): 247-260). 저자 순서를 바로잡고 영문 표기(P. S. Yang, H. R. Kim)로 바꿨습니다. 본문은 번호 인용이라 본문 수정은 없습니다.",
+  "국내 문헌 7편 중 5편([8][9][18][19][27])의 공식 영문 제목을 확인해 바꿨습니다. 학술지 영문명은 4종(Korean Journal of Psychology: General, Korean Journal of Industrial and Organizational Psychology, Journal of Digital Convergence)을 확인했습니다. 안정원·이순묵(2015)[18]의 DOI도 새로 넣었습니다.",
+  "저자 이름의 영문 표기는 학술지 기록에서 확인된 2편([8][19])만 바꿨습니다. 나머지는 저자 본인의 로마자 표기를 확인하지 못해 한글 이름을 그대로 두었습니다. 추측한 로마자를 넣으면 다른 사람으로 검색될 수 있기 때문입니다.",
+  "v1.2에서 미확인으로 남겼던 2건이 풀렸습니다. 김승완·노성민(2023)의 결과 요약(직무적합성 낮음·중간 집단이 이후 조직몰입 낮음·중간 집단으로 이동)과, 김해룡·양필석(2022)의 게재지와 결과(H자동차 261명, 변화 수용성의 매개)가 원문 초록과 일치합니다. 워드 쪽수는 25쪽입니다."
+ ],
+ "changes": [
+  {
+   "loc": "References [19]",
+   "before": "김해룡, 양필석, \"조직변화 수용성의 선행변인 및 결과변인에 관한 연구\", *디지털융복합연구*, …",
+   "after": "P. S. Yang, H. R. Kim, \"A Study on the Antecedents and Consequences of Acceptance of Organizational Change\", *Journal of Digital Convergence*, Vol.20, No.4, pp.247-260, 2022. DOI: …/10.14400/JDC.2022.20.4.247",
+   "reason": "KoreaScience·earticle·울산대 저장소 기록: 저자 Yang Pil-Seok, Kim Hae-Ryong 순. 원고(v2.0부터)의 저자 순서가 거꾸로였음"
+  },
+  {
+   "loc": "References [8]",
+   "before": "김예진, 김시형, 정다송, 이동훈, \"코로나 시기 한국 성인의 직무소진 변화궤적 분석: …\", *한국심리학회지: 일반*, …",
+   "after": "Y. Kim, S. H. Kim, D. Jung, D. H. Lee, \"Trajectories of Job Burnout Among Korean Adults During the COVID-19 Pandemic: A Longitudinal Study Using Latent Growth Analysis (LCGA)\", *Korean Journal of Psychology: General*, …",
+   "reason": "학술지 영문 페이지(accesson.kr, lang=en)의 영문 제목·저자 표기(Yejin Kim, Shi Hyeong Kim, Dasong Jung, Dong Hun Lee)"
+  },
+  {
+   "loc": "References [9]",
+   "before": "이윤수, \"직무 소진의 변화 궤적과 영향 요인 분석: JD-R 이론과 잠재 성장 모형을 중심으로\", …",
+   "after": "이윤수, \"Longitudinal Trajectories and Predictors of Job Burnout: An Application of JD-R Theory and Latent Growth Modeling\", *조직과 인사관리연구*, …",
+   "reason": "교보 스콜라 기록의 영문 제목. 저자 로마자·학술지 영문명은 미확인이라 한글 유지"
+  },
+  {
+   "loc": "References [18]",
+   "before": "안정원, 이순묵, \"조직몰입 3요소 모형의 내적구조 검토: …\", *한국심리학회지: 산업 및 조직*, Vol.28, No.4, pp.795-827, 2015. (DOI 없음)",
+   "after": "안정원, 이순묵, \"Evaluation of the Three-Component Model of Organizational Commitment in South Korea: Exploratory Structural Equation Modeling (ESEM) Approach\", *Korean Journal of Industrial and Organizational Psychology*, … DOI: https://doi.org/10.24230/ksiop.28.4.201511.795",
+   "reason": "KCI·KOAJ 기록의 영문 제목과 DOI"
+  },
+  {
+   "loc": "References [27]",
+   "before": "김미정, 이종현, 최재운, \"직장인들의 직무스트레스와 심리적·신체적 회복에 대한 잠재프로파일 분석\", *한국심리학회지: 산업 및 조직*, …",
+   "after": "김미정, 이종현, 최재운, \"Latent Profile Analysis of Stress Recovery Among Workers: A Combined Approach of Psychological and Physical Factors\", *Korean Journal of Industrial and Organizational Psychology*, …",
+   "reason": "경상국립대 저장소(scholarworks.gnu.ac.kr) 기록의 영문 제목"
+  },
+  {
+   "loc": "References — DOI 추가 29편",
+   "before": "DOI 없음",
+   "after": "DOI 추가 (목록은 이 문서 8장)",
+   "reason": "투고규정 4-8: DOI 링크 기재. 각 DOI를 검색으로 해당 논문(제목·권·호·쪽)과 대조"
+  },
+  {
+   "loc": "References 서식 (build.py)",
+   "before": "양쪽 맞춤 — 긴 DOI 때문에 단어 사이가 크게 벌어짐",
+   "after": "왼쪽 맞춤",
+   "reason": "렌더링 확인 중 발견"
+  }
+ ],
+ "metrics": [
+  [
+   "워드 쪽수(심사용 서식)",
+   "25쪽 — 25쪽 내외 유지 ✔ (DOI 추가로 v1.5의 24쪽에서 늘어남)"
+  ],
+  [
+   "1~8장 (공백 제외)",
+   "2,883 / 4,729 / 4,072 / 4,645 / 3,255 / 3,674 / 2,523 / 471자 (변경 없음)"
+  ],
+  [
+   "References",
+   "9,895자 → 11,690자"
+  ],
+  [
+   "DOI 보유 문헌",
+   "20편 → 49편 (59편 중). DOI 없는 10편: 단행본·편저 6편(DOI 대상 아님), Mitchell & James 2001·Gersick 1991·George & Jones 2000(DOI 미확인), 심수진·정지수 2025(DOI 미확인)"
+  ],
+  [
+   "국내 문헌 영문화",
+   "7편 중 영문 제목 5편, 영문 저자명 2편, 영문 학술지명 4편 완료 / [10][28]은 영문 제목 미확인"
+  ]
+ ],
+ "unverified": [
+  "국내 문헌 저자 로마자 표기: [9] 이윤수, [10] 김승완·노성민, [18] 안정원·이순묵, [27] 김미정·이종현·최재운, [28] 심수진·정지수. 각 저자가 쓰는 로마자(예: Lee/Yi, Yoon-soo/Yunsu)를 확인하지 못했습니다. 알고 계시면 알려 주세요.",
+  "영문 제목 미확인: [10] 김승완·노성민(2023, 한국정책연구), [28] 심수진·정지수(2025, 경찰학연구). 학술지 영문명도 미확인입니다: 조직과 인사관리연구, 한국정책연구, 경찰학연구. DBpia·KCI에서 영문 제목을 확인해 주시면 반영하겠습니다.",
+  "[8]의 영문 제목은 학술지 기록대로 'Latent Growth Analysis (LCGA)'로 적었습니다. 한글 제목은 '잠재계층성장분석(LCGA)'이라 영문 기록에 'Class'가 빠진 것으로 보입니다. 학술지 기록을 따를지 확인해 주세요.",
+  "DOI 미확인 3편: Mitchell & James(2001)[5]는 JSTOR 식별자 10.2307/3560240만 확인됐습니다. George & Jones(2000)[59]는 10.1016/S0149-2063(00)00051-9와 10.1177/014920630002600404 두 가지가 보입니다. Gersick(1991)[14]은 서지만 확인됐습니다. 확인될 때까지 넣지 않았습니다.",
+  "쪽 범위 확인 필요: Kahneman & Tversky(1979)[41]는 원고에 263-291로 적혀 있는데, 검색 결과 하나는 263-292로 표기합니다. Grasman et al.(2009)[38]은 1-27과 1-28이 섞여 있습니다. 원문 첫·끝 쪽으로 확정해 주세요.",
+  "Lewin(1947)[11]: Human Relations 1(1): 5-41로 두었습니다. 검색 결과 하나는 1(5)로 표기했지만, 같은 결과가 'Vol. 1 (1), 5-41'도 함께 보여 원고 표기를 유지했습니다.",
+  "v1.2 미확인 3건(Hom 2017의 Mitchell & James 관련 요약, Bakker 2023의 순환 명제, Stouten 2018)은 그대로 남아 있습니다."
+ ],
+ "unchanged": [
+  "본문은 바꾸지 않았습니다(번호 인용이라 저자 순서 수정이 본문에 영향 없음).",
+  "국외 문헌 52편의 저자·제목·권·호·쪽은 검색 대조 결과 위 '쪽 범위 확인 필요' 2건 외에는 원고와 일치했습니다."
+ ],
+ "next": [
+  "v1.7(10-31): 국문 요약·Abstract·Keywords를 다듬고 국문·영문 내용을 문장 단위로 맞춥니다. v1.1~v1.4에서 바뀐 본문(연구 질문 대응, 명제 4의 '둘 이상' 등)이 요약에 반영되어 있는지도 봅니다."
+ ],
+ "extra_tables": [
+  {
+   "title": "새로 넣은 DOI 29편",
+   "header": [
+    "참고문헌",
+    "DOI"
+   ],
+   "rows": [
+    [
+     "[44] Ajzen (1991)",
+     "10.1016/0749-5978(91)90020-T"
+    ],
+    [
+     "[57] Asparouhov et al. (2018)",
+     "10.1080/10705511.2017.1406803"
+    ],
+    [
+     "[52] Bacharach (1989)",
+     "10.5465/amr.1989.4308374"
+    ],
+    [
+     "[48] Bandura (1977)",
+     "10.1037/0033-295X.84.2.191"
+    ],
+    [
+     "[54] Bauer & Curran (2003)",
+     "10.1037/1082-989X.8.3.338"
+    ],
+    [
+     "[53] Burnham et al. (2003)",
+     "10.1177/0092070302250897"
+    ],
+    [
+     "[50] Chan (1998)",
+     "10.1037/0021-9010.83.2.234"
+    ],
+    [
+     "[29] Dakos et al. (2012)",
+     "10.1371/journal.pone.0041010"
+    ],
+    [
+     "[49] Eisenberger et al. (1986)",
+     "10.1037/0021-9010.71.3.500"
+    ],
+    [
+     "[47] Feldman & Pentland (2003)",
+     "10.2307/3556620"
+    ],
+    [
+     "[38] Grasman et al. (2009)",
+     "10.18637/jss.v032.i08 (학술지 고유 DOI 체계로 확인)"
+    ],
+    [
+     "[43] Helmich et al. (2021)",
+     "10.1016/j.copsyc.2021.02.008"
+    ],
+    [
+     "[45] Holt et al. (2007)",
+     "10.1177/0021886306295295"
+    ],
+    [
+     "[46] Jarvis et al. (2003)",
+     "10.1086/376806"
+    ],
+    [
+     "[41] Kahneman & Tversky (1979)",
+     "10.2307/1914185"
+    ],
+    [
+     "[22] Lee & Mitchell (1994)",
+     "10.5465/amr.1994.9410122008"
+    ],
+    [
+     "[11] Lewin (1947)",
+     "10.1177/001872674700100103"
+    ],
+    [
+     "[55] Lubke & Muthén (2005)",
+     "10.1037/1082-989X.10.1.21"
+    ],
+    [
+     "[3] Meyer & Allen (1991)",
+     "10.1016/1053-4822(91)90011-Z"
+    ],
+    [
+     "[56] Nylund et al. (2007)",
+     "10.1080/10705510701575396"
+    ],
+    [
+     "[13] Prochaska & DiClemente (1983)",
+     "10.1037/0022-006X.51.3.390"
+    ],
+    [
+     "[15] Romanelli & Tushman (1994)",
+     "10.5465/256669"
+    ],
+    [
+     "[42] Samuelson & Zeckhauser (1988)",
+     "10.1007/BF00055564"
+    ],
+    [
+     "[16] Scheffer et al. (2009)",
+     "10.1038/nature08227"
+    ],
+    [
+     "[58] Schultzberg & Muthén (2018)",
+     "10.1080/10705511.2017.1392862"
+    ],
+    [
+     "[30] van de Leemput et al. (2014)",
+     "10.1073/pnas.1312114110"
+    ],
+    [
+     "[20] Van de Ven & Poole (1995)",
+     "10.5465/amr.1995.9508080329"
+    ],
+    [
+     "[36] van der Maas et al. (2003)",
+     "10.1177/0049124103253773"
+    ],
+    [
+     "[31] Wichers et al. (2016)",
+     "10.1159/000441458"
+    ]
+   ],
+   "widths": [
+    60,
+    114
+   ]
+  }
+ ],
+ "sources": [
+  "양필석·김해룡(2022): https://koreascience.or.kr/article/JAKO202212462738758.do , https://www.earticle.net/Article/A411112 , https://oak.ulsan.ac.kr/handle/2021.oak/13504",
+  "김예진 외(2024): https://www.accesson.kr/kpageneral/v.43/5/395/47135?lang=en",
+  "이윤수(2026): https://scholar.kyobobook.co.kr/article/detail/4010072065322",
+  "안정원·이순묵(2015): https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002053098",
+  "김미정 외(2025): https://scholarworks.gnu.ac.kr/item/77ff245b-2ac1-4d40-99b4-ba1e98f41d4a",
+  "김승완·노성민(2023): https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11472464",
+  "심수진·정지수(2025): https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12122522",
+  "국외 DOI 대조: 각 DOI 문자열로 검색해 출판사(SAGE, APA, Springer, Nature, PNAS, JSS, Econometric Society 등)·저장소 기록과 제목·권·쪽을 맞춤"
+ ]
+}
