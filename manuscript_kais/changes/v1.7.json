@@ -1,0 +1,184 @@
+{
+ "date": "2026-10-31",
+ "topic": "요약·Abstract·Keywords 다듬기, 국문·영문 내용 일치",
+ "manuscript": "동태적 임계전이모형(DTTM): 조직 구성원 변화의 상태공간 이론 (이론논문)",
+ "base": "v1.6 (2026-10-30)",
+ "summary": [
+  "국문 요약(12문장)과 영문 Abstract(11문장)를 문장 단위로 대조했습니다. 국문 4·5번 문장이 영문 4번 한 문장에 해당하는 것을 빼면 내용 순서가 같습니다. 대응표는 이 문서 8장에 있습니다.",
+  "요약에 남아 있던 v1.3 이전 표현을 고쳤습니다. 요약은 B와 N을 '국면'이라 불렀는데, 본문(3.2절)은 v1.3부터 이 둘을 6국면에 들지 않는 '부가 상태'로 정의합니다. 그래서 국문에서 '…의 국면을 구분한다'를 '…를 구분한다'로, 영문에서 'distinguishes baseline stability'를 'distinguishes the states of baseline stability'로 바꿨습니다.",
+  "국문 요약이 영문보다 덜 구체적이던 두 곳을 맞췄습니다. '기존 조직행동 이론'을 '변수 중심의 기존 조직행동 이론'(영문 variable-centered, 본문 2.1절)으로, '실제로 운용하는 행동·역할·절차 패턴'을 '실제로 운용하는 우세한 …'(영문 dominant, 본문 1.4절)으로 고쳤습니다.",
+  "학회 독자를 고려해 실무적 의의 문장(국문·영문 각 1문장)을 넣었습니다. 1.5절 넷째 기여, 7.2절과 같은 내용이며, '명제가 지지된다면'이라는 조건을 붙였습니다. 주제어 5개와 Keywords 5개는 서로 맞아 그대로 두었습니다.",
+  "첫 쪽 국문 제목이 '…상태공간 이 / 론'으로 한 글자만 다음 줄로 넘어가던 것을 콜론 뒤에서 줄을 나누도록 고쳤습니다. 워드 쪽수는 25쪽입니다."
+ ],
+ "changes": [
+  {
+   "loc": "요약 2번 문장",
+   "before": "기존 조직행동 이론은 변화의 압력과 방향을 설명하는 데 기여해 왔으나,",
+   "after": "변수 중심의 기존 조직행동 이론은 변화의 압력과 방향을 설명하는 데 기여해 왔으나,",
+   "reason": "영문 'Variable-centered theories'와 일치, 본문 2.1절 '변수 중심 접근'과 같은 용어"
+  },
+  {
+   "loc": "요약 5번 문장",
+   "before": "구성원이 실제로 운용하는 행동·역할·절차 패턴인 체제(regime) 층",
+   "after": "구성원이 실제로 운용하는 우세한 행동·역할·절차 패턴인 체제(regime) 층",
+   "reason": "영문 'the dominant … pattern actually enacted', 본문 1.4·3.1절 정의와 일치"
+  },
+  {
+   "loc": "요약 6번 문장",
+   "before": "기저 안정(B), 전경합(S0), 경합(S1), 경계(S2), 임계(S3)의 국면을, … 전이 직후 미안정(N)과 재구조화(S4)의 국면을 구분한다.",
+   "after": "기저 안정(B)과 전경합(S0), 경합(S1), 경계(S2), 임계(S3)를, … 전이 직후 미안정(N)과 재구조화(S4)를 구분한다.",
+   "reason": "v1.3에서 B·N을 '부가 상태'로 정의했으므로 요약에서 이들을 '국면'이라 부르면 본문과 모순"
+  },
+  {
+   "loc": "Abstract 5번 문장",
+   "before": "Within the existing regime, the model distinguishes baseline stability (B), …",
+   "after": "Within the existing regime, the model distinguishes the states of baseline stability (B), …",
+   "reason": "국문과 같은 이유. 'phases'가 아니라 'states'임을 밝힘"
+  },
+  {
+   "loc": "요약 11번 문장(추가)",
+   "before": "(없음)",
+   "after": "명제가 지지된다면, 새 업무 시스템이나 제도를 도입하는 조직은 경계 국면의 신호와 전환 직후 구간을 지원과 개입의 시점을 판단하는 근거로 활용할 수 있다.",
+   "reason": "요약에 실무적 의의가 없었음. 1.5절 넷째 기여·7.2절 첫째·셋째 시사점을 한 문장으로. 산학 독자층 고려"
+  },
+  {
+   "loc": "Abstract 10번 문장(추가)",
+   "before": "(없음)",
+   "after": "If supported, the propositions can help organizations introducing new work systems or policies judge when to provide support and intervene, using boundary-phase signals and the post-transition period.",
+   "reason": "국문 추가 문장과 같은 내용"
+  },
+  {
+   "loc": "국문 제목(첫 쪽)",
+   "before": "동태적 임계전이모형(DTTM): 조직 구성원 변화의 상태공간 이 / 론 (자동 줄바꿈)",
+   "after": "동태적 임계전이모형(DTTM): / 조직 구성원 변화의 상태공간 이론 (콜론 뒤 줄바꿈)",
+   "reason": "한 글자만 다음 줄로 넘어가는 것을 막음. 제목 문구는 그대로"
+  }
+ ],
+ "metrics": [
+  [
+   "워드 쪽수(심사용 서식)",
+   "25쪽 — 25쪽 내외 유지 ✔"
+  ],
+  [
+   "국문 요약",
+   "공백 포함 1,034자 / 공백 제외 807자, 12문장 (v1.6: 공백 제외 약 740자, 11문장)"
+  ],
+  [
+   "영문 Abstract",
+   "313단어, 11문장 (v1.6: 약 285단어, 10문장)"
+  ],
+  [
+   "주제어 / Keywords",
+   "5개 / 5개, 같은 순서로 1:1 대응"
+  ],
+  [
+   "1~8장, References",
+   "변경 없음 (2,883 / 4,729 / 4,072 / 4,645 / 3,255 / 3,674 / 2,523 / 471자, References 11,690자)"
+  ]
+ ],
+ "unverified": [
+  "학회의 국문 요약 글자 수, Abstract 단어 수 제한을 아직 확인하지 못했습니다(학회 누리집 접속 불가). 영문 Abstract가 313단어로 늘었으니, 제한이 250단어 이하라면 줄여야 합니다. 투고규정이나 양식의 해당 조항을 알려 주시면 맞추겠습니다.",
+  "Abstract의 국면 영문 명칭 중 S4 'reconfiguration'(재구조화)과 S2 'boundary'(경계)는 본문 영문 표기와 함께 v1.14(영어 교정)에서 다시 봅니다. 'restructuring'이나 'liminal' 같은 다른 번역을 원하시면 알려 주세요."
+ ],
+ "unchanged": [
+  "요약·Abstract의 나머지 문장, 주제어·Keywords는 대조 결과 서로 일치해 그대로 두었습니다.",
+  "본문(1~8장)과 참고문헌은 바꾸지 않았습니다."
+ ],
+ "next": [
+  "v1.8(11-01): 표 6개의 안 내용을 영문으로 바꾸고, 그림 2개를 영문판으로 다시 그립니다. Fig. 1은 Table 3의 큰 확률(●)과 작은 확률(○)을 선 굵기로 구분합니다(v1.3 예고). 수식 기호도 함께 통일합니다."
+ ],
+ "extra_tables": [
+  {
+   "title": "국문 요약 ↔ 영문 Abstract 문장 대응표",
+   "header": [
+    "국문 문장",
+    "국문 요약",
+    "영문 Abstract",
+    "판정"
+   ],
+   "rows": [
+    [
+     "1",
+     "조직 구성원의 변화는 점진적으로 누적되기도 하지만, … 떠나는 형태로 나타나기도 한다.",
+     "Change among organizational members sometimes accumulates gradually, but … leave the organization.",
+     "일치"
+    ],
+    [
+     "2",
+     "(수정) 변수 중심의 기존 조직행동 이론은 변화의 압력과 방향을 …",
+     "Variable-centered theories of organizational behavior have contributed …",
+     "수정 후 일치"
+    ],
+    [
+     "3",
+     "최근 잠재프로파일·잠재전이 연구는 … 이론적 틀은 아직 충분하지 않다.",
+     "Recent person-centered studies report … remain limited.",
+     "일치"
+    ],
+    [
+     "4~5",
+     "…DTTM을 제안한다. DTTM은 (수정) 우세한 행동·역할·절차 패턴인 체제 층과 … 2층 상태공간 모형이다.",
+     "This study proposes DTTM, a two-layer state-space model consisting of a regime layer (the dominant … pattern actually enacted) and a phase layer …",
+     "국문 2문장 = 영문 1문장, 수정 후 일치"
+    ],
+    [
+     "6",
+     "(수정) 기존 체제 안에서는 B와 S0~S3을, E1 이후 신규 체제 안에서는 N과 S4를 구분한다.",
+     "Within the existing regime, the model distinguishes (수정) the states of B, S0~S3; after E1, … N and S4 …",
+     "수정 후 일치"
+    ],
+    [
+     "7",
+     "DTTM은 모든 구성원이 이 순서를 따른다고 가정하지 않는다.",
+     "DTTM does not assume that all members follow this sequence.",
+     "일치"
+    ],
+    [
+     "8",
+     "대신 현재 국면에 따라 … 비선형적으로 변할 수 있다는 가설을 제시한다.",
+     "Instead, it hypothesizes that transition probabilities differ by current phase, …",
+     "일치"
+    ],
+    [
+     "9",
+     "이 구조에서 12개의 명제를 도출하고, … 수정·기각 기준을 함께 제시한다.",
+     "…derives twelve propositions, each paired with a test and a pre-specified criterion …",
+     "일치"
+    ],
+    [
+     "10",
+     "국면 판정이 결과 정보에 오염되는 것을 줄이기 위해 … 경쟁모형을 사전에 명시한다.",
+     "To reduce circularity, … competing continuous and mixture models are specified in advance …",
+     "일치"
+    ],
+    [
+     "11",
+     "(추가) 명제가 지지된다면, 새 업무 시스템이나 제도를 도입하는 조직은 …",
+     "(추가) If supported, the propositions can help organizations introducing new work systems or policies …",
+     "추가, 일치"
+    ],
+    [
+     "12",
+     "본 연구는 이론을 제안하는 단계의 연구이므로 … 검증되어야 한다.",
+     "As a theory-development study, … require empirical testing in future research.",
+     "일치"
+    ],
+    [
+     "주제어",
+     "동태적 임계전이모형, 상태공간 모형, 비용 역전, 임계전이, 잠재전이분석",
+     "Dynamic Threshold Transition Model, State-Space Model, Cost Reversal, Critical Transition, Latent Transition Analysis",
+     "5:5 같은 순서, 일치"
+    ]
+   ],
+   "widths": [
+    14,
+    66,
+    66,
+    28
+   ]
+  }
+ ],
+ "sources": [
+  "이번 판은 원고 내부의 요약·본문 대조 작업이라 외부 자료를 새로 인용하지 않았습니다."
+ ]
+}
