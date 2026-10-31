@@ -257,34 +257,16 @@ DTTM은 기존 이론을 대체하려는 것이 아니다. 변수 중심 접근�
 
 **Table 1. Research streams and their relation to DTTM**
 
-  -----------------------------------------------------------------------------------
-  연구 흐름           핵심 내용          DTTM에서의 역할    DTTM이 더하려는 것
-  ------------------- ------------------ ------------------ -------------------------
-  직무요구-자원 이론  요구·자원의 효과,  경합(S1)의 내용,   순환이 체제 전환으로
-                      손실·획득 순환     유지비용 Cₘ의 원천 이어지는 조건에 관한 가설
 
-  자원보존이론        자원 손실의        경계(S2)에서       나선의 관찰
-                      우선성, 손실·획득  복원력이 약해지는  지표(회복시간·자기상관)
-                      나선               이유               
-
-  조직몰입·변화수용   조직과의 결속,     관성 α와 전환비용  관성이 전환 시점과
-  연구                변화 수용의        Cₜ의 관련 요인     비대칭성에 미치는 영향에
-                      선행요인                              관한 가설
-
-  단계·과정 모형      변화의 단계,       국면 구분과        단계 대신 전이확률, 의도
-                      충격과 이직 경로,  계기(trigger)의    대신 연언 조건
-                      변화 사건          선례               
-
-  단속평형 이론       안정기와 혁명적    체제(R₀, R₁)와     개인 수준에서 전환 직전
-                      변화기의 교대      전환(E1)의 구분    국면과 신호의 명세
-
-  개인 중심 종단 연구 잠재 유형의        국면 분류와        유형·이동에 대한 사전
-                      안정성과 유형 간   전이확률 추정의    가설과 기각 기준
-                      이동               방법               
-
-  임계전이·파국이론   임계감속, cusp,    임계 메커니즘의    정상·분기요인의
-                      이력현상           형식               조직행동적 조작화
-  -----------------------------------------------------------------------------------
+| Research stream | Core content | Role in DTTM | What DTTM adds |
+|----------------------|--------------------------|--------------------------|------------------------------|
+| Job demands–resources theory | Effects of demands and resources; loss and gain cycles | Content of contention (S1); source of maintenance cost Cₘ | Hypotheses on the conditions under which cycles lead to a regime transition |
+| Conservation of resources theory | Primacy of resource loss; loss and gain spirals | Why resilience weakens in the boundary phase (S2) | Observable indicators of spirals (recovery time, autocorrelation) |
+| Organizational commitment and change acceptance | Bond with the organization; antecedents of change acceptance | Correlates of inertia α and transition cost Cₜ | Hypotheses on how inertia affects the timing and asymmetry of transition |
+| Stage and process models | Stages of change; shocks and turnover paths; change events | Precedents for phase distinctions and triggers | Transition probabilities instead of stages; conjunctive conditions instead of intentions |
+| Punctuated equilibrium theory | Alternation of stable periods and revolutionary change | Distinction between regimes (R₀, R₁) and regime transition (E1) | Specification of pre-transition phases and signals at the individual level |
+| Person-centered longitudinal research | Stability of latent profiles and transitions among them | Methods for phase classification and transition-probability estimation | A priori hypotheses and rejection criteria for profiles and transitions |
+| Critical transition and catastrophe theory | Critical slowing down, cusp, hysteresis | Formal structure of the threshold mechanism | Organizational-behavior operationalization of normal and splitting factors |
 
 Table 1에서 보듯이 DTTM은 기존 이론들이 각각 다루는 압력, 자원, 관성을
 하나의 전이 위험으로 결합하고, 그 위험이 국면에 따라 다르게 작동한다는
@@ -329,9 +311,9 @@ $$\tau_{ij}(t) = P(S_{t+1} = j \mid S_t = i,\ x_t), \qquad E1 \equiv (R_0,\cdot)
 xₜ로 설명된다. ③ 특정 국면(S2·S3)에서 전이 위험이 비선형적으로 변한다.
 관례에 따라 \"6국면\"이라는 명칭을 쓰지만, 이는 다섯 개의 잠재 국면(S0\~S3, S4)과 한 개의 전환 사건(E1)을 가리키는 상태공간의 원소 명칭이며, 여섯 단계를 반드시 통과한다는 뜻이 아니다. B(기저 안정)와 N(전이 직후 미안정)은 6국면 명칭에 포함되지 않지만 각 체제의 출발점을 나타내기 위해 덧붙인 부가 상태(auxiliary state)이다.
 
-![](figures/image1.png){width="6.3in"}
+![](figures/fig1_en.png){width="6.3in"}
 
-**Fig. 1. State diagram of DTTM.** 실선은 대표 경로의 전진 이동을, 파선은 해소·후퇴 이동을 나타내며, 각 경로의 예측 크기(●, ○)는 Table 3을 따른다. 굵은 붉은 화살표 E1은 국면이 아니라 체제 간 전환이고, 붉은 파선은 경계(S2)에서 체제 전환으로의 도약(○)이다. 점선의 실패 후 회귀(N → R₀)는 경합(S1)으로 돌아가는 경우를 예시로 그린 것이며, 회귀 국면은 미리 고정하지 않는다. 점선 테두리의 S0′은 R₁을 기준 체제로 하는 새 경합의 시작이다. 자기 전이(체류)와 Table 3의 작은 확률(○) 경로 일부는 생략하였다.
+**Fig. 1. State diagram of DTTM.** Thick solid lines denote paths predicted to have large transition probabilities (●) and thin dashed lines paths predicted to be small but nonzero (○), following Table 3. The thick red arrow E1 is a transition between regimes, not a phase; the red dashed line is a leap from the boundary phase (S2) to regime transition (○). The dotted line for failure and return (N → R₀) shows a return to contention (S1) as an example; the phase of return is not fixed in advance. S0′ in the dashed box marks the start of new contention with R₁ as the reference regime. Self-transitions (staying) and some small-probability (○) paths in Table 3 are omitted.
 
 ## 3.3 국면의 정의
 
@@ -342,51 +324,17 @@ Table 2는 각 상태의 정의와 필수 속성, 그리고 인접 상태와 구
 
 **Table 2. State definitions and adjacent-state criteria in DTTM**
 
-  ---------------------------------------------------------------------------------------
-  상태       체제      정의                   필수 속성             인접 상태와의 핵심
-                                                                    구분
-  ---------- --------- ---------------------- --------------------- ---------------------
-  B 기저     R₀        기존 체제가 뚜렷한     불일치가 있어도       불일치의 반복
-  안정                 불일치 없이 작동하는   드물고 곧 사라짐      여부(B/S0)
-                       상태                                         
 
-  S0 전경합  R₀        표면적 기능은 유지되나 ① 불일치 반복 ② 기능  문제가 명명되고
-                       설명되지 않은 불일치가 유지 ③ 문제 명명 유보 선택을
-                       반복되는 잠재 국면     ④ 공개적 대안 경쟁    제약하는가(S0/S1)
-                                              부재                  
-
-  S1 경합    R₀        양립하기 어려운 두     ① 두 요구의 구체적    같은 교란 뒤 복귀가
-                       힘이 활성화되어 선택을 명명 ② 선택의 반복적  느려졌는가(S1/S2)
-                       제약하되 복원력은      제약 ③ 기존 대응의    
-                       유지되는 국면          기능 유지             
-
-  S2 경계    R₀        작은 교란 뒤 원래      개인 내 기준선 대비 ① 비용 평가·대안·준비가
-                       수준으로 돌아오는      회복시간 증가 ②       모두 있는가(S2/S3)
-                       능력이 약해진 취약     변동성 증가 ③ 차질의  
-                       국면                   전파                  
-
-  S3 임계    R₀        비용 평가, 실행 가능한 ① 유지비용의 구체적   실제 행동·절차가
-                       대안, 실행 준비가      평가 ② 대안과 실행    바뀌고
-                       결합되어 전이 가능성이 조건의 확인 ③ 실행    기록되었는가(S3/E1)
-                       급격히 달라질 수 있는  준비의 개시           
-                       문턱 구간                                    
-
-  E1 체제    R₀→R₁     기존 체제에서 신규     핵심 영역의 변화 +    의향 표명·일회적
-  전환                 체제로 질적으로        독립적 기록 근거      시도·일시적 순응은
-                       이동하는 관찰 가능한                         제외
-                       사건                                         
-
-  N 전이     R₁        새 체제가 운용되기     ① 확인된 E1 이후 ② 새 새 방식이
-  직후                 시작했으나             방식 사용비율 미달    반복·정렬되고 교란 뒤
-  미안정               반복·정렬·복원력이     또는 정렬·복원력      복귀하는가(N/S4)
-                       아직 확보되지 않은     미확인 ③ 기존 방식의  
-                       국면                   공식 복원 없음        
-
-  S4         R₁        새 행동·역할·관계·자원 ① 반복성 ②            새 불일치의
-  재구조화             배열이 일상화되고 교란 정렬(역할·자원·동료   누적(S4/S0′), 새 방식
-                       뒤에도 새 방식으로     기대의 일치) ③ 복원력 붕괴(회귀)
-                       복귀하는 안정화 국면                         
-  ---------------------------------------------------------------------------------------
+| State | Regime | Definition | Required attributes | Key criterion vs. adjacent state |
+|--------------|-----------|---------------------------|----------------------------|------------------------|
+| B Baseline stability | R₀ | The existing regime operates without notable misfit | Misfits, if any, are rare and soon disappear | Recurrence of misfit (B/S0) |
+| S0 Pre-contention | R₀ | Latent phase in which surface functioning is maintained but unexplained misfits recur | ① recurring misfit ② function maintained ③ naming of the problem deferred ④ no open competition among alternatives | Is the problem named, and does it constrain choices? (S0/S1) |
+| S1 Contention | R₀ | Two hard-to-reconcile forces are activated and constrain choices, but resilience is maintained | ① both demands concretely named ② recurrent constraint on choices ③ existing responses still function | Has recovery after the same disturbance slowed? (S1/S2) |
+| S2 Boundary | R₀ | Vulnerable phase in which the ability to return to the original level after small disturbances has weakened | Relative to the within-person baseline: ① longer recovery time ② greater variability ③ spread of disruptions | Are cost appraisal, an alternative, and preparation all present? (S2/S3) |
+| S3 Threshold | R₀ | Threshold zone in which cost appraisal, a feasible alternative, and preparation for action combine so that the likelihood of transition can change sharply | ① concrete appraisal of maintenance cost ② alternative and its implementation conditions confirmed ③ preparation for action begun | Have actual behaviors or procedures changed and been recorded? (S3/E1) |
+| E1 Regime transition | R₀→R₁ | Observable event of qualitative movement from the existing to the new regime | Change in a core domain + independent record | Stated intentions, one-off attempts, and temporary compliance are excluded |
+| N Post-transition instability | R₁ | Phase in which the new regime has begun operating but repetition, alignment, and resilience are not yet secured | ① after a confirmed E1 ② usage rate below criterion, or alignment/resilience unconfirmed ③ no formal restoration of the old way | Is the new way repeated and aligned, and does it return after disturbances? (N/S4) |
+| S4 Reconfiguration | R₁ | Stabilized phase in which the new arrangement of behavior, roles, relations, and resources is routinized and the new way returns after disturbances | ① repetition ② alignment (roles, resources, peer expectations) ③ resilience | Accumulation of new misfit (S4/S0′); collapse of the new way (return) |
 
 두 가지 점을 분명히 해 둘 필요가 있다. 첫째, 경계(S2)는 스트레스가 높은
 상태가 아니다. 늘 높은 스트레스라도 일정하고 안정적이면 S2가 아니며,
@@ -441,9 +389,7 @@ S3에서 S2나 S1로 후퇴할 수 있고, 상위 규정 개정으로 한꺼번�
   S3           --        ○         ○         ●         ●         ●
   ------------------------------------------------------------------------
 
-주: ●는 상대적으로 큰 값을, ○는 작지만 0이 아닌 값을 예측하는 칸이며,
---는 자발 전이 모형에서 0으로 고정하는 칸이다. 외생 충격에 의한 강제
-전이는 -- 칸을 자유화한 별도 모형으로 분석한다.
+Note. ● marks cells predicted to be relatively large and ○ cells predicted to be small but nonzero; -- marks cells fixed at 0 in the spontaneous-transition model. Forced transitions caused by exogenous shocks are analyzed in a separate model that frees the -- cells.
 
 신규 체제(R₁) 안에서는 E1 직후의 첫 시점을 N으로 고정하고, N에서는
 S4로의 이동과 기존 체제로의 회귀가 모두 가능하다고 본다. S4에서 N으로의
@@ -459,9 +405,9 @@ Fig. 2는 DTTM의 설명 구조를 요약한 것이다. 기존 체제 안의 국
 변수가 전이 위험 h(t)를 움직인다. 전이 이후의 안정화와, 새 체제가
 바람직한가는 별도의 결과로 다룬다.
 
-![](figures/image2.png){width="6.3in"}
+![](figures/fig2_en.png){width="6.3in"}
 
-**Fig. 2. Conceptual diagram of DTTM.** 부호(+, −)는 각 변수가 전이 위험에 미치는 예측 방향이다. 그림 속 식은 식 (4)에서 공변인 항 γ′zₜ를 생략한 것이며, 계기 × 준비의 효과는 zₜ에 들어간다. 그림은 이론의 요약이며 검증된 경로모형이 아니다.
+**Fig. 2. Conceptual diagram of DTTM.** Signs (+, −) indicate the predicted direction of each variable's effect on transition hazard. The equation in the figure omits the covariate term γ′zₜ of Eq. (4); the effect of trigger × readiness enters through zₜ. The figure summarizes the theory and is not a tested path model.
 
 ## 4.1 비용 역전과 관성
 
@@ -741,57 +687,21 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 
 **Table 4. Tests and revision/rejection criteria for each proposition**
 
-  ------------------------------------------------------------------------
-  명제                   검정 방법                  수정·기각 기준
-  ---------------------- -------------------------- ----------------------
-  1 국면 의존 전이       잠재전이분석(LTA)에서      비인접 도약이 인접
-                         비인접 전이 0 고정 모형 대 전진 이상이면 대표
-                         자유 모형, 후퇴 칸 0 고정  경로 주장 약화, 후퇴
-                         모형 대 자유 모형          0 고정 모형 우세 시
-                                                    후퇴 경로 주장 철회
 
-  2 전경합의 독립성      S0 포함 모형 대 통합       통합 모형 우세 +
-                         모형(BIC, 엔트로피),       차이의 신뢰구간이 0
-                         P(S0→S1) 대 P(B→S1)        포함 시 S0 통합
-
-  3 복원력의 차이        동일 개인의 S1·S2 구간     차이가 없으면 S1/S2
-                         회복시간 비교(다층모형)    구분 기준 재정의
-
-  4 조기경보             전이 전 창 대 대조 창의    차이가 없거나
-                         회복시간·AR(1)·분산        안정기에도 동일하면
-                         추세(Kendall τ, 대리자료   조기경보 가설 기각
-                         비교), 세 지표 중 둘
-                         이상의 동시 상승 기준                      
-
-  5 비용 역전            이산시간 생존모형, β₁ =    제약 기각 시 가산형 등
-                         −β₂ = −β₃ 등식 제약 검정   대안 함수형 채택, 방향
-                                                    기각 시 촉발 메커니즘
-                                                    철회
-
-  6 비선형 임계          cusp 대 선형·로지스틱 모형 비선형 모형의 우위가
-                         비교, 이봉성 검토          없으면 \"임계\"를 은유
-                                                    수준으로 제한
-
-  7 이력현상             전진 전이와 역전이 시점의  비대칭이 없으면 명제
-                         비용차 비교                기각
-
-  8 계기 민감성          계기 × 국면(준비)          상호작용이 없으면
-                         상호작용의 전이 위험 효과  민감성 요소 제거
-
-  9 전이 속도            급격·점진 전이의 α,        차이가 없으면 유형을
-                         비용차, 조기경보 지표 분포 기술적 부호로만 유지
-                         비교                       
-
-  10 전이 직후의 취약성  N·S4 분리 대 통합 LTA,     차이가 없으면 N을 S4
-                         회귀 위험의 생존모형 비교  후보 구간으로 통합
-
-  11 재구조화의 고유     S4 지표의 유지·회귀        예측력이 없으면 S4
-  설명력                 예측(전이 직후 열의 통제)  주장 축소
-
-  12 상향 확산           팀 수준 생존모형에서 개인  선형 효과만 나타나면
-                         전이자 비율의 구간별·임계  \"비선형\" 주장 철회
-                         효과                       
-  ------------------------------------------------------------------------
+| Proposition | Test | Revision/rejection criterion |
+|------------------------|----------------------------------------|----------------------------------------|
+| 1 Phase-dependent transition | In LTA, a model with non-adjacent transitions fixed at 0 vs. a free model; a model with backward cells fixed at 0 vs. a free model | If non-adjacent leaps are as large as or larger than adjacent forward moves, the representative-path claim is weakened; if the model with backward cells fixed at 0 is preferred, the backward-path claim is withdrawn |
+| 2 Independence of pre-contention | Model with S0 vs. merged model (BIC, entropy); P(S0→S1) vs. P(B→S1) | If the merged model is preferred and the confidence interval of the difference includes 0, S0 is merged |
+| 3 Difference in resilience | Within-person comparison of recovery time in S1 and S2 periods (multilevel model) | If there is no difference, the S1/S2 criterion is redefined |
+| 4 Early warning | Trends in recovery time, AR(1), and variance in pre-transition vs. control windows (Kendall τ, surrogate data), based on a simultaneous rise in two or more of the three | If there is no difference, or the same pattern appears in stable periods, the early-warning hypothesis is rejected |
+| 5 Cost reversal | Discrete-time survival model; test of the equality constraint β₁ = −β₂ = −β₃ | If the constraint is rejected, an alternative functional form (e.g., additive) is adopted; if the direction is rejected, the triggering mechanism is withdrawn |
+| 6 Nonlinear threshold | Cusp vs. linear and logistic models; inspection of bimodality | If the nonlinear model is not superior, "threshold" is limited to a metaphor |
+| 7 Hysteresis | Comparison of cost differences at forward and reverse transitions | If there is no asymmetry, the proposition is rejected |
+| 8 Trigger sensitivity | Effect of the trigger × phase (readiness) interaction on transition hazard | If there is no interaction, the sensitivity component is removed |
+| 9 Transition speed | Comparison of α, cost difference, and early-warning indicators between abrupt and gradual transitions | If there are no differences, transition types are kept only as descriptive codes |
+| 10 Post-transition vulnerability | LTA with N and S4 separated vs. merged; survival models of return hazard | If there is no difference, N is merged into the S4 candidate period |
+| 11 Unique explanatory power of reconfiguration | Prediction of maintenance or return by S4 indicators, controlling for post-transition enthusiasm | If there is no predictive power, the S4 claim is scaled back |
+| 12 Upward diffusion | Piecewise and threshold effects of the proportion of individual transitioners in a team-level survival model | If only linear effects appear, the "nonlinear" claim is withdrawn |
 
 # 6. 검증 프로그램
 
@@ -808,29 +718,15 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 
 **Table 5. Evidence types by phase and the status of survey items**
 
-  --------------------------------------------------------------------------
-  국면    1차 증거                        필요 자료            설문 문항의
-                                                               지위
-  ------- ------------------------------- -------------------- -------------
-  B / S0  수준: 불일치 빈도, 문제 명명    월별 패널, 업무      직접 지표
-          유보                            기록, 면접           
 
-  S1      수준: 목표 갈등, 선택 제약,     월별 패널, 면접      직접 지표
-          기능 유지                                            
-
-  S2      동태: 교란 후 회복시간,         일지, 기준선, 교란   대리
-          자기상관, 분산                  사건 로그            지표(지각된
-                                                               경계)
-
-  S3      연언: 비용 평가·가용 대안·실행  패널, 사건 로그,     부분 지표
-          준비                            비용 측정            
-
-  E1      사건: 첫 실행, 기존 행동 중단,  행정·업무 기록,      보조 지표
-          권한·절차 변경                  제3자 확인           
-
-  N / S4  사용비율 u, 정렬, 교란 후 새    기록, 추적 관찰,     부분 지표
-          방식 복귀                       패널                 
-  --------------------------------------------------------------------------
+| Phase | Primary evidence | Required data | Status of survey items |
+|----------|----------------------------------------|------------------------------|------------------------|
+| B / S0 | Level: frequency of misfit, deferred naming of the problem | Monthly panel, work records, interviews | Direct indicator |
+| S1 | Level: goal conflict, constrained choice, maintained function | Monthly panel, interviews | Direct indicator |
+| S2 | Dynamic: recovery time after disturbance, autocorrelation, variance | Diaries, baseline, disturbance-event log | Proxy indicator (perceived boundary) |
+| S3 | Conjunctive: cost appraisal, available alternative, preparation for action | Panel, event log, cost measures | Partial indicator |
+| E1 | Event: first enactment, discontinuation of old behavior, change in authority or procedure | Administrative and work records, third-party confirmation | Auxiliary indicator |
+| N / S4 | Usage rate u, alignment, return to the new way after disturbances | Records, follow-up observation, panel | Partial indicator |
 
 ## 6.2 전향적 판정과 후향적 검증의 분리
 
@@ -918,30 +814,14 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 
 **Table 6. Staged research program for testing DTTM**
 
-  ------------------------------------------------------------------------
-  단계   설계                       가능한 결론          넘어서면 안 되는
-                                                         주장
-  ------ -------------------------- -------------------- -----------------
-  연구 1 전문가 내용타당도,         정의와 문항의        통계적 타당화
-         인지면접                   관련성·이해 가능성   완료
 
-  연구 2 횡단 타당화: 분할표본      문항 구조, 국면 구분 시간 순서와 임계
-         EFA/CFA, LCA, 측정모형     가능성, 이봉성 단서  전이의 입증
-         비교, cusp 탐색, S3                             
-         판별타당도                                      
-
-  연구 3 변화 공지 시점 모집, 월별  국면 분류, 전이확률, 짧은 임계 구간의
-         패널 6\~9파, 행정 기록     비용식, 회귀 위험    정밀한 시각 판정
-         연결                                            
-
-  연구 4 측정 버스트: 전이 예상     개인 내 회복 지연,   모든 사람에게
-         구간의 근무일 일지 + 교란  변동, 변화점         보편적인 조기경보
-         사건 로그                                       
-
-  연구 5 팀·조직 단위 표본, 다수준  구성 모형, 교차수준  개인 평균에
-         모형                       동형성, 상향 확산    기초한 조직 국면
-                                                         주장
-  ------------------------------------------------------------------------
+| Stage | Design | Conclusions possible | Claims not to be made |
+|----------|--------------------------------------|------------------------------|--------------------------|
+| Study 1 | Expert content validity, cognitive interviews | Relevance and comprehensibility of definitions and items | Completion of statistical validation |
+| Study 2 | Cross-sectional validation: split-sample EFA/CFA, LCA, comparison of measurement models, cusp exploration, discriminant validity of S3 | Item structure, distinguishability of phases, cues of bimodality | Temporal order, or proof of critical transitions |
+| Study 3 | Recruitment when a change is announced, monthly panel of 6–9 waves, linkage to administrative records | Phase classification, transition probabilities, cost equation, return hazard | Precise timing of short threshold periods |
+| Study 4 | Measurement burst: workday diaries and disturbance-event logs around the expected transition | Within-person recovery delay, variability, change points | Early warning that holds universally for everyone |
+| Study 5 | Team- and organization-level samples, multilevel models | Composition models, cross-level isomorphism, upward diffusion | Claims about organizational phases based on averages of individuals |
 
 연구 4의 측정 버스트 설계는 전체 기간을 촘촘히 측정하는 부담 없이 임계
 구간 주변에서만 고빈도 자료를 확보하는 방법이다. 본 연구는 개인 수준의
@@ -1213,48 +1093,21 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 
 문항의 \[변화 대상\]은 연구마다 구체적 대상(예: 새 전산 결재 절차)으로
 치환한다. 수준 문항은 \"지난 한 달\"을 기준으로 5점 빈도 척도(전혀
-없음\~거의 항상)로, 사건 문항은 예/아니오와 날짜로 응답한다. 국면특이형
-문항은 해당 국면에서만 참이고 다음 국면으로 가면 거짓이 되어야 하는
-문항으로, 국면 식별의 핵심이다.
+없음\~거의 항상)로, 사건 문항은 예/아니오와 날짜로 응답한다. 국면특이형(phase-specific) 문항은 해당 국면에서만 참이고 다음 국면으로 가면 거짓이 되어야 하는
+문항으로, 국면 식별의 핵심이다. 아래 표의 문항은 국문 원문을 영문으로 옮긴 것이다.
 
-  ------------------------------------------------------------------------
-  국면    유형          문항
-  ------- ------------- --------------------------------------------------
-  S0      국면특이형    \[변화 대상\]의 무엇이 문제인지 아직 분명하게 말로
-                        설명하기 어렵다.
 
-  S0      계수          지난 한 달 동안 \[변화 대상\]과 관련하여 임시
-                        우회·수기 보완·예외 처리가 필요했던 횟수는?
-
-  S1      누적형        지난 한 달 동안, 한 요구에 맞추면 다른 중요한
-                        요구를 포기해야 하는 상황이 반복되었다.
-
-  S1      국면특이형    요구가 충돌하지만 기존 방식으로도 마감과 핵심
-                        업무는 대체로 지켜지고 있다.
-
-  S2      국면특이형    \[변화 대상\] 도입 이전과 비교하여, 비슷한 작은
-                        차질이 생긴 뒤 평소 업무 흐름을 되찾는 데 더 오래
-                        걸린다.
-
-  S2      일지          (차질이 있었던 날) 차질 후 평소 업무 흐름을
-                        되찾기까지 걸린 시간은?
-
-  S3      국면특이형    실제로 바꿀 수 있는 대안과 그 실행
-                        조건(승인자·일정·자원)을 확인했다.
-
-  S3      국면특이형    변경에 필요한 준비(교육 신청, 자료 준비, 승인 요청
-                        등) 중 일부를 이미 시작했다.
-
-  E1      사건형        지난 조사 이후 \[변화 대상\]과 관련하여 기존과
-                        다른 방식을 실제 업무에 처음 적용했다. (예/아니오,
-                        날짜)
-
-  N       국면특이형    업무가 몰리거나 문제가 생기면 이전 방식으로
-                        돌아가고 싶은 생각이 든다.
-
-  S4      누적형        새 방식에 맞게 역할 분담과 필요한 자원이
-                        정리되었다.
-
-  S4      국면특이형    작은 문제가 생겼을 때 이전 방식으로 돌아가지 않고
-                        새 방식을 보완해 사용했다.
-  ------------------------------------------------------------------------
+| Phase | Type | Item |
+|--------|----------------|--------------------------------------------------------------------------------|
+| S0 | Phase-specific | It is still hard to put clearly into words what the problem with [target of change] is. |
+| S0 | Count | In the past month, how many times did [target of change] require a temporary workaround, manual supplement, or exception handling? |
+| S1 | Cumulative | In the past month, situations recurred in which meeting one demand meant giving up another important demand. |
+| S1 | Phase-specific | Although demands conflict, deadlines and core tasks are mostly still met with the existing way. |
+| S2 | Phase-specific | Compared with before [target of change] was introduced, it takes longer to regain my usual work flow after a similar minor disruption. |
+| S2 | Diary | (On days with a disruption) How long did it take to regain your usual work flow after the disruption? |
+| S3 | Phase-specific | I have identified an alternative I can actually adopt and the conditions for implementing it (approver, schedule, resources). |
+| S3 | Phase-specific | I have already started part of the preparation needed for the change (e.g., applying for training, preparing materials, requesting approval). |
+| E1 | Event | Since the last survey, I applied a way of working different from before to my actual work for the first time in relation to [target of change]. (yes/no, date) |
+| N | Phase-specific | When work piles up or problems arise, I feel like going back to the previous way. |
+| S4 | Cumulative | Role allocation and necessary resources have been arranged to fit the new way. |
+| S4 | Phase-specific | When a minor problem occurred, I supplemented and used the new way instead of returning to the previous way. |
