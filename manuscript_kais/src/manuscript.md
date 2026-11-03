@@ -226,22 +226,22 @@ DTTM과 가장 가까운 경험적 기반이다.
 신호의 출현이 체계의 구체적 특성에 크게 의존하고 잡음에 매우 민감하다고
 보고하였다. Helmich 등\[33\]은 우울 치료를 시작한 41명의 정서를
 4개월간 하루 다섯 번 측정하여, 자기상관의 상승은 이후 증상이 줄어드는 전이를 겪은 참여자에게서 더 흔하게 나타났으나(89% 대 62.5%) 분산의 상승은 두 집단 모두에서 드물었고(약 11~12%), 개인화된 예측
-방법으로서의 가치는 제한적일 수 있다고 결론지었다. Helmich 등\[17\]은 정서 시계열에서 얻은 조기경보 신호가 임상심리학에서 실증적
+방법으로서의 가치는 제한적일 수 있다고 결론지었다. 항우울제를 중단한 37명을 같은 방식으로 추적한 후속 연구에서도 조기경보 신호는 재발에 앞서 참여자의 32.9%에서만 나타나 민감도가 낮았다\[34\]. Helmich 등\[17\]은 정서 시계열에서 얻은 조기경보 신호가 임상심리학에서 실증적
 지지를 많이 얻지 못했다고 검토하고, 더 나은 측정과 이론적 기반을
 요청하였다. 이러한 검토는 DTTM이 조기경보를 전제가 아닌 검정 대상으로,
 단일 지표가 아닌 지표군으로 다루는 근거가 된다.
 
 파국이론(catastrophe theory)은 임계전이를 기하학적으로 표현하는 틀을
-제공한다\[34, 35\]. cusp 모형에서 결과 변수는
+제공한다\[35, 36\]. cusp 모형에서 결과 변수는
 정상요인(normal factor)과 분기요인(splitting factor)의 함수로 표현된다.
 분기요인이 낮으면 결과는 정상요인에 따라 연속적으로 변하지만, 분기요인이
 높으면 두 안정 상태가 공존하며 불연속적 도약과 이력현상(hysteresis)이
 나타날 수 있다. 사회과학에서는 정치적 태도의 갑작스러운 전환이 관여도와
-정보의 함수로 분석되었고\[36\],
-조직 맥락에서도 비선형 동태 모형이 적용되었다\[37\]. cusp
+정보의 함수로 분석되었고\[37\],
+조직 맥락에서도 비선형 동태 모형이 적용되었다\[38\]. cusp
 모형을 통계적으로 적합하고 다른 모형과 비교하는 방법도 제시되어
-있다\[38\]. 작업·조직심리학에서도
-비선형·동태적 관점을 다룬 특집이 구성된 바 있으나\[39\],
+있다\[39\]. 작업·조직심리학에서도
+비선형·동태적 관점을 다룬 특집이 구성된 바 있으나\[40\],
 정상요인과 분기요인을 구성원의 상태 구조와 연결하여 조작적으로 지정한
 이론은 아직 많지 않은 것으로 보인다.
 
@@ -251,7 +251,7 @@ DTTM은 기존 이론을 대체하려는 것이 아니다. 변수 중심 접근�
 압력·자원·관성 변수를 입력으로, 개인 중심 접근이 보고한 유형과 이동을
 설명 대상으로, 임계전이 접근의 비선형 구조를 형식으로 차용한다. 이
 점에서 DTTM은 경험적으로 관찰 가능한 현상을 다루되 개별 경험 명제보다
-넓은 범위를 지향하는 중범위 이론\[40\]을 목표로 한다. Table 1은
+넓은 범위를 지향하는 중범위 이론\[41\]을 목표로 한다. Table 1은
 주요 연구 흐름과 DTTM의 관계를 정리한 것이다.
 
 **Table 1. Research streams and their relation to DTTM**
@@ -413,9 +413,9 @@ DTTM은 체제 전환의 촉발 조건을 비용 역전으로 가정한다. 유�
 재작업 시간, 지연 건수, 예외 처리 건수, 역할갈등이 여기에 해당한다.
 전환비용 Cₜ는 새 체제로 옮겨 가는 데 드는 학습·손실·불확실성·절차
 비용이다. 관성 α는 두 비용을 비교할 때 전환비용에 붙는 가중으로,
-손실회피\[41\], 현상유지 편향\[42\], 매몰비용 지각, 정체성 고착, 제도적 경직성을 포함하는
+손실회피\[42\], 현상유지 편향\[43\], 매몰비용 지각, 정체성 고착, 제도적 경직성을 포함하는
 개념으로 정의한다. 조직몰입 이론의 지속적 몰입\[3\]은
-α의 한 원천으로 볼 수 있다. 전이의 기본 조건은 다음과 같다.
+α의 한 원천으로 볼 수 있다. 정보시스템 연구에서도 기존 시스템의 습관적 사용, 전환비용, 매몰비용 지각이 관성을 형성하고, 관성이 새 시스템의 유용성 지각과 사용 의도를 낮춘다는 결과가 보고되었다\[44\]. 전이의 기본 조건은 다음과 같다.
 
 $$C_m > \alpha \cdot C_t \qquad (3)$$
 
@@ -464,7 +464,7 @@ $$\operatorname{logit} h(t) = \beta_0(t) + \beta_1 \ln C_m + \beta_2 \ln C_t + \
 비용차가 대칭이어야 한다. DTTM은 역전이가 일어나는 시점의 비용차가 전진
 전이 시점의 비용차보다 반대 방향으로 더 커야 한다고 예측한다. cusp
 모형은 통계적으로 적합할 수 있고 선형·로지스틱 모형과 비교할 수
-있으므로\[38\], \"임계\"라는 개념이 은유에 머물지 않도록
+있으므로\[39\], \"임계\"라는 개념이 은유에 머물지 않도록
 하는 시험대가 된다.
 
 ## 4.3 경계 국면과 조기경보 신호
@@ -480,7 +480,7 @@ DTTM은 경계를 두 변수로 나눈다. \"지각된 경계\"는 설문으로 
 주관적 회복 지연이고, \"동태적 경계\"는 일지 자료에서 산출하는 교란 후
 회복시간, 자기상관, 표준편차이다. 두 변수의 수렴은 가정이 아니라 검증
 과제이며, 수렴이 확인되기 전에는 설문 점수만으로 S2를 판정하지 않는다.
-또한 심리 자료에서 단일 지표의 예측력은 제한적이므로\[43\], 회복시간·자기상관·표준편차를 주지표로, 왜도·첨도·변동계수·지표 간
+또한 심리 자료에서 단일 지표의 예측력은 제한적이므로\[45\], 회복시간·자기상관·표준편차를 주지표로, 왜도·첨도·변동계수·지표 간
 연결성을 보조지표로 두고 결합 판정 규칙을 사전에 정한다. DTTM은 \"모든
 전이에 임계감속이 선행한다\"고 주장하지 않는다. 조기경보 가설이
 기각되더라도 국면 구조 자체는 유지될 수 있다.
@@ -495,11 +495,11 @@ DTTM은 어느 하나의 지표가 아니라 주지표 세 개 가운데 두 개
 
 ## 4.4 임계 국면의 계기 민감성
 
-임계(S3)는 높은 변화 의도와 같지 않다. 계획행동이론의 의도\[44\]나 변화준비도\[45\]는 태도·신념·동기의 수준이지만,
+임계(S3)는 높은 변화 의도와 같지 않다. 계획행동이론의 의도\[46\]나 변화준비도\[47\]는 태도·신념·동기의 수준이지만,
 S3는 ① 유지비용의 구체적 평가, ② 실행 가능한 대안과 그 실행
 조건(승인자·일정·자원)의 확인, ③ 실행 준비의 개시가 모두 충족된 연언
 조건이다. 세 요소는 서로 교환할 수 없으므로, S3는 반영형 요인이 아니라
-형성형 상태로 다룬다\[46\].
+형성형 상태로 다룬다\[48\].
 
 이 국면에서는 작은 계기가 큰 효과를 낸다. 승인, 교육, 회의, 작은 사건
 같은 계기는 다른 국면에서는 거의 영향을 주지 않지만, 준비가 갖추어진
@@ -532,7 +532,7 @@ S3로 분류하는 기준이 아니라 모형 수준에서 검정하는 이론 �
 재구조화(S4)는 새 방식이 ① 해당 업무 대부분에서 반복되고(잠정 기준: 사용비율 u ≥ .80), ② 역할
 분담·자원·동료 기대·절차 문서와 정렬되며, ③ 교란 뒤에도 새 방식으로
 복귀하는 상태이다. 이 정의는 루틴의 구조적 측면과 실제 수행 측면의
-상호작용이 루틴의 안정과 변화를 함께 만든다는 관점\[47\]을 참고하여, 새 방식이 반복 수행을 통해 일상적 구조로 자리 잡은
+상호작용이 루틴의 안정과 변화를 함께 만든다는 관점\[49\]을 참고하여, 새 방식이 반복 수행을 통해 일상적 구조로 자리 잡은
 상태를 개인 수준에서 정의한 것이다. 복원력은 교란 사건이 있어야만
 확인되므로 S4의 확정은 항상 관찰창이 끝난 뒤에만 가능하다. S4에 이른 뒤
 새로운 불일치가 누적되면, R₁을 기준으로 한 새 전경합 S0′이 시작된다.
@@ -541,8 +541,8 @@ S3로 분류하는 기준이 아니라 모형 수준에서 검정하는 이론 �
 
 DTTM은 전이의 발생과 전이의 방향을 구분한다. 비용 역전은 기존 체제에서
 벗어날 위험을 설명하지만, 어떤 새 체제로 가는지는 가용한 대안들의
-전환비용 분포에 달려 있다. 자기효능감\[48\],
-조직지원\[49\], 자원 접근성은 학습·역할 재정의 같은
+전환비용 분포에 달려 있다. 자기효능감\[50\],
+조직지원\[51\], 자원 접근성은 학습·역할 재정의 같은
 적응적 대안의 Cₜ를 낮추어, 같은 비용 역전이라도 이직·회피보다 성장·혁신
 쪽으로 전이가 일어날 가능성을 높일 것으로 예상된다. 이 가설이
 지지된다면, 조직의 개입은 전이를 막는 데보다 어느 대안의 전환비용을 낮출
@@ -559,7 +559,7 @@ DTTM은 전이의 발생과 전이의 방향을 구분한다. 비용 역전은 �
 
 DTTM을 팀·조직에 적용할 때 가장 흔한 오류는 개인 점수의 평균을 상위
 수준의 국면이라고 부르는 것이다. 상위 수준 구성개념은 그것이 개인
-응답에서 어떻게 구성되는지를 먼저 명시해야 한다\[50, 51\]. DTTM에서 팀의 체제는 팀의 표준 절차와 역할 분담이고, 팀의
+응답에서 어떻게 구성되는지를 먼저 명시해야 한다\[52, 53\]. DTTM에서 팀의 체제는 팀의 표준 절차와 역할 분담이고, 팀의
 E1은 팀 표준 절차 변경의 공식화이며, 조직의 E1은 규정·조직도 개정의
 시행이다. 수준 간 작용은 두 방향으로 일어난다. 하향 효과에서 조직의 E1은
 개인에게 계기 또는 강제 전이로 작용한다. 상향 효과에서는 팀 내 개인
@@ -674,7 +674,7 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 
 ## 5.4 명제의 검정과 기각 기준
 
-이론은 반증 가능성과 효용으로 평가되어야 한다는 기준\[52\]에
+이론은 반증 가능성과 효용으로 평가되어야 한다는 기준\[54\]에
 따라, Table 4는 각 명제의 검정 방법과, 어떤 결과가 나오면 이론의 어느
 부분을 수정하는지를 사전에 정리한 것이다.
 
@@ -740,7 +740,7 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 세 요소, N의 이중 운용·학습 부하·회귀 충동, S4의 반복·정렬·복원력은 서로
 공변할 필요가 없는 형성형 지표이다. 모든 지표를 반영형 요인으로 가정하면
 내적 일관성이 필요 없는 구성요소에 높은 상관을 요구하는 오류가
-생긴다\[46\]. 따라서 형성형 상태에는 판정 규칙(S3·S4는
+생긴다\[48\]. 따라서 형성형 상태에는 판정 규칙(S3·S4는
 모두 충족해야 하는 연언형, N은 가중 합의 보상형)을 사전에 명시한다.
 
 ## 6.4 명제 검정의 전제 과제
@@ -759,7 +759,7 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 3.  **국면의 범주성.** 국면이 질적으로 다른 범주인지, 하나 또는 여러
     연속 차원의 구간인지를 경쟁모형으로 비교한다(다음 절).
 
-4.  **임계와 변화의도의 판별.** S3의 세 요소와 변화준비도\[45\], 계획행동이론의 의도\[44\], 전환비용\[53\]을 함께 측정하여 판별타당도(HTMT)와 증분타당도를
+4.  **임계와 변화의도의 판별.** S3의 세 요소와 변화준비도\[47\], 계획행동이론의 의도\[46\], 전환비용\[55\]을 함께 측정하여 판별타당도(HTMT)와 증분타당도를
     검정한다. 증분 예측력이 없으면 S3를 변화준비도의 상위 구간으로
     재정의한다.
 
@@ -775,12 +775,12 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 
 DTTM 검증의 가장 큰 위험은 국면들이 실제로 잠재클래스로 분리되지 않을
 가능성이다. 반응 분포가 비정규적이기만 해도 허위 클래스가 추출될 수
-있고\[54\], 반대로 실제 범주가 연속 점수 속에 묻힐 수도
+있고\[56\], 반대로 실제 범주가 연속 점수 속에 묻힐 수도
 있다. 따라서 국면의 범주적 지위는 가정이 아니라 검정 대상이다. 같은
 지표와 표본으로 ① 단일 연속차원 모형, ② 다차원 연속 모형, ③
-요인혼합모형\[55\], ④ 잠재클래스·잠재전이 모형(DTTM의
+요인혼합모형\[57\], ④ 잠재클래스·잠재전이 모형(DTTM의
 주모형), ⑤ 개인 내 마르코프 전환 자기회귀 모형(Markov-switching autoregressive model)을 적합하고, 클래스 수는
-BIC·표본크기 조정 BIC·BLRT로 결정한다\[56\]. 모형 계열 간 적합도는 직접 비교할 수 없으므로 다음 파의 체제 전환
+BIC·표본크기 조정 BIC·BLRT로 결정한다\[58\]. 모형 계열 간 적합도는 직접 비교할 수 없으므로 다음 파의 체제 전환
 예측력을 공통 기준으로 함께 보고한다.
 
 연속 모형이 우세하더라도 DTTM이 기각되는 것은 아니다. 이 경우 국면은
@@ -818,10 +818,10 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 연구 4의 측정 버스트 설계는 전체 기간을 촘촘히 측정하는 부담 없이 임계
 구간 주변에서만 고빈도 자료를 확보하는 방법이다. 본 연구는 개인 수준의
 조기경보 판정에 개인당 약 50회 이상의 측정을 잠정 기준으로 둔다. 집단
-수준의 동태적 구조방정식모형\[57\]에 관한
+수준의 동태적 구조방정식모형\[59\]에 관한
 모의실험 연구는 개인 수가 충분히 크면 적은 측정 횟수를 어느 정도 보완할
 수 있으나 개인별 자기회귀 계수와 같은 무선효과는 비교적 긴 시계열을
-필요로 한다고 보고하였다\[58\]. 최종 규모는 연구
+필요로 한다고 보고하였다\[60\]. 최종 규모는 연구
 모형에 맞춘 모의실험으로 정한다. 저자의 선행 다집단 구조방정식 연구(다섯
 전문직군, N = 586)는 DTTM 구상의 배경이 되었으나, 국면을 반복 측정한
 자료가 아니므로 DTTM의 직접 검증으로 제시하지 않는다.
@@ -845,7 +845,7 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 구성원에게는 같은 요구의 증가가 경합 국면에서보다 더 큰 전이 위험과
 관련될 것\"이라는 가설을 제시한다. 이는 같은 변수의 효과가 시점과 상태에
 따라 달라질 수 있다는 주장으로, 이론에서 시간을 명시적으로 다루어야
-한다는 논의\[5, 59\]에 대한 하나의
+한다는 논의\[5, 61\]에 대한 하나의
 응답이 될 수 있다.
 
 둘째, DTTM은 단계모형에 제기되어 온 두 문제, 즉 단계가 연속 점수의
@@ -919,7 +919,7 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 개인의 안정적 성향인지 맥락에 따라 변하는 계수인지는 이론적으로도 열려
 있다. 비율형 비용식의 검정은 객관적 비율척도 지표를 확보할 수 있는
 맥락에서 우선 수행하는 것이 바람직하다. 또한 전환비용의 비교 척도로
-제시한 척도\[53\]는 소비자 맥락에서
+제시한 척도\[55\]는 소비자 맥락에서
 개발되었으므로 조직 맥락에 맞는 번안과 타당화가 필요하다.
 
 셋째, 조기경보 신호의 검정에는 개인당 수십 회의 반복측정과 변화 이전의
@@ -936,7 +936,7 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 다섯째, 본 연구가 참고한 임계전이의 실증 근거는 주로 생태학과
 임상심리학에서 나왔다. 조직 구성원의 행동과 역할이 정서나 증상과 유사한
 동태를 보일지는 불확실하며, 임상 자료에서도 개인 수준 조기경보 신호의
-예측력은 제한적이었다\[17, 33\]. 따라서 명제 4와 6은
+예측력은 제한적이었다\[17, 33, 34\]. 따라서 명제 4와 6은
 다른 명제보다 지지되지 않을 가능성이 높은 명제로 보아야 한다. 본 연구는
 이들이 기각되더라도 상태공간 구조(명제 1)와 비용 역전(명제 5)에 관한
 명제가 독립적으로 검정될 수 있도록 이론을 구성하였다.
@@ -1032,57 +1032,61 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 
 \[33\] M. A. Helmich, A. C. Smit, L. F. Bringmann, et al., "Detecting impending symptom transitions using early-warning signals in individuals receiving treatment for depression", *Clinical Psychological Science*, Vol.11, No.6, pp.994-1010, 2023. DOI: https://doi.org/10.1177/21677026221137006
 
-\[34\] R. Thom, *Structural stability and morphogenesis*, W. A. Benjamin, Reading, MA, 1975.
+\[34\] A. C. Smit, M. A. Helmich, L. F. Bringmann, et al., "Critical slowing down in momentary affect as early warning signal of impending transitions in depression", *Clinical Psychological Science*, Vol.13, No.4, pp.760-773, 2025. DOI: https://doi.org/10.1177/21677026241305136
 
-\[35\] E. C. Zeeman, *Catastrophe theory: Selected papers, 1972-1977*, Addison-Wesley, Reading, MA, 1977.
+\[35\] R. Thom, *Structural stability and morphogenesis*, W. A. Benjamin, Reading, MA, 1975.
 
-\[36\] H. L. J. van der Maas, R. Kolstein, J. van der Pligt, "Sudden transitions in attitudes", *Sociological Methods & Research*, Vol.32, No.2, pp.125-152, 2003. DOI: https://doi.org/10.1177/0049124103253773
+\[36\] E. C. Zeeman, *Catastrophe theory: Selected papers, 1972-1977*, Addison-Wesley, Reading, MA, 1977.
 
-\[37\] S. J. Guastello, *Managing emergent phenomena: Nonlinear dynamics in work organizations*, Lawrence Erlbaum, Mahwah, NJ, 2002.
+\[37\] H. L. J. van der Maas, R. Kolstein, J. van der Pligt, "Sudden transitions in attitudes", *Sociological Methods & Research*, Vol.32, No.2, pp.125-152, 2003. DOI: https://doi.org/10.1177/0049124103253773
 
-\[38\] R. P. P. P. Grasman, H. L. J. van der Maas, E.-J. Wagenmakers, "Fitting the cusp catastrophe in R: A cusp package primer", *Journal of Statistical Software*, Vol.32, No.8, pp.1-27, 2009. DOI: https://doi.org/10.18637/jss.v032.i08
+\[38\] S. J. Guastello, *Managing emergent phenomena: Nonlinear dynamics in work organizations*, Lawrence Erlbaum, Mahwah, NJ, 2002.
 
-\[39\] J. Navarro, M. R. Rueff-Lopes, R. Rico, "New nonlinear and dynamic avenues for the study of work and organizational psychology: An introduction to the special issue", *European Journal of Work and Organizational Psychology*, Vol.29, No.4, pp.477-482, 2020. DOI: https://doi.org/10.1080/1359432X.2020.1794952
+\[39\] R. P. P. P. Grasman, H. L. J. van der Maas, E.-J. Wagenmakers, "Fitting the cusp catastrophe in R: A cusp package primer", *Journal of Statistical Software*, Vol.32, No.8, pp.1-27, 2009. DOI: https://doi.org/10.18637/jss.v032.i08
 
-\[40\] R. K. Merton, *Social theory and social structure* (enlarged ed.), Free Press, New York, 1968.
+\[40\] J. Navarro, M. R. Rueff-Lopes, R. Rico, "New nonlinear and dynamic avenues for the study of work and organizational psychology: An introduction to the special issue", *European Journal of Work and Organizational Psychology*, Vol.29, No.4, pp.477-482, 2020. DOI: https://doi.org/10.1080/1359432X.2020.1794952
 
-\[41\] D. Kahneman, A. Tversky, "Prospect theory: An analysis of decision under risk", *Econometrica*, Vol.47, No.2, pp.263-291, 1979. DOI: https://doi.org/10.2307/1914185
+\[41\] R. K. Merton, *Social theory and social structure* (enlarged ed.), Free Press, New York, 1968.
 
-\[42\] W. Samuelson, R. Zeckhauser, "Status quo bias in decision making", *Journal of Risk and Uncertainty*, Vol.1, No.1, pp.7-59, 1988. DOI: https://doi.org/10.1007/BF00055564
+\[42\] D. Kahneman, A. Tversky, "Prospect theory: An analysis of decision under risk", *Econometrica*, Vol.47, No.2, pp.263-291, 1979. DOI: https://doi.org/10.2307/1914185
 
-\[43\] M. A. Helmich, M. Olthof, A. J. Oldehinkel, et al., "Early warning signals and critical transitions in psychopathology: Challenges and recommendations", *Current Opinion in Psychology*, Vol.41, pp.51-58, 2021. DOI: https://doi.org/10.1016/j.copsyc.2021.02.008
+\[43\] W. Samuelson, R. Zeckhauser, "Status quo bias in decision making", *Journal of Risk and Uncertainty*, Vol.1, No.1, pp.7-59, 1988. DOI: https://doi.org/10.1007/BF00055564
 
-\[44\] I. Ajzen, "The theory of planned behavior", *Organizational Behavior and Human Decision Processes*, Vol.50, No.2, pp.179-211, 1991. DOI: https://doi.org/10.1016/0749-5978(91)90020-T
+\[44\] G. L. Polites, E. Karahanna, "Shackled to the status quo: The inhibiting effects of incumbent system habit, switching costs, and inertia on new system acceptance", *MIS Quarterly*, Vol.36, No.1, pp.21-42, 2012. DOI: https://doi.org/10.2307/41410404
 
-\[45\] D. T. Holt, A. A. Armenakis, H. S. Feild, S. G. Harris, "Readiness for organizational change: The systematic development of a scale", *Journal of Applied Behavioral Science*, Vol.43, No.2, pp.232-255, 2007. DOI: https://doi.org/10.1177/0021886306295295
+\[45\] M. A. Helmich, M. Olthof, A. J. Oldehinkel, et al., "Early warning signals and critical transitions in psychopathology: Challenges and recommendations", *Current Opinion in Psychology*, Vol.41, pp.51-58, 2021. DOI: https://doi.org/10.1016/j.copsyc.2021.02.008
 
-\[46\] C. B. Jarvis, S. B. MacKenzie, P. M. Podsakoff, "A critical review of construct indicators and measurement model misspecification in marketing and consumer research", *Journal of Consumer Research*, Vol.30, No.2, pp.199-218, 2003. DOI: https://doi.org/10.1086/376806
+\[46\] I. Ajzen, "The theory of planned behavior", *Organizational Behavior and Human Decision Processes*, Vol.50, No.2, pp.179-211, 1991. DOI: https://doi.org/10.1016/0749-5978(91)90020-T
 
-\[47\] M. S. Feldman, B. T. Pentland, "Reconceptualizing organizational routines as a source of flexibility and change", *Administrative Science Quarterly*, Vol.48, No.1, pp.94-118, 2003. DOI: https://doi.org/10.2307/3556620
+\[47\] D. T. Holt, A. A. Armenakis, H. S. Feild, S. G. Harris, "Readiness for organizational change: The systematic development of a scale", *Journal of Applied Behavioral Science*, Vol.43, No.2, pp.232-255, 2007. DOI: https://doi.org/10.1177/0021886306295295
 
-\[48\] A. Bandura, "Self-efficacy: Toward a unifying theory of behavioral change", *Psychological Review*, Vol.84, No.2, pp.191-215, 1977. DOI: https://doi.org/10.1037/0033-295X.84.2.191
+\[48\] C. B. Jarvis, S. B. MacKenzie, P. M. Podsakoff, "A critical review of construct indicators and measurement model misspecification in marketing and consumer research", *Journal of Consumer Research*, Vol.30, No.2, pp.199-218, 2003. DOI: https://doi.org/10.1086/376806
 
-\[49\] R. Eisenberger, R. Huntington, S. Hutchison, D. Sowa, "Perceived organizational support", *Journal of Applied Psychology*, Vol.71, No.3, pp.500-507, 1986. DOI: https://doi.org/10.1037/0021-9010.71.3.500
+\[49\] M. S. Feldman, B. T. Pentland, "Reconceptualizing organizational routines as a source of flexibility and change", *Administrative Science Quarterly*, Vol.48, No.1, pp.94-118, 2003. DOI: https://doi.org/10.2307/3556620
 
-\[50\] D. Chan, "Functional relations among constructs in the same content domain at different levels of analysis: A typology of composition models", *Journal of Applied Psychology*, Vol.83, No.2, pp.234-246, 1998. DOI: https://doi.org/10.1037/0021-9010.83.2.234
+\[50\] A. Bandura, "Self-efficacy: Toward a unifying theory of behavioral change", *Psychological Review*, Vol.84, No.2, pp.191-215, 1977. DOI: https://doi.org/10.1037/0033-295X.84.2.191
 
-\[51\] S. W. J. Kozlowski, K. J. Klein, "A multilevel approach to theory and research in organizations: Contextual, temporal, and emergent processes", In K. J. Klein, S. W. J. Kozlowski (Eds.), *Multilevel theory, research, and methods in organizations*, Jossey-Bass, San Francisco, pp.3-90, 2000.
+\[51\] R. Eisenberger, R. Huntington, S. Hutchison, D. Sowa, "Perceived organizational support", *Journal of Applied Psychology*, Vol.71, No.3, pp.500-507, 1986. DOI: https://doi.org/10.1037/0021-9010.71.3.500
 
-\[52\] S. B. Bacharach, "Organizational theories: Some criteria for evaluation", *Academy of Management Review*, Vol.14, No.4, pp.496-515, 1989. DOI: https://doi.org/10.5465/amr.1989.4308374
+\[52\] D. Chan, "Functional relations among constructs in the same content domain at different levels of analysis: A typology of composition models", *Journal of Applied Psychology*, Vol.83, No.2, pp.234-246, 1998. DOI: https://doi.org/10.1037/0021-9010.83.2.234
 
-\[53\] T. A. Burnham, J. K. Frels, V. Mahajan, "Consumer switching costs: A typology, antecedents, and consequences", *Journal of the Academy of Marketing Science*, Vol.31, No.2, pp.109-126, 2003. DOI: https://doi.org/10.1177/0092070302250897
+\[53\] S. W. J. Kozlowski, K. J. Klein, "A multilevel approach to theory and research in organizations: Contextual, temporal, and emergent processes", In K. J. Klein, S. W. J. Kozlowski (Eds.), *Multilevel theory, research, and methods in organizations*, Jossey-Bass, San Francisco, pp.3-90, 2000.
 
-\[54\] D. J. Bauer, P. J. Curran, "Distributional assumptions of growth mixture models: Implications for overextraction of latent trajectory classes", *Psychological Methods*, Vol.8, No.3, pp.338-363, 2003. DOI: https://doi.org/10.1037/1082-989X.8.3.338
+\[54\] S. B. Bacharach, "Organizational theories: Some criteria for evaluation", *Academy of Management Review*, Vol.14, No.4, pp.496-515, 1989. DOI: https://doi.org/10.5465/amr.1989.4308374
 
-\[55\] G. H. Lubke, B. Muthén, "Investigating population heterogeneity with factor mixture models", *Psychological Methods*, Vol.10, No.1, pp.21-39, 2005. DOI: https://doi.org/10.1037/1082-989X.10.1.21
+\[55\] T. A. Burnham, J. K. Frels, V. Mahajan, "Consumer switching costs: A typology, antecedents, and consequences", *Journal of the Academy of Marketing Science*, Vol.31, No.2, pp.109-126, 2003. DOI: https://doi.org/10.1177/0092070302250897
 
-\[56\] K. L. Nylund, T. Asparouhov, B. O. Muthén, "Deciding on the number of classes in latent class analysis and growth mixture modeling: A Monte Carlo simulation study", *Structural Equation Modeling*, Vol.14, No.4, pp.535-569, 2007. DOI: https://doi.org/10.1080/10705510701575396
+\[56\] D. J. Bauer, P. J. Curran, "Distributional assumptions of growth mixture models: Implications for overextraction of latent trajectory classes", *Psychological Methods*, Vol.8, No.3, pp.338-363, 2003. DOI: https://doi.org/10.1037/1082-989X.8.3.338
 
-\[57\] T. Asparouhov, E. L. Hamaker, B. Muthén, "Dynamic structural equation models", *Structural Equation Modeling*, Vol.25, No.3, pp.359-388, 2018. DOI: https://doi.org/10.1080/10705511.2017.1406803
+\[57\] G. H. Lubke, B. Muthén, "Investigating population heterogeneity with factor mixture models", *Psychological Methods*, Vol.10, No.1, pp.21-39, 2005. DOI: https://doi.org/10.1037/1082-989X.10.1.21
 
-\[58\] M. Schultzberg, B. Muthén, "Number of subjects and time points needed for multilevel time-series analysis: A simulation study of dynamic structural equation modeling", *Structural Equation Modeling*, Vol.25, No.4, pp.495-515, 2018. DOI: https://doi.org/10.1080/10705511.2017.1392862
+\[58\] K. L. Nylund, T. Asparouhov, B. O. Muthén, "Deciding on the number of classes in latent class analysis and growth mixture modeling: A Monte Carlo simulation study", *Structural Equation Modeling*, Vol.14, No.4, pp.535-569, 2007. DOI: https://doi.org/10.1080/10705510701575396
 
-\[59\] J. M. George, G. R. Jones, "The role of time in theory and theory building", *Journal of Management*, Vol.26, No.4, pp.657-684, 2000.
+\[59\] T. Asparouhov, E. L. Hamaker, B. Muthén, "Dynamic structural equation models", *Structural Equation Modeling*, Vol.25, No.3, pp.359-388, 2018. DOI: https://doi.org/10.1080/10705511.2017.1406803
+
+\[60\] M. Schultzberg, B. Muthén, "Number of subjects and time points needed for multilevel time-series analysis: A simulation study of dynamic structural equation modeling", *Structural Equation Modeling*, Vol.25, No.4, pp.495-515, 2018. DOI: https://doi.org/10.1080/10705511.2017.1392862
+
+\[61\] J. M. George, G. R. Jones, "The role of time in theory and theory building", *Journal of Management*, Vol.26, No.4, pp.657-684, 2000.
 
 # Appendix. 국면별 대표 문항 예시
 
