@@ -457,7 +457,7 @@ $$\operatorname{logit} h(t) = \beta_0(t) + \beta_1 \ln C_m + \beta_2 \ln C_t + \
 구성원은 ① 결과 분포가 기존 방식과 새 방식의 두 봉우리로 나뉘고(이봉성),
 ② 비용차가 일정 수준에 이르기까지 버티다가 한꺼번에 이동하며(불연속
 도약), ③ 한번 이동한 뒤에는 비용차가 원래 수준으로 돌아와도 되돌아가지
-않는다(이력현상).
+않는다(이력현상). 여기서 α는 식 (3)·(4)에서는 전환비용에 붙는 가중으로, cusp 모형에서는 분기요인으로 들어간다. 두 표현은 같은 관성 개념을 서로 다른 함수형으로 나타낸 것이며, 어느 쪽이 자료에 더 맞는지는 명제 5와 명제 6의 모형 비교로 판단한다.
 
 이력현상은 DTTM을 단순한 선형 의사결정 모형과 구별하는 핵심 예측이다.
 선형 모형에서는 R₀에서 R₁로 가는 비용차와 R₁에서 R₀으로 돌아가는
@@ -631,8 +631,7 @@ cusp 모형이 선형·로지스틱 모형보다 우수하지 않으면, DTTM의
 비용차는, 기존 체제에서 신규 체제로 이동한 전진 전이 시점의 비용차보다
 반대 방향으로 더 크다.
 
-이 비대칭은 조직이 경험적으로 알고 있는 현상, 즉 바뀐 행동은 원래의
-압력이 사라져도 쉽게 돌아오지 않는다는 사실을 이론의 예측으로 만든다.
+이 비대칭은 조직이 경험적으로 알고 있는 현상, 즉 바뀐 행동은 원래의 압력이 사라져도 쉽게 돌아오지 않는다는 사실을 이론의 예측으로 만든다. 다만 역전이는 현장 자료에서 드물 수 있으므로, 비교에 충분한 사례가 모이지 않으면 비용차를 체계적으로 바꾸어 제시하는 비네트 실험으로 이 명제를 보완 검정한다.
 
 **명제 8(계기 민감성).** 계기(승인·교육·작은 사건)가 체제 전환 위험에
 미치는 효과는 임계(S3)에서 다른 국면보다 크다.
@@ -689,7 +688,7 @@ cusp 구조에서 불연속 도약은 분기요인이 높은 영역에서, 연�
 | 4 Early warning | Trends in recovery time, AR(1), and variance in pre-transition vs. control windows (Kendall τ, surrogate data), based on a simultaneous rise in two or more of the three | If there is no difference, or the same pattern appears in stable periods, the early-warning hypothesis is rejected |
 | 5 Cost reversal | Discrete-time survival model; test of the equality constraint β₁ = −β₂ = −β₃ | If the constraint is rejected, an alternative functional form (e.g., additive) is adopted; if the direction is rejected, the triggering mechanism is withdrawn |
 | 6 Nonlinear threshold | Cusp vs. linear and logistic models; inspection of bimodality | If the nonlinear model is not superior, "threshold" is limited to a metaphor |
-| 7 Hysteresis | Comparison of cost differences at forward and reverse transitions | If there is no asymmetry, the proposition is rejected |
+| 7 Hysteresis | Comparison of cost differences at forward and reverse transitions; a vignette experiment that varies the cost difference if reverse transitions are too rare | If there is no asymmetry, the proposition is rejected |
 | 8 Trigger sensitivity | Effect of the trigger × phase (readiness) interaction on transition hazard | If there is no interaction, the sensitivity component is removed |
 | 9 Transition speed | Comparison of α, cost difference, and early-warning indicators between abrupt and gradual transitions | If there are no differences, transition types are kept only as descriptive codes |
 | 10 Post-transition vulnerability | LTA with N and S4 separated vs. merged; survival models of return hazard | If there is no difference, N is merged into the S4 candidate period |
