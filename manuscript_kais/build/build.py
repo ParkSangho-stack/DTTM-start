@@ -119,9 +119,18 @@ def add_table_borders(docx_path):
         if old is not None:
             tblPr.remove(old)
         tblPr.append(borders)
+        # 쪽이 바뀌어도 행이 둘로 갈라지지 않게 하고, 다음 쪽에 머리글 행을 반복
+        for i, row in enumerate(tbl.rows):
+            trPr = row._tr.get_or_add_trPr()
+            for tag in ("w:cantSplit",) + (("w:tblHeader",) if i == 0 else ()):
+                if trPr.find(qn(tag)) is None:
+                    trPr.append(OxmlElement(tag))
     # 표·그림 제목은 가운데, 표 주(註)는 작은 글씨
     for p in doc.paragraphs:
         txt = p.text
+        if p._p.xpath(".//w:drawing"):
+            # 그림과 그 아래 그림 설명이 다른 쪽으로 떨어지지 않게 함
+            p.paragraph_format.keep_with_next = True
         if re.match(r"^(Table|Fig\.) \d+\.", txt):
             p.alignment = WD_ALIGN_PARAGRAPH.CENTER if txt.startswith("Table") else WD_ALIGN_PARAGRAPH.JUSTIFY
             p.paragraph_format.first_line_indent = Pt(0)
