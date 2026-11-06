@@ -221,3 +221,11 @@ python3 build/report.py v1.1             # changes/v1.1.json → 수정내역서
 
 **저자 확인 필요**
 - 26쪽으로 투고할지, 6.5절 마지막 문단을 줄여 25쪽으로 할지.
+
+### v1.14 — 2026-11-07 (영어 교정, 26쪽)
+1. 영문 제목·Abstract·Keywords·그림 설명·표 칸을 교정했습니다(8곳, 내용 변경 없음).
+2. Abstract: 첫 두 문장 간결화, 국면 층 정의를 국문과 일치('the level of stability within that regime'), 마지막 문장의 현수 수식어 수정.
+3. Fig. 1·2 설명의 빠진 동사·관사 보충, Table 6 연구 4 칸 간결화. Abstract 315단어.
+
+**저자 확인 필요**
+- 원어민 영문 교정 여부, Abstract 분량 제한, S2·S4 영문 명칭.

@@ -1,0 +1,97 @@
+{
+ "date": "2026-11-07",
+ "topic": "영문 제목·Abstract·Keywords·표·그림 영어 교정",
+ "manuscript": "동태적 임계전이모형(DTTM): 조직 구성원 변화의 상태공간 이론 (이론논문)",
+ "base": "v1.13 (2026-11-06)",
+ "summary": [
+  "영문 부분(제목, Abstract, Keywords, 그림 설명 2개, Table 3 주, 표 7개의 칸)을 다시 읽고 영어를 교정했습니다. 내용은 바꾸지 않고 문법·어순·학술 문체만 고쳤습니다. 8곳을 고쳤습니다.",
+  "Abstract: 첫 문장의 주어를 '구성원의 변화'에서 '구성원의 업무 방식 변화'로 구체화했고, 둘째 문장의 장황한 표현을 줄였습니다. 국면 층 정의는 'the stability of that regime'을 국문 정의('체제 안의 안정성 수준')에 맞춰 'the level of stability within that regime'으로 바꿨습니다.",
+  "Abstract 마지막 문장 'As a theory-development study, the propositions … require'는 수식어와 주어가 맞지 않는 문장(현수 수식어)이어서 'Because this is a theory-development study, …'로 고쳤습니다. 실무 의의 문장의 'judge when'은 'decide when'으로 바꿨습니다.",
+  "그림 설명: Fig. 1의 'thin dashed lines paths predicted to be small'처럼 동사가 빠진 구절과 'is a leap'을 고쳤고, Fig. 2에는 관사를 보탰습니다. Table 6의 'Early warning that holds universally for everyone'은 'Universal early warning for all individuals'로 간결하게 바꿨습니다.",
+  "제목, Keywords 5개, 나머지 표 칸은 점검 결과 고칠 곳이 없었습니다. 영국식 철자(-isation, -our)는 없었습니다(미국식으로 통일됨). 워드 쪽수는 26쪽입니다."
+ ],
+ "changes": [
+  {
+   "loc": "Abstract 1문장",
+   "before": "Change among organizational members sometimes accumulates gradually, but it can also take the form of a relatively abrupt shift, as when long-standing work practices change …",
+   "after": "Change in organizational members' work practices may accumulate gradually, but it can also occur as a relatively abrupt shift, as when long-standing practices change …",
+   "reason": "주어를 구체화하고 'take the form of'를 'occur as'로 줄임. 같은 문장 안 'work practices' 반복 제거"
+  },
+  {
+   "loc": "Abstract 2문장",
+   "before": "…have contributed to explaining the pressures behind and the direction of such change, but have paid comparatively less attention to when and under what conditions a qualitative shift occurs.",
+   "after": "…have explained the pressures behind such change and its direction but have paid less attention to when, and under what conditions, a qualitative shift occurs.",
+   "reason": "'contributed to explaining'의 군더더기와 'behind and the direction of'의 어색한 병렬 정리. 삽입구에 쉼표"
+  },
+  {
+   "loc": "Abstract 4문장",
+   "before": "a phase layer (the stability of that regime)",
+   "after": "a phase layer (the level of stability within that regime)",
+   "reason": "국문 요약·1.4절 정의('체제 안의 안정성 수준')와 일치"
+  },
+  {
+   "loc": "Abstract 10문장",
+   "before": "…can help organizations introducing new work systems or policies judge when to provide support and intervene, using boundary-phase signals and the post-transition period.",
+   "after": "…can help organizations that introduce new work systems or policies decide when to provide support and intervene, drawing on boundary-phase signals and on the post-transition period.",
+   "reason": "분사구 수식을 관계절로 바꿔 명확히. 'judge when'보다 'decide when'이 자연스러움"
+  },
+  {
+   "loc": "Abstract 11문장",
+   "before": "As a theory-development study, the propositions and classification criteria proposed here require empirical testing …",
+   "after": "Because this is a theory-development study, the propositions and classification criteria proposed here require empirical testing …",
+   "reason": "현수 수식어(dangling modifier): 'theory-development study'인 것은 연구이지 명제가 아님"
+  },
+  {
+   "loc": "Fig. 1 설명",
+   "before": "…and thin dashed lines paths predicted to be small but nonzero (○), … the red dashed line is a leap from the boundary phase (S2) to regime transition (○).",
+   "after": "…and thin dashed lines denote paths predicted to have small but nonzero probabilities (○), … the red dashed line denotes a leap from the boundary phase (S2) directly to regime transition (○).",
+   "reason": "생략된 동사(denote) 복원, 선(line)이 도약 자체가 아니라 도약을 나타냄"
+  },
+  {
+   "loc": "Fig. 2 설명",
+   "before": "…each variable's effect on transition hazard.",
+   "after": "…each variable's effect on the transition hazard.",
+   "reason": "관사 보충(그림 속 'Transition hazard h(t)'를 가리킴)"
+  },
+  {
+   "loc": "Table 6, 연구 4",
+   "before": "Early warning that holds universally for everyone",
+   "after": "Universal early warning for all individuals",
+   "reason": "간결화. '넘어서면 안 되는 주장' 열의 다른 칸과 같은 명사구 형식"
+  }
+ ],
+ "metrics": [
+  [
+   "워드 쪽수(심사용 서식)",
+   "26쪽 — 허용 범위 24~26쪽 안"
+  ],
+  [
+   "Abstract",
+   "313단어 → 315단어"
+  ],
+  [
+   "국문 본문(1~8장)",
+   "변경 없음"
+  ],
+  [
+   "점검한 영문",
+   "제목, Abstract(11문장), Keywords(5개), 그림 설명 2개, Table 3 주, 표 7개(본문 6 + 부록) 칸 전체"
+  ]
+ ],
+ "unverified": [
+  "이번 교정은 문법·문체 수준입니다. 투고 전 원어민 교정이나 학회가 권하는 영문 교정을 받을지는 저자가 정해 주세요(학회에 따라 영문 초록 교정 확인서를 요구하기도 합니다 — 학회 규정 원문 미확인).",
+  "S2 'boundary', S4 'reconfiguration' 영문 명칭은 그대로 두었습니다(v1.7부터 결정 요청 중). 바꾸시면 Abstract·표·그림(build/figures.py)을 한 번에 바꾸겠습니다.",
+  "Abstract가 315단어입니다. 학회의 Abstract 분량 제한을 확인하지 못했습니다.",
+  "이전 결정 요청(26쪽 또는 25쪽, 산학 과제 사례, 'N 국면' 표현, 부록 국문 문항 병기, 학회 초과 쪽 규정 문의)은 그대로입니다."
+ ],
+ "unchanged": [
+  "국문 본문, 국문 요약, 참고문헌, 표·그림의 내용은 바꾸지 않았습니다.",
+  "그림 파일 속 영문은 점검 결과 고칠 곳이 없어 다시 그리지 않았습니다."
+ ],
+ "next": [
+  "v1.15(11-08): 익명화를 점검하고(저자 정보, 자기 인용, 파일 속성, 감사의 글 등), 투고 서류 체크리스트(저작권 이양, 연구윤리 서약, 유사도 검사)를 만듭니다."
+ ],
+ "sources": [
+  "이번 판은 원고 내부의 영어 교정 작업이라 외부 자료를 인용하지 않았습니다."
+ ]
+}
