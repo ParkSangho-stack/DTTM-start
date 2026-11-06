@@ -237,3 +237,17 @@
 **저자 확인 필요**
 - 학회 분량 기준(참고문헌 포함 30매로 보임)의 "매"가 200자 원고지 기준인지, A4 쪽 기준인지 확인해 주세요. 200자 원고지 기준이면 본문만 약 29,000자(약 145매)라서 대폭 줄여야 합니다. A4 30쪽 기준이면 지금 분량에 맞습니다.
 - 투고 시 지울 부분이 두 곳 있습니다. 원고 첫머리의 "저자 메모"와 부록 1(명세서 대응표, 투고 시 삭제)입니다. 11-08 판(익명화)에서 지운 심사용 판을 따로 만들겠습니다.
+
+### v2.15 — 2026-11-07 (영문 제목·초록·주제어)
+1. **영문 제목:** "Nonlinear Change *in* Organizational Members"를 "Nonlinear Change *among* Organizational Members"로 고쳤습니다. 원고 첫머리와 Abstract 제목 두 곳을 모두 바꿨습니다. 변화는 구성원들 사이에서 일어나므로 among이 자연스럽습니다.
+2. **영문초록, 국문초록과 맞춤:**
+   - regime layer: 국문의 "우세한"을 살려 "the dominant … pattern that members actually enact"로 바꿨습니다.
+   - phase layer: 국문 "안정성 수준"에 맞춰 "the stability of that regime"을 "the level of stability within that regime"으로 바꿨습니다.
+   - 끝 두 문장의 어색한 표현을 다듬었습니다("in light of members' phases" → "given members' current phases", "require empirical testing" → "are offered for empirical testing").
+3. **주제어:** 영문 주제어 8개는 국문 주제어 8개와 순서·내용이 같았습니다. 그래서 바꾸지 않았습니다.
+4. 영문초록은 약 290단어입니다. 판 표시를 v2.15로 바꿨습니다.
+
+**저자 확인 필요**
+- 영문 제목에는 "Nonlinear"가 있지만 국문 제목("조직 구성원 변화의 상태공간 이론")에는 "비선형"이 없습니다. 두 제목을 맞추려면 국문 제목을 "조직 구성원의 비선형적 변화에 관한 상태공간 이론"으로 바꾸거나, 영문 제목에서 Nonlinear를 빼야 합니다. 어느 쪽으로 할지 정해 주세요.
+- 국면 이름의 영문 번역을 확인해 주세요. 지금은 경계=boundary, 임계=threshold, 재구조화=reconfiguration입니다. 명세서나 이전 원고에서 쓰던 영문 용어가 있으면 그에 맞추겠습니다.
+- 영문초록(약 290단어)과 주제어(8개)의 학회 기준은 아직 확인하지 못했습니다(v2.3 참조).
