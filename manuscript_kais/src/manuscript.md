@@ -295,7 +295,7 @@ E1은 국면이 아니라 기록으로 확인되는 사건 또는 짧은 구간�
 ## 3.2 상태공간 모형으로서의 정의
 
 DTTM의 상태 집합은 기존 체제 안의 다섯 상태와 신규 체제 안의 두 상태로
-이루어진다.
+이루어진다(식 (1)).
 
 $$\mathcal{S} = \{(R_0,B),\ (R_0,S0),\ (R_0,S1),\ (R_0,S2),\ (R_0,S3),\ (R_1,N),\ (R_1,S4)\} \qquad (1)$$
 
@@ -308,7 +308,7 @@ $$\tau_{ij}(t) = P(S_{t+1} = j \mid S_t = i,\ x_t), \qquad E1 \equiv (R_0,\cdot)
 이 정의에서 이론의 실질적 주장은 국면의 순서가 아니라 세 가지이다. ①
 국면마다 전이확률 τᵢⱼ의 구조가 다르다. ② 그 차이는 비용·관성·계기 변수
 xₜ로 설명된다. ③ 특정 국면(S2·S3)에서 전이 위험이 비선형적으로 변한다.
-관례에 따라 “6국면”이라는 명칭을 쓰지만, 이는 다섯 개의 잠재 국면(S0\~S3, S4)과 한 개의 전환 사건(E1)을 가리키는 상태공간의 원소 명칭이며, 여섯 단계를 반드시 통과한다는 뜻이 아니다. B(기저 안정)와 N(전이 직후 미안정)은 6국면 명칭에 포함되지 않지만 각 체제의 출발점을 나타내기 위해 덧붙인 부가 상태(auxiliary state)이다. 두 상태도 국면 층의 값이므로, 본문에서는 편의상 ‘N 국면’처럼 부르기도 한다.
+관례에 따라 “6국면”이라는 명칭을 쓰지만, 이는 다섯 개의 잠재 국면(S0\~S3, S4)과 한 개의 전환 사건(E1)을 가리키는 상태공간의 원소 명칭이며, 여섯 단계를 반드시 통과한다는 뜻이 아니다. B(기저 안정)와 N(전이 직후 미안정)은 6국면 명칭에 포함되지 않지만 각 체제의 출발점을 나타내기 위해 덧붙인 부가 상태(auxiliary state)이다. 두 상태도 국면 층의 값이므로, 본문에서는 편의상 ‘N 국면’처럼 부르기도 한다. Fig. 1은 이 상태들과 그 사이의 주요 이동 경로를 나타낸 것이다.
 
 ![](figures/fig1_en.png){width="6.3in"}
 
@@ -998,7 +998,7 @@ DTTM의 검증은 한 번의 연구로 끝나지 않는다. Table 6은 다섯 �
 
 \[17\] M. A. Helmich, M. J. Schreuder, L. F. Bringmann, et al., "Slow down and be critical before using early warning signals in psychopathology", *Nature Reviews Psychology*, Vol.3, No.11, pp.767-780, 2024. DOI: https://doi.org/10.1038/s44159-024-00369-y
 
-\[18\] 안정원, 이순묵, "Evaluation of the Three-Component Model of Organizational Commitment in South Korea: Exploratory Structural Equation Modeling (ESEM) Approach", *Korean Journal of Industrial and Organizational Psychology*, Vol.28, No.4, pp.795-827, 2015. DOI: https://doi.org/10.24230/ksiop.28.4.201511.795
+\[18\] J. Ahn, S. Lee, "Evaluation of the Three-Component Model of Organizational Commitment in South Korea: Exploratory Structural Equation Modeling (ESEM) Approach", *Korean Journal of Industrial and Organizational Psychology*, Vol.28, No.4, pp.795-827, 2015. DOI: https://doi.org/10.24230/ksiop.28.4.201511.795
 
 \[19\] P. S. Yang, H. R. Kim, "A Study on the Antecedents and Consequences of Acceptance of Organizational Change", *Journal of Digital Convergence*, Vol.20, No.4, pp.247-260, 2022. DOI: https://doi.org/10.14400/JDC.2022.20.4.247
 
