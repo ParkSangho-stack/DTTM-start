@@ -42,11 +42,14 @@ def set_font(style, size, bold=None):
 def para_style(doc, name, size, bold=None, align=None, before=0, after=4,
                line=1.5, indent_first=None, left=None, right=None):
     styles = doc.styles
-    try:
-        st = styles[name]
-    except KeyError:
-        st = styles.add_style(name, 1)
-        st.base_style = styles["Normal"]
+    # pandoc 기본 양식은 'Heading 1'처럼 대문자 이름을 써서 이름으로는 못 찾을 수 있으므로 id로 먼저 찾음
+    st = next((s for s in styles if s.style_id == name.replace(" ", "")), None)
+    if st is None:
+        try:
+            st = styles[name]
+        except KeyError:
+            st = styles.add_style(name, 1)
+            st.base_style = styles["Normal"]
     set_font(st, size, bold)
     pf = st.paragraph_format
     pf.space_before, pf.space_after, pf.line_spacing = Pt(before), Pt(after), line
@@ -80,8 +83,8 @@ def make_reference(path):
     para_style(doc, "Heading 3", 10, bold=True, before=6, after=3, line=1.3)
     para_style(doc, "Captioned Figure", 10, align=C, after=2)
     para_style(doc, "Bibliography", 9, align=J, after=3, line=1.3)
-    for name in ("Heading 1", "Heading 2", "Heading 3", "Title", "Subtitle"):
-        doc.styles[name].font.italic = False
+    for sid in ("Heading1", "Heading2", "Heading3", "Title", "Subtitle"):
+        next(s for s in doc.styles if s.style_id == sid).font.italic = False
     sec = doc.sections[0]
     sec.page_width, sec.page_height = Mm(210), Mm(297)
     sec.left_margin = sec.right_margin = Mm(25)
